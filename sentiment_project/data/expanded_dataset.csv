@@ -1,0 +1,568 @@
+id,text,sentiment,domain,gloss_en,source
+1001,Ee movie bahut sundar hai sariyagi,positive,movies,,synthetic_template
+1002,Ee movie tumba maja bantu anisutte,positive,movies,,synthetic_template
+1003,Ee movie tumba chennagide guru,positive,movies,,synthetic_template
+1004,Naale release aada film chennagi nadeyithu yaar,positive,movies,,synthetic_template
+1005,Naale release aada film bahut achha hai aaithu,positive,movies,,synthetic_template
+1006,Idu naanu nodida sinima tumba ista aaythu gothilla,positive,movies,,synthetic_template
+1007,Idu naanu nodida sinima super aagide anisutte,positive,movies,,synthetic_template
+1008,Ee movie bahut achha hai anisutte,positive,movies,,synthetic_template
+1009,Ee movie tumba ista aaythu yaar,positive,movies,,synthetic_template
+1010,Naale release aada film bahut khush aagide yaar,positive,movies,,synthetic_template
+1011,Ee movie zabardast aagide anisutte,positive,movies,,synthetic_template
+1012,Naale release aada film tumba chennagide guru,positive,movies,,synthetic_template
+1013,Idu naanu nodida sinima bahut achha hai guru,positive,movies,,synthetic_template
+1014,Ee movie super aagide gothilla,positive,movies,,synthetic_template
+1015,Naale release aada film tumba ista aaythu guru,positive,movies,,synthetic_template
+1016,Naale release aada film sariyagi aagalilla aaithu,negative,movies,,synthetic_template
+1017,Naale release aada film waste aaythu anisutte,negative,movies,,synthetic_template
+1018,Idu naanu nodida sinima sariyagi aagalilla yaar,negative,movies,,synthetic_template
+1019,Naale release aada film tumba problem aagide anisutte,negative,movies,,synthetic_template
+1020,Ee movie bahut kharab hai anisutte,negative,movies,,synthetic_template
+1021,Idu naanu nodida sinima tumba kashta aagide yaar,negative,movies,,synthetic_template
+1022,Idu naanu nodida sinima bahut bekaar hai aaithu,negative,movies,,synthetic_template
+1023,Naale release aada film tumba ganda aagide anisutte,negative,movies,,synthetic_template
+1024,Idu naanu nodida sinima bahut tension aagide aaithu,negative,movies,,synthetic_template
+1025,Ee movie bahut tension aagide aaithu,negative,movies,,synthetic_template
+1026,Idu naanu nodida sinima tumba ganda aagide aaithu,negative,movies,,synthetic_template
+1027,Naale release aada film bahut tension aagide guru,negative,movies,,synthetic_template
+1028,Ee movie bahut bekaar hai sariyagi,negative,movies,,synthetic_template
+1029,Naale release aada film bahut bekaar hai aaithu,negative,movies,,synthetic_template
+1030,Ee movie tumba kashta aagide yaar,negative,movies,,synthetic_template
+1031,Ee movie sariyagi helakke aagalla gothilla,neutral,movies,,synthetic_template
+1032,Idu naanu nodida sinima average level hai aaithu,neutral,movies,,synthetic_template
+1033,Naale release aada film normal irodu gothilla,neutral,movies,,synthetic_template
+1034,Naale release aada film regular aagide yaar,neutral,movies,,synthetic_template
+1035,Idu naanu nodida sinima thike ansutte anisutte,neutral,movies,,synthetic_template
+1036,Ee movie thike ansutte yaar,neutral,movies,,synthetic_template
+1037,Idu naanu nodida sinima normal irodu yaar,neutral,movies,,synthetic_template
+1038,Idu naanu nodida sinima kelavu thike kelavu illa aaithu,neutral,movies,,synthetic_template
+1039,Naale release aada film usual routine ide sariyagi,neutral,movies,,synthetic_template
+1040,Ee movie so-so aagide sariyagi,neutral,movies,,synthetic_template
+1041,Idu naanu nodida sinima so-so aagide anisutte,neutral,movies,,synthetic_template
+1042,Idu naanu nodida sinima regular aagide aaithu,neutral,movies,,synthetic_template
+1043,Naale release aada film average level hai sariyagi,neutral,movies,,synthetic_template
+1044,Naale release aada film so-so aagide gothilla,neutral,movies,,synthetic_template
+1045,Ee movie usual routine ide sariyagi,neutral,movies,,synthetic_template
+1046,Ee cafe menu bahut sundar hai guru,positive,food,,synthetic_template
+1047,Ee cafe menu tumba maja bantu anisutte,positive,food,,synthetic_template
+1048,Ee cafe menu tumba chennagide gothilla,positive,food,,synthetic_template
+1049,Ee cafe menu zabardast aagide yaar,positive,food,,synthetic_template
+1050,Ee cafe menu bahut khush aagide gothilla,positive,food,,synthetic_template
+1051,Idu ee restaurant food tumba chennagide guru,positive,food,,synthetic_template
+1052,Amma banda oota bahut achha hai aaithu,positive,food,,synthetic_template
+1053,Amma banda oota chennagi nadeyithu aaithu,positive,food,,synthetic_template
+1054,Idu ee restaurant food chennagi nadeyithu anisutte,positive,food,,synthetic_template
+1055,Ee cafe menu tumba ista aaythu sariyagi,positive,food,,synthetic_template
+1056,Amma banda oota super aagide yaar,positive,food,,synthetic_template
+1057,Ee cafe menu chennagi nadeyithu sariyagi,positive,food,,synthetic_template
+1058,Idu ee restaurant food tumba ista aaythu guru,positive,food,,synthetic_template
+1059,Ee cafe menu bahut achha hai aaithu,positive,food,,synthetic_template
+1060,Amma banda oota tumba chennagide anisutte,positive,food,,synthetic_template
+1061,Amma banda oota tumba problem aagide yaar,negative,food,,synthetic_template
+1062,Idu ee restaurant food waste aaythu aaithu,negative,food,,synthetic_template
+1063,Ee cafe menu bahut tension aagide gothilla,negative,food,,synthetic_template
+1064,Amma banda oota sariyagi aagalilla sariyagi,negative,food,,synthetic_template
+1065,Ee cafe menu tumba kashta aagide yaar,negative,food,,synthetic_template
+1066,Idu ee restaurant food disappoint aaythu anisutte,negative,food,,synthetic_template
+1067,Amma banda oota bahut bekaar hai sariyagi,negative,food,,synthetic_template
+1068,Amma banda oota tumba ganda aagide sariyagi,negative,food,,synthetic_template
+1069,Amma banda oota bahut tension aagide gothilla,negative,food,,synthetic_template
+1070,Idu ee restaurant food tumba problem aagide yaar,negative,food,,synthetic_template
+1071,Ee cafe menu tumba problem aagide sariyagi,negative,food,,synthetic_template
+1072,Ee cafe menu sariyagi aagalilla aaithu,negative,food,,synthetic_template
+1073,Idu ee restaurant food bahut kharab hai aaithu,negative,food,,synthetic_template
+1074,Ee cafe menu tumba ganda aagide yaar,negative,food,,synthetic_template
+1075,Idu ee restaurant food tumba kashta aagide aaithu,negative,food,,synthetic_template
+1076,Ee cafe menu so-so aagide yaar,neutral,food,,synthetic_template
+1077,Idu ee restaurant food sariyagi helakke aagalla guru,neutral,food,,synthetic_template
+1078,Idu ee restaurant food normal irodu guru,neutral,food,,synthetic_template
+1079,Idu ee restaurant food kelavu thike kelavu illa anisutte,neutral,food,,synthetic_template
+1080,Amma banda oota normal irodu guru,neutral,food,,synthetic_template
+1081,Ee cafe menu kelavu thike kelavu illa sariyagi,neutral,food,,synthetic_template
+1082,Idu ee restaurant food average level hai yaar,neutral,food,,synthetic_template
+1083,Amma banda oota usual routine ide anisutte,neutral,food,,synthetic_template
+1084,Amma banda oota regular aagide aaithu,neutral,food,,synthetic_template
+1085,Ee cafe menu sariyagi helakke aagalla gothilla,neutral,food,,synthetic_template
+1086,Idu ee restaurant food regular aagide yaar,neutral,food,,synthetic_template
+1087,Idu ee restaurant food usual routine ide sariyagi,neutral,food,,synthetic_template
+1088,Idu ee restaurant food thike ansutte yaar,neutral,food,,synthetic_template
+1089,Ee cafe menu thike ansutte aaithu,neutral,food,,synthetic_template
+1090,Amma banda oota sariyagi helakke aagalla sariyagi,neutral,food,,synthetic_template
+1091,Auto ride bahut achha hai sariyagi,positive,traffic,,synthetic_template
+1092,Bus route super aagide gothilla,positive,traffic,,synthetic_template
+1093,Idu aaj signal alli traffic bahut khush aagide yaar,positive,traffic,,synthetic_template
+1094,Bus route tumba chennagide gothilla,positive,traffic,,synthetic_template
+1095,Idu aaj signal alli traffic chennagi nadeyithu yaar,positive,traffic,,synthetic_template
+1096,Idu aaj signal alli traffic zabardast aagide anisutte,positive,traffic,,synthetic_template
+1097,Idu aaj signal alli traffic super aagide gothilla,positive,traffic,,synthetic_template
+1098,Auto ride tumba maja bantu yaar,positive,traffic,,synthetic_template
+1099,Bus route tumba maja bantu guru,positive,traffic,,synthetic_template
+1100,Idu aaj signal alli traffic bahut achha hai gothilla,positive,traffic,,synthetic_template
+1101,Bus route bahut achha hai sariyagi,positive,traffic,,synthetic_template
+1102,Idu aaj signal alli traffic tumba chennagide guru,positive,traffic,,synthetic_template
+1103,Bus route chennagi nadeyithu guru,positive,traffic,,synthetic_template
+1104,Auto ride super aagide aaithu,positive,traffic,,synthetic_template
+1105,Auto ride tumba ista aaythu sariyagi,positive,traffic,,synthetic_template
+1106,Idu aaj signal alli traffic tumba problem aagide aaithu,negative,traffic,,synthetic_template
+1107,Bus route tumba ganda aagide anisutte,negative,traffic,,synthetic_template
+1108,Auto ride tumba problem aagide guru,negative,traffic,,synthetic_template
+1109,Auto ride bahut kharab hai guru,negative,traffic,,synthetic_template
+1110,Auto ride bahut bekaar hai sariyagi,negative,traffic,,synthetic_template
+1111,Idu aaj signal alli traffic disappoint aaythu gothilla,negative,traffic,,synthetic_template
+1112,Bus route tumba kashta aagide sariyagi,negative,traffic,,synthetic_template
+1113,Bus route bahut kharab hai sariyagi,negative,traffic,,synthetic_template
+1114,Bus route disappoint aaythu yaar,negative,traffic,,synthetic_template
+1115,Bus route waste aaythu guru,negative,traffic,,synthetic_template
+1116,Auto ride sariyagi aagalilla sariyagi,negative,traffic,,synthetic_template
+1117,Idu aaj signal alli traffic bahut tension aagide guru,negative,traffic,,synthetic_template
+1118,Bus route sariyagi aagalilla yaar,negative,traffic,,synthetic_template
+1119,Auto ride tumba kashta aagide guru,negative,traffic,,synthetic_template
+1120,Auto ride tumba ganda aagide sariyagi,negative,traffic,,synthetic_template
+1121,Idu aaj signal alli traffic regular aagide yaar,neutral,traffic,,synthetic_template
+1122,Bus route usual routine ide aaithu,neutral,traffic,,synthetic_template
+1123,Auto ride thike ansutte aaithu,neutral,traffic,,synthetic_template
+1124,Auto ride regular aagide anisutte,neutral,traffic,,synthetic_template
+1125,Bus route sariyagi helakke aagalla gothilla,neutral,traffic,,synthetic_template
+1126,Bus route kelavu thike kelavu illa anisutte,neutral,traffic,,synthetic_template
+1127,Bus route so-so aagide guru,neutral,traffic,,synthetic_template
+1128,Auto ride so-so aagide guru,neutral,traffic,,synthetic_template
+1129,Idu aaj signal alli traffic average level hai gothilla,neutral,traffic,,synthetic_template
+1130,Idu aaj signal alli traffic usual routine ide sariyagi,neutral,traffic,,synthetic_template
+1131,Bus route regular aagide sariyagi,neutral,traffic,,synthetic_template
+1132,Auto ride average level hai guru,neutral,traffic,,synthetic_template
+1133,Bus route thike ansutte guru,neutral,traffic,,synthetic_template
+1134,Bus route normal irodu sariyagi,neutral,traffic,,synthetic_template
+1135,Idu aaj signal alli traffic kelavu thike kelavu illa yaar,neutral,traffic,,synthetic_template
+1136,Ee phone tumba chennagide sariyagi,positive,shopping,,synthetic_template
+1137,Ee online order tumba maja bantu yaar,positive,shopping,,synthetic_template
+1138,Idu naanu tegedukonda item tumba maja bantu aaithu,positive,shopping,,synthetic_template
+1139,Ee phone chennagi nadeyithu anisutte,positive,shopping,,synthetic_template
+1140,Ee phone tumba maja bantu yaar,positive,shopping,,synthetic_template
+1141,Idu naanu tegedukonda item tumba ista aaythu aaithu,positive,shopping,,synthetic_template
+1142,Ee online order tumba ista aaythu aaithu,positive,shopping,,synthetic_template
+1143,Ee phone zabardast aagide anisutte,positive,shopping,,synthetic_template
+1144,Ee phone bahut khush aagide sariyagi,positive,shopping,,synthetic_template
+1145,Idu naanu tegedukonda item bahut achha hai gothilla,positive,shopping,,synthetic_template
+1146,Ee online order chennagi nadeyithu anisutte,positive,shopping,,synthetic_template
+1147,Ee phone tumba ista aaythu guru,positive,shopping,,synthetic_template
+1148,Ee phone bahut sundar hai guru,positive,shopping,,synthetic_template
+1149,Ee online order bahut khush aagide aaithu,positive,shopping,,synthetic_template
+1150,Ee online order bahut achha hai gothilla,positive,shopping,,synthetic_template
+1151,Idu naanu tegedukonda item bahut bekaar hai anisutte,negative,shopping,,synthetic_template
+1152,Ee phone tumba problem aagide yaar,negative,shopping,,synthetic_template
+1153,Ee phone bahut tension aagide aaithu,negative,shopping,,synthetic_template
+1154,Idu naanu tegedukonda item tumba kashta aagide yaar,negative,shopping,,synthetic_template
+1155,Ee online order tumba ganda aagide aaithu,negative,shopping,,synthetic_template
+1156,Ee online order tumba kashta aagide guru,negative,shopping,,synthetic_template
+1157,Idu naanu tegedukonda item tumba problem aagide anisutte,negative,shopping,,synthetic_template
+1158,Ee online order tumba problem aagide sariyagi,negative,shopping,,synthetic_template
+1159,Ee phone tumba ganda aagide gothilla,negative,shopping,,synthetic_template
+1160,Ee online order bahut bekaar hai sariyagi,negative,shopping,,synthetic_template
+1161,Ee phone bahut kharab hai aaithu,negative,shopping,,synthetic_template
+1162,Idu naanu tegedukonda item waste aaythu yaar,negative,shopping,,synthetic_template
+1163,Ee online order waste aaythu yaar,negative,shopping,,synthetic_template
+1164,Ee online order disappoint aaythu yaar,negative,shopping,,synthetic_template
+1165,Ee phone bahut bekaar hai yaar,negative,shopping,,synthetic_template
+1166,Idu naanu tegedukonda item average level hai gothilla,neutral,shopping,,synthetic_template
+1167,Ee online order thike ansutte anisutte,neutral,shopping,,synthetic_template
+1168,Ee online order kelavu thike kelavu illa anisutte,neutral,shopping,,synthetic_template
+1169,Ee online order average level hai guru,neutral,shopping,,synthetic_template
+1170,Ee phone thike ansutte anisutte,neutral,shopping,,synthetic_template
+1171,Idu naanu tegedukonda item thike ansutte anisutte,neutral,shopping,,synthetic_template
+1172,Idu naanu tegedukonda item normal irodu aaithu,neutral,shopping,,synthetic_template
+1173,Ee phone regular aagide sariyagi,neutral,shopping,,synthetic_template
+1174,Ee online order so-so aagide gothilla,neutral,shopping,,synthetic_template
+1175,Ee phone average level hai aaithu,neutral,shopping,,synthetic_template
+1176,Ee online order sariyagi helakke aagalla sariyagi,neutral,shopping,,synthetic_template
+1177,Ee phone normal irodu anisutte,neutral,shopping,,synthetic_template
+1178,Ee phone kelavu thike kelavu illa guru,neutral,shopping,,synthetic_template
+1179,Ee phone so-so aagide guru,neutral,shopping,,synthetic_template
+1180,Idu naanu tegedukonda item kelavu thike kelavu illa anisutte,neutral,shopping,,synthetic_template
+1181,Ee project tumba maja bantu aaithu,positive,work,,synthetic_template
+1182,Ee project super aagide guru,positive,work,,synthetic_template
+1183,Ee project chennagi nadeyithu aaithu,positive,work,,synthetic_template
+1184,Nanna kelsa chennagi nadeyithu anisutte,positive,work,,synthetic_template
+1185,Ee project tumba ista aaythu sariyagi,positive,work,,synthetic_template
+1186,Idu office meeting bahut sundar hai anisutte,positive,work,,synthetic_template
+1187,Idu office meeting zabardast aagide aaithu,positive,work,,synthetic_template
+1188,Nanna kelsa tumba maja bantu gothilla,positive,work,,synthetic_template
+1189,Ee project bahut sundar hai anisutte,positive,work,,synthetic_template
+1190,Nanna kelsa super aagide gothilla,positive,work,,synthetic_template
+1191,Idu office meeting tumba chennagide aaithu,positive,work,,synthetic_template
+1192,Idu office meeting bahut khush aagide anisutte,positive,work,,synthetic_template
+1193,Nanna kelsa tumba ista aaythu sariyagi,positive,work,,synthetic_template
+1194,Nanna kelsa tumba chennagide yaar,positive,work,,synthetic_template
+1195,Idu office meeting tumba ista aaythu yaar,positive,work,,synthetic_template
+1196,Nanna kelsa sariyagi aagalilla aaithu,negative,work,,synthetic_template
+1197,Nanna kelsa tumba kashta aagide guru,negative,work,,synthetic_template
+1198,Idu office meeting waste aaythu anisutte,negative,work,,synthetic_template
+1199,Ee project waste aaythu sariyagi,negative,work,,synthetic_template
+1200,Idu office meeting bahut kharab hai aaithu,negative,work,,synthetic_template
+1201,Nanna kelsa bahut kharab hai aaithu,negative,work,,synthetic_template
+1202,Ee project disappoint aaythu sariyagi,negative,work,,synthetic_template
+1203,Idu office meeting disappoint aaythu anisutte,negative,work,,synthetic_template
+1204,Idu office meeting tumba kashta aagide guru,negative,work,,synthetic_template
+1205,Ee project bahut tension aagide yaar,negative,work,,synthetic_template
+1206,Nanna kelsa waste aaythu aaithu,negative,work,,synthetic_template
+1207,Nanna kelsa bahut bekaar hai anisutte,negative,work,,synthetic_template
+1208,Idu office meeting bahut bekaar hai yaar,negative,work,,synthetic_template
+1209,Idu office meeting tumba problem aagide yaar,negative,work,,synthetic_template
+1210,Idu office meeting bahut tension aagide yaar,negative,work,,synthetic_template
+1211,Nanna kelsa regular aagide guru,neutral,work,,synthetic_template
+1212,Idu office meeting average level hai sariyagi,neutral,work,,synthetic_template
+1213,Idu office meeting usual routine ide yaar,neutral,work,,synthetic_template
+1214,Ee project kelavu thike kelavu illa guru,neutral,work,,synthetic_template
+1215,Nanna kelsa thike ansutte gothilla,neutral,work,,synthetic_template
+1216,Ee project regular aagide yaar,neutral,work,,synthetic_template
+1217,Nanna kelsa normal irodu gothilla,neutral,work,,synthetic_template
+1218,Ee project sariyagi helakke aagalla aaithu,neutral,work,,synthetic_template
+1219,Ee project normal irodu sariyagi,neutral,work,,synthetic_template
+1220,Idu office meeting so-so aagide sariyagi,neutral,work,,synthetic_template
+1221,Nanna kelsa average level hai sariyagi,neutral,work,,synthetic_template
+1222,Ee project usual routine ide anisutte,neutral,work,,synthetic_template
+1223,Ee project average level hai gothilla,neutral,work,,synthetic_template
+1224,Ee project thike ansutte sariyagi,neutral,work,,synthetic_template
+1225,Nanna kelsa so-so aagide aaithu,neutral,work,,synthetic_template
+1226,Hotel stay zabardast aagide yaar,positive,travel,,synthetic_template
+1227,Hotel stay bahut khush aagide gothilla,positive,travel,,synthetic_template
+1228,Hotel stay tumba ista aaythu aaithu,positive,travel,,synthetic_template
+1229,Idu weekend trip tumba chennagide yaar,positive,travel,,synthetic_template
+1230,Flight journey zabardast aagide aaithu,positive,travel,,synthetic_template
+1231,Idu weekend trip tumba ista aaythu yaar,positive,travel,,synthetic_template
+1232,Idu weekend trip zabardast aagide guru,positive,travel,,synthetic_template
+1233,Flight journey tumba chennagide gothilla,positive,travel,,synthetic_template
+1234,Hotel stay bahut sundar hai gothilla,positive,travel,,synthetic_template
+1235,Flight journey tumba maja bantu anisutte,positive,travel,,synthetic_template
+1236,Idu weekend trip bahut achha hai sariyagi,positive,travel,,synthetic_template
+1237,Hotel stay tumba chennagide gothilla,positive,travel,,synthetic_template
+1238,Idu weekend trip bahut khush aagide gothilla,positive,travel,,synthetic_template
+1239,Idu weekend trip tumba maja bantu guru,positive,travel,,synthetic_template
+1240,Flight journey bahut achha hai yaar,positive,travel,,synthetic_template
+1241,Idu weekend trip sariyagi aagalilla anisutte,negative,travel,,synthetic_template
+1242,Flight journey sariyagi aagalilla aaithu,negative,travel,,synthetic_template
+1243,Flight journey disappoint aaythu aaithu,negative,travel,,synthetic_template
+1244,Idu weekend trip bahut tension aagide gothilla,negative,travel,,synthetic_template
+1245,Flight journey bahut kharab hai aaithu,negative,travel,,synthetic_template
+1246,Idu weekend trip waste aaythu yaar,negative,travel,,synthetic_template
+1247,Idu weekend trip bahut kharab hai gothilla,negative,travel,,synthetic_template
+1248,Idu weekend trip tumba kashta aagide yaar,negative,travel,,synthetic_template
+1249,Idu weekend trip tumba problem aagide sariyagi,negative,travel,,synthetic_template
+1250,Hotel stay waste aaythu sariyagi,negative,travel,,synthetic_template
+1251,Flight journey tumba kashta aagide guru,negative,travel,,synthetic_template
+1252,Idu weekend trip disappoint aaythu gothilla,negative,travel,,synthetic_template
+1253,Hotel stay tumba kashta aagide sariyagi,negative,travel,,synthetic_template
+1254,Idu weekend trip bahut bekaar hai sariyagi,negative,travel,,synthetic_template
+1255,Hotel stay bahut kharab hai aaithu,negative,travel,,synthetic_template
+1256,Flight journey so-so aagide aaithu,neutral,travel,,synthetic_template
+1257,Flight journey thike ansutte sariyagi,neutral,travel,,synthetic_template
+1258,Hotel stay regular aagide guru,neutral,travel,,synthetic_template
+1259,Hotel stay sariyagi helakke aagalla anisutte,neutral,travel,,synthetic_template
+1260,Hotel stay kelavu thike kelavu illa yaar,neutral,travel,,synthetic_template
+1261,Flight journey average level hai aaithu,neutral,travel,,synthetic_template
+1262,Flight journey sariyagi helakke aagalla guru,neutral,travel,,synthetic_template
+1263,Hotel stay so-so aagide aaithu,neutral,travel,,synthetic_template
+1264,Hotel stay normal irodu guru,neutral,travel,,synthetic_template
+1265,Flight journey normal irodu guru,neutral,travel,,synthetic_template
+1266,Hotel stay usual routine ide yaar,neutral,travel,,synthetic_template
+1267,Idu weekend trip sariyagi helakke aagalla yaar,neutral,travel,,synthetic_template
+1268,Idu weekend trip so-so aagide guru,neutral,travel,,synthetic_template
+1269,Hotel stay thike ansutte sariyagi,neutral,travel,,synthetic_template
+1270,Idu weekend trip kelavu thike kelavu illa yaar,neutral,travel,,synthetic_template
+1271,Ee class bahut achha hai guru,positive,education,,synthetic_template
+1272,Nanna results super aagide sariyagi,positive,education,,synthetic_template
+1273,Nanna results bahut achha hai aaithu,positive,education,,synthetic_template
+1274,Nanna results zabardast aagide aaithu,positive,education,,synthetic_template
+1275,Nanna results tumba ista aaythu yaar,positive,education,,synthetic_template
+1276,Ee class bahut sundar hai guru,positive,education,,synthetic_template
+1277,Nanna results chennagi nadeyithu aaithu,positive,education,,synthetic_template
+1278,Ee class chennagi nadeyithu anisutte,positive,education,,synthetic_template
+1279,Idu naale exam tumba chennagide aaithu,positive,education,,synthetic_template
+1280,Ee class tumba chennagide sariyagi,positive,education,,synthetic_template
+1281,Idu naale exam bahut achha hai guru,positive,education,,synthetic_template
+1282,Nanna results bahut sundar hai sariyagi,positive,education,,synthetic_template
+1283,Idu naale exam zabardast aagide guru,positive,education,,synthetic_template
+1284,Ee class bahut khush aagide anisutte,positive,education,,synthetic_template
+1285,Ee class tumba maja bantu sariyagi,positive,education,,synthetic_template
+1286,Nanna results bahut kharab hai anisutte,negative,education,,synthetic_template
+1287,Idu naale exam disappoint aaythu yaar,negative,education,,synthetic_template
+1288,Idu naale exam bahut kharab hai guru,negative,education,,synthetic_template
+1289,Ee class sariyagi aagalilla anisutte,negative,education,,synthetic_template
+1290,Nanna results bahut tension aagide gothilla,negative,education,,synthetic_template
+1291,Ee class tumba ganda aagide yaar,negative,education,,synthetic_template
+1292,Ee class tumba problem aagide gothilla,negative,education,,synthetic_template
+1293,Idu naale exam bahut tension aagide sariyagi,negative,education,,synthetic_template
+1294,Ee class disappoint aaythu sariyagi,negative,education,,synthetic_template
+1295,Idu naale exam bahut bekaar hai aaithu,negative,education,,synthetic_template
+1296,Nanna results sariyagi aagalilla gothilla,negative,education,,synthetic_template
+1297,Nanna results bahut bekaar hai anisutte,negative,education,,synthetic_template
+1298,Idu naale exam tumba kashta aagide guru,negative,education,,synthetic_template
+1299,Nanna results tumba kashta aagide gothilla,negative,education,,synthetic_template
+1300,Idu naale exam sariyagi aagalilla anisutte,negative,education,,synthetic_template
+1301,Ee class average level hai anisutte,neutral,education,,synthetic_template
+1302,Idu naale exam normal irodu yaar,neutral,education,,synthetic_template
+1303,Nanna results kelavu thike kelavu illa gothilla,neutral,education,,synthetic_template
+1304,Idu naale exam average level hai aaithu,neutral,education,,synthetic_template
+1305,Nanna results normal irodu yaar,neutral,education,,synthetic_template
+1306,Ee class thike ansutte anisutte,neutral,education,,synthetic_template
+1307,Nanna results sariyagi helakke aagalla aaithu,neutral,education,,synthetic_template
+1308,Nanna results average level hai sariyagi,neutral,education,,synthetic_template
+1309,Ee class kelavu thike kelavu illa anisutte,neutral,education,,synthetic_template
+1310,Idu naale exam sariyagi helakke aagalla gothilla,neutral,education,,synthetic_template
+1311,Nanna results usual routine ide sariyagi,neutral,education,,synthetic_template
+1312,Ee class usual routine ide sariyagi,neutral,education,,synthetic_template
+1313,Idu naale exam thike ansutte anisutte,neutral,education,,synthetic_template
+1314,Idu naale exam so-so aagide gothilla,neutral,education,,synthetic_template
+1315,Nanna results regular aagide aaithu,neutral,education,,synthetic_template
+1316,Birthday party super aagide anisutte,positive,events,,synthetic_template
+1317,Ee concert tumba maja bantu yaar,positive,events,,synthetic_template
+1318,Idu family function tumba chennagide anisutte,positive,events,,synthetic_template
+1319,Ee concert bahut sundar hai yaar,positive,events,,synthetic_template
+1320,Idu family function bahut khush aagide anisutte,positive,events,,synthetic_template
+1321,Idu family function super aagide guru,positive,events,,synthetic_template
+1322,Ee concert tumba ista aaythu aaithu,positive,events,,synthetic_template
+1323,Birthday party tumba chennagide sariyagi,positive,events,,synthetic_template
+1324,Birthday party zabardast aagide yaar,positive,events,,synthetic_template
+1325,Birthday party chennagi nadeyithu anisutte,positive,events,,synthetic_template
+1326,Idu family function zabardast aagide guru,positive,events,,synthetic_template
+1327,Ee concert bahut khush aagide guru,positive,events,,synthetic_template
+1328,Birthday party bahut achha hai sariyagi,positive,events,,synthetic_template
+1329,Birthday party tumba ista aaythu anisutte,positive,events,,synthetic_template
+1330,Idu family function bahut achha hai aaithu,positive,events,,synthetic_template
+1331,Ee concert tumba kashta aagide guru,negative,events,,synthetic_template
+1332,Birthday party bahut tension aagide yaar,negative,events,,synthetic_template
+1333,Idu family function sariyagi aagalilla guru,negative,events,,synthetic_template
+1334,Birthday party bahut kharab hai sariyagi,negative,events,,synthetic_template
+1335,Idu family function disappoint aaythu gothilla,negative,events,,synthetic_template
+1336,Ee concert tumba problem aagide sariyagi,negative,events,,synthetic_template
+1337,Ee concert bahut tension aagide sariyagi,negative,events,,synthetic_template
+1338,Ee concert waste aaythu sariyagi,negative,events,,synthetic_template
+1339,Idu family function bahut bekaar hai yaar,negative,events,,synthetic_template
+1340,Ee concert disappoint aaythu sariyagi,negative,events,,synthetic_template
+1341,Idu family function bahut kharab hai gothilla,negative,events,,synthetic_template
+1342,Idu family function tumba kashta aagide gothilla,negative,events,,synthetic_template
+1343,Birthday party disappoint aaythu gothilla,negative,events,,synthetic_template
+1344,Birthday party tumba problem aagide anisutte,negative,events,,synthetic_template
+1345,Idu family function waste aaythu sariyagi,negative,events,,synthetic_template
+1346,Idu family function sariyagi helakke aagalla yaar,neutral,events,,synthetic_template
+1347,Birthday party regular aagide anisutte,neutral,events,,synthetic_template
+1348,Birthday party kelavu thike kelavu illa aaithu,neutral,events,,synthetic_template
+1349,Idu family function average level hai anisutte,neutral,events,,synthetic_template
+1350,Idu family function usual routine ide aaithu,neutral,events,,synthetic_template
+1351,Ee concert so-so aagide gothilla,neutral,events,,synthetic_template
+1352,Idu family function regular aagide guru,neutral,events,,synthetic_template
+1353,Ee concert kelavu thike kelavu illa aaithu,neutral,events,,synthetic_template
+1354,Birthday party sariyagi helakke aagalla yaar,neutral,events,,synthetic_template
+1355,Ee concert sariyagi helakke aagalla anisutte,neutral,events,,synthetic_template
+1356,Ee concert average level hai aaithu,neutral,events,,synthetic_template
+1357,Birthday party usual routine ide sariyagi,neutral,events,,synthetic_template
+1358,Idu family function normal irodu aaithu,neutral,events,,synthetic_template
+1359,Birthday party average level hai yaar,neutral,events,,synthetic_template
+1360,Ee concert normal irodu gothilla,neutral,events,,synthetic_template
+1361,Delivery service tumba ista aaythu sariyagi,positive,service,,synthetic_template
+1362,Ee shop staff bahut achha hai anisutte,positive,service,,synthetic_template
+1363,Delivery service bahut khush aagide guru,positive,service,,synthetic_template
+1364,Ee shop staff bahut sundar hai guru,positive,service,,synthetic_template
+1365,Ee shop staff tumba maja bantu yaar,positive,service,,synthetic_template
+1366,Idu customer care tumba chennagide aaithu,positive,service,,synthetic_template
+1367,Ee shop staff chennagi nadeyithu sariyagi,positive,service,,synthetic_template
+1368,Delivery service tumba maja bantu sariyagi,positive,service,,synthetic_template
+1369,Delivery service bahut achha hai guru,positive,service,,synthetic_template
+1370,Idu customer care tumba ista aaythu aaithu,positive,service,,synthetic_template
+1371,Ee shop staff super aagide anisutte,positive,service,,synthetic_template
+1372,Delivery service zabardast aagide sariyagi,positive,service,,synthetic_template
+1373,Delivery service super aagide guru,positive,service,,synthetic_template
+1374,Ee shop staff tumba chennagide yaar,positive,service,,synthetic_template
+1375,Ee shop staff tumba ista aaythu gothilla,positive,service,,synthetic_template
+1376,Ee shop staff sariyagi aagalilla anisutte,negative,service,,synthetic_template
+1377,Idu customer care bahut tension aagide anisutte,negative,service,,synthetic_template
+1378,Ee shop staff disappoint aaythu anisutte,negative,service,,synthetic_template
+1379,Idu customer care tumba ganda aagide guru,negative,service,,synthetic_template
+1380,Idu customer care tumba problem aagide gothilla,negative,service,,synthetic_template
+1381,Delivery service tumba ganda aagide sariyagi,negative,service,,synthetic_template
+1382,Delivery service tumba problem aagide guru,negative,service,,synthetic_template
+1383,Idu customer care tumba kashta aagide aaithu,negative,service,,synthetic_template
+1384,Idu customer care bahut bekaar hai sariyagi,negative,service,,synthetic_template
+1385,Delivery service disappoint aaythu gothilla,negative,service,,synthetic_template
+1386,Ee shop staff tumba problem aagide gothilla,negative,service,,synthetic_template
+1387,Idu customer care bahut kharab hai guru,negative,service,,synthetic_template
+1388,Delivery service bahut kharab hai yaar,negative,service,,synthetic_template
+1389,Ee shop staff bahut bekaar hai sariyagi,negative,service,,synthetic_template
+1390,Ee shop staff bahut tension aagide anisutte,negative,service,,synthetic_template
+1391,Delivery service usual routine ide guru,neutral,service,,synthetic_template
+1392,Ee shop staff normal irodu gothilla,neutral,service,,synthetic_template
+1393,Idu customer care usual routine ide guru,neutral,service,,synthetic_template
+1394,Ee shop staff thike ansutte aaithu,neutral,service,,synthetic_template
+1395,Delivery service normal irodu yaar,neutral,service,,synthetic_template
+1396,Ee shop staff regular aagide gothilla,neutral,service,,synthetic_template
+1397,Delivery service average level hai aaithu,neutral,service,,synthetic_template
+1398,Idu customer care normal irodu anisutte,neutral,service,,synthetic_template
+1399,Idu customer care so-so aagide sariyagi,neutral,service,,synthetic_template
+1400,Ee shop staff kelavu thike kelavu illa aaithu,neutral,service,,synthetic_template
+1401,Idu customer care regular aagide anisutte,neutral,service,,synthetic_template
+1402,Ee shop staff sariyagi helakke aagalla gothilla,neutral,service,,synthetic_template
+1403,Ee shop staff usual routine ide gothilla,neutral,service,,synthetic_template
+1404,Delivery service so-so aagide gothilla,neutral,service,,synthetic_template
+1405,Idu customer care sariyagi helakke aagalla yaar,neutral,service,,synthetic_template
+1406,Ee new phone app tumba ista aaythu sariyagi,positive,technology,,synthetic_template
+1407,Laptop performance tumba chennagide sariyagi,positive,technology,,synthetic_template
+1408,Idu wifi connection super aagide gothilla,positive,technology,,synthetic_template
+1409,Laptop performance zabardast aagide gothilla,positive,technology,,synthetic_template
+1410,Idu wifi connection tumba maja bantu anisutte,positive,technology,,synthetic_template
+1411,Idu wifi connection bahut achha hai yaar,positive,technology,,synthetic_template
+1412,Laptop performance bahut khush aagide aaithu,positive,technology,,synthetic_template
+1413,Idu wifi connection bahut sundar hai yaar,positive,technology,,synthetic_template
+1414,Ee new phone app tumba chennagide sariyagi,positive,technology,,synthetic_template
+1415,Ee new phone app zabardast aagide gothilla,positive,technology,,synthetic_template
+1416,Idu wifi connection tumba chennagide yaar,positive,technology,,synthetic_template
+1417,Laptop performance tumba maja bantu gothilla,positive,technology,,synthetic_template
+1418,Laptop performance bahut sundar hai guru,positive,technology,,synthetic_template
+1419,Laptop performance super aagide anisutte,positive,technology,,synthetic_template
+1420,Laptop performance chennagi nadeyithu aaithu,positive,technology,,synthetic_template
+1421,Idu wifi connection bahut bekaar hai anisutte,negative,technology,,synthetic_template
+1422,Ee new phone app tumba ganda aagide sariyagi,negative,technology,,synthetic_template
+1423,Ee new phone app disappoint aaythu aaithu,negative,technology,,synthetic_template
+1424,Laptop performance bahut kharab hai gothilla,negative,technology,,synthetic_template
+1425,Ee new phone app waste aaythu aaithu,negative,technology,,synthetic_template
+1426,Idu wifi connection sariyagi aagalilla guru,negative,technology,,synthetic_template
+1427,Idu wifi connection tumba problem aagide anisutte,negative,technology,,synthetic_template
+1428,Idu wifi connection waste aaythu aaithu,negative,technology,,synthetic_template
+1429,Idu wifi connection tumba ganda aagide sariyagi,negative,technology,,synthetic_template
+1430,Laptop performance sariyagi aagalilla gothilla,negative,technology,,synthetic_template
+1431,Idu wifi connection disappoint aaythu anisutte,negative,technology,,synthetic_template
+1432,Ee new phone app sariyagi aagalilla aaithu,negative,technology,,synthetic_template
+1433,Idu wifi connection tumba kashta aagide aaithu,negative,technology,,synthetic_template
+1434,Laptop performance tumba ganda aagide gothilla,negative,technology,,synthetic_template
+1435,Ee new phone app bahut tension aagide sariyagi,negative,technology,,synthetic_template
+1436,Ee new phone app regular aagide gothilla,neutral,technology,,synthetic_template
+1437,Ee new phone app sariyagi helakke aagalla yaar,neutral,technology,,synthetic_template
+1438,Ee new phone app kelavu thike kelavu illa yaar,neutral,technology,,synthetic_template
+1439,Idu wifi connection usual routine ide sariyagi,neutral,technology,,synthetic_template
+1440,Idu wifi connection kelavu thike kelavu illa gothilla,neutral,technology,,synthetic_template
+1441,Laptop performance kelavu thike kelavu illa sariyagi,neutral,technology,,synthetic_template
+1442,Laptop performance regular aagide aaithu,neutral,technology,,synthetic_template
+1443,Idu wifi connection regular aagide yaar,neutral,technology,,synthetic_template
+1444,Idu wifi connection average level hai yaar,neutral,technology,,synthetic_template
+1445,Laptop performance thike ansutte yaar,neutral,technology,,synthetic_template
+1446,Laptop performance normal irodu guru,neutral,technology,,synthetic_template
+1447,Laptop performance sariyagi helakke aagalla sariyagi,neutral,technology,,synthetic_template
+1448,Ee new phone app so-so aagide gothilla,neutral,technology,,synthetic_template
+1449,Ee new phone app normal irodu sariyagi,neutral,technology,,synthetic_template
+1450,Ee new phone app average level hai aaithu,neutral,technology,,synthetic_template
+1,Yeh movie tumba chennagide yaar bahut maza aaya,positive,movies,"This movie is very good, had a lot of fun",
+1_aug_tumba,Yeh movie bahut chennagide yaar bahut maza aaya,positive,movies,"This movie is very good, had a lot of fun",paraphrase_augmented
+1_aug_chennagide,Yeh movie tumba achha hai yaar bahut maza aaya,positive,movies,"This movie is very good, had a lot of fun",paraphrase_augmented
+2,Swalpa adjust madi traffic bahut zyada hai aaji,negative,traffic,"Please adjust a little, traffic is a lot today",
+3,Idu tumba bad quality item paisa waste ho gaya,negative,shopping,"This is very bad quality item, money got wasted",
+3_aug_tumba,Idu bahut bad quality item paisa waste ho gaya,negative,shopping,"This is very bad quality item, money got wasted",paraphrase_augmented
+4,Aaj weather chennagide thoda thanda bhi hai,positive,weather,"Today the weather is nice, a bit cold too",
+4_aug_chennagide,Aaj weather achha hai thoda thanda bhi hai,positive,weather,"Today the weather is nice, a bit cold too",paraphrase_augmented
+5,Office meeting kaafi lamba tha kelsa hogilla sariyagi,negative,work,"The office meeting was quite long, work didn't get done properly",
+5_aug_kelsa,Office meeting kaafi lamba tha kaam hogilla sariyagi,negative,work,"The office meeting was quite long, work didn't get done properly",paraphrase_augmented
+6,Idu ordinary sinima kelavu scene chennagide baaki so-so,neutral,movies,"This is an ordinary film, some scenes are nice, rest is so-so",
+6_aug_chennagide,Idu ordinary sinima kelavu scene achha hai baaki so-so,neutral,movies,"This is an ordinary film, some scenes are nice, rest is so-so",paraphrase_augmented
+7,Hostel food kammi hogide aaj thoda better tha,neutral,food,"Hostel food quantity has reduced, today it was a bit better",
+8,Auto driver bahut rude tha guru meter haakalilla,negative,transport,"The auto driver was very rude, didn't use the meter",
+9,Nange ee cafe tumba ista bahut hi nice ambience hai,positive,food,"I like this cafe a lot, has a very nice ambience",
+9_aug_tumba,Nange ee cafe bahut ista bahut hi nice ambience hai,positive,food,"I like this cafe a lot, has a very nice ambience",paraphrase_augmented
+9_aug_ista,Nange ee cafe tumba pasand bahut hi nice ambience hai,positive,food,"I like this cafe a lot, has a very nice ambience",paraphrase_augmented
+10,Kelsa maadodu kashta aagide manager galaate haakthidre,negative,work,"Work is becoming hard, manager keeps shouting",
+11,Idu naanu nodida best cricket match tha zabardast,positive,sports,"This is the best cricket match I've seen, awesome",
+12,Dukaan mucchidhe aaj bandh irbahudu heli anisutte,neutral,shopping,"The shop is closed, seems like it might be shut today",
+13,Amma banda oota tumba tasty tha maja bandtu,positive,food,"Mom made food that was very tasty, felt great",
+13_aug_tumba,Amma banda oota bahut tasty tha maja bandtu,positive,food,"Mom made food that was very tasty, felt great",paraphrase_augmented
+14,Signal alli bahut der tak kaayabeku traffic jaam aagide,negative,traffic,"Have to wait a long time at the signal, traffic is jammed",
+15,Idu normal phone hai kelavu feature chennagide baaki thike,neutral,shopping,"This is a normal phone, some features are good, rest is okay",
+15_aug_chennagide,Idu normal phone hai kelavu feature achha hai baaki thike,neutral,shopping,"This is a normal phone, some features are good, rest is okay",paraphrase_augmented
+16,Function tumba chennagi nadeyithu sabbaru khush aagidru,positive,events,"The function went very well, everyone was happy",
+16_aug_tumba,Function bahut chennagi nadeyithu sabbaru khush aagidru,positive,events,"The function went very well, everyone was happy",paraphrase_augmented
+17,Bus late aaytu office ge time ge hogalilla,negative,transport,"The bus was late, couldn't reach office on time",
+18,Idu naanu expect madidashtu chennagilla thoda disappoint aaythu,negative,movies,"This wasn't as good as I expected, a bit disappointed",
+18_aug_aaythu,Idu naanu expect madidashtu chennagilla thoda disappoint aaitu,negative,movies,"This wasn't as good as I expected, a bit disappointed",paraphrase_augmented
+19,Weekend trip tumba maja bantu photos kooda chennagide,positive,travel,"The weekend trip was a lot of fun, the photos are nice too",
+19_aug_tumba,Weekend trip bahut maja bantu photos kooda chennagide,positive,travel,"The weekend trip was a lot of fun, the photos are nice too",paraphrase_augmented
+19_aug_chennagide,Weekend trip tumba maja bantu photos kooda achha hai,positive,travel,"The weekend trip was a lot of fun, the photos are nice too",paraphrase_augmented
+20,Naale exam ide thoda tension aagide sariyagi padilla,negative,education,"Tomorrow there's an exam, feeling a bit tense, haven't studied properly",
+21,Idu ordinary restaurant hai kelavu dish thike baaki average,neutral,food,"This is an ordinary restaurant, some dishes are okay, rest average",
+22,Nanna new phone tumba chennagide camera bhi zabardast hai,positive,shopping,"My new phone is very good, the camera is also awesome",
+22_aug_tumba,Nanna new phone bahut chennagide camera bhi zabardast hai,positive,shopping,"My new phone is very good, the camera is also awesome",paraphrase_augmented
+22_aug_chennagide,Nanna new phone tumba achha hai camera bhi zabardast hai,positive,shopping,"My new phone is very good, the camera is also awesome",paraphrase_augmented
+23,Aaj mood sariyagi illa kelsa madoke man madilla,negative,personal,"Today the mood isn't right, don't feel like working",
+23_aug_kelsa,Aaj mood sariyagi illa kaam madoke man madilla,negative,personal,"Today the mood isn't right, don't feel like working",paraphrase_augmented
+24,Idu regular din irodu kelasa office traffic ellade normal,neutral,daily,"This is a regular day, work, office, traffic, everything normal",
+25,Concert tumba awesome tha crowd energy chennagide,positive,events,"The concert was very awesome, the crowd energy was great",
+25_aug_tumba,Concert bahut awesome tha crowd energy chennagide,positive,events,"The concert was very awesome, the crowd energy was great",paraphrase_augmented
+25_aug_chennagide,Concert tumba awesome tha crowd energy achha hai,positive,events,"The concert was very awesome, the crowd energy was great",paraphrase_augmented
+26,Internet slow aagide kelsa madoke bahut problem aagide,negative,technology,"The internet has become slow, causing a lot of problem to work",
+26_aug_kelsa,Internet slow aagide kaam madoke bahut problem aagide,negative,technology,"The internet has become slow, causing a lot of problem to work",paraphrase_augmented
+27,Idu naanu odida best book tha kathe tumba chennagide,positive,books,"This is the best book I've read, the story is very good",
+27_aug_tumba,Idu naanu odida best book tha kathe bahut chennagide,positive,books,"This is the best book I've read, the story is very good",paraphrase_augmented
+27_aug_chennagide,Idu naanu odida best book tha kathe tumba achha hai,positive,books,"This is the best book I've read, the story is very good",paraphrase_augmented
+28,Doctor appointment cancel aaythu wait madidru useless hogtu,negative,health,"The doctor appointment got cancelled, waiting was useless",
+28_aug_aaythu,Doctor appointment cancel aaitu wait madidru useless hogtu,negative,health,"The doctor appointment got cancelled, waiting was useless",paraphrase_augmented
+29,Idu simple design hai kelavu color thike baaki plain,neutral,shopping,"This is a simple design, some colors are okay, rest plain",
+30,Family function alli tumba khushi aaythu ellaru sernu maja madidvi,positive,events,"At the family function felt very happy, everyone got together and had fun",
+30_aug_tumba,Family function alli bahut khushi aaythu ellaru sernu maja madidvi,positive,events,"At the family function felt very happy, everyone got together and had fun",paraphrase_augmented
+30_aug_aaythu,Family function alli tumba khushi aaitu ellaru sernu maja madidvi,positive,events,"At the family function felt very happy, everyone got together and had fun",paraphrase_augmented
+31,Idu bahut ganda service tha complaint madabeku anisutte,negative,service,"This was very bad service, feels like should complain",
+32,Aaj class regular aaythu kelavu doubt clear aaythu,neutral,education,"Today the class was regular, some doubts got cleared",
+32_aug_aaythu,Aaj class regular aaitu kelavu doubt clear aaythu,neutral,education,"Today the class was regular, some doubts got cleared",paraphrase_augmented
+33,Idu new restaurant tumba chennagide must try maadi,positive,food,"This new restaurant is very good, must try",
+33_aug_tumba,Idu new restaurant bahut chennagide must try maadi,positive,food,"This new restaurant is very good, must try",paraphrase_augmented
+33_aug_chennagide,Idu new restaurant tumba achha hai must try maadi,positive,food,"This new restaurant is very good, must try",paraphrase_augmented
+34,Flight delay aaythu airport alli bahut der kaadru,negative,travel,"The flight got delayed, had to wait a long time at the airport",
+34_aug_aaythu,Flight delay aaitu airport alli bahut der kaadru,negative,travel,"The flight got delayed, had to wait a long time at the airport",paraphrase_augmented
+35,Idu naanu nirikshisidashtu chennagilla thike level hai,neutral,movies,"This wasn't as good as I expected, it's an okay level",
+36,Nanna sneha helped me bahut usually reliable friend aagide,positive,personal,"My friend helped me, is usually a reliable friend",
+37,Wifi bandh aagide kelsa madoke bahut kashta aagide,negative,technology,"The wifi has stopped, causing a lot of difficulty to work",
+37_aug_kelsa,Wifi bandh aagide kaam madoke bahut kashta aagide,negative,technology,"The wifi has stopped, causing a lot of difficulty to work",paraphrase_augmented
+38,Idu tumba normal shirt hai design thike price bhi thike,neutral,shopping,"This is a very normal shirt, design okay, price also okay",
+38_aug_tumba,Idu bahut normal shirt hai design thike price bhi thike,neutral,shopping,"This is a very normal shirt, design okay, price also okay",paraphrase_augmented
+39,Diwali celebration tumba chennagi aaythu lights bahut sundar tha,positive,festival,"The Diwali celebration went very well, the lights were very beautiful",
+39_aug_tumba,Diwali celebration bahut chennagi aaythu lights bahut sundar tha,positive,festival,"The Diwali celebration went very well, the lights were very beautiful",paraphrase_augmented
+39_aug_aaythu,Diwali celebration tumba chennagi aaitu lights bahut sundar tha,positive,festival,"The Diwali celebration went very well, the lights were very beautiful",paraphrase_augmented
+40,Delivery late aaythu package damage kooda aagittu,negative,shopping,"The delivery was late, the package was also damaged",
+40_aug_aaythu,Delivery late aaitu package damage kooda aagittu,negative,shopping,"The delivery was late, the package was also damaged",paraphrase_augmented
+41,Idu naanu nodida average sinima hai kelavu jokes chennagide,neutral,movies,"This is an average movie I saw, some jokes are good",
+41_aug_chennagide,Idu naanu nodida average sinima hai kelavu jokes achha hai,neutral,movies,"This is an average movie I saw, some jokes are good",paraphrase_augmented
+42,Naanu ee job tumba ista pade kelsa maja aagide,positive,work,"I like this job a lot, work feels enjoyable",
+42_aug_tumba,Naanu ee job bahut ista pade kelsa maja aagide,positive,work,"I like this job a lot, work feels enjoyable",paraphrase_augmented
+42_aug_kelsa,Naanu ee job tumba ista pade kaam maja aagide,positive,work,"I like this job a lot, work feels enjoyable",paraphrase_augmented
+42_aug_ista,Naanu ee job tumba pasand pade kelsa maja aagide,positive,work,"I like this job a lot, work feels enjoyable",paraphrase_augmented
+43,Metro alli bahut crowd tha seat sigalilla,negative,transport,"There was a lot of crowd in the metro, didn't get a seat",
+44,Idu regular gym routine ide kelavu din skip aagutte,neutral,health,"This is a regular gym routine, some days get skipped",
+45,Nanna results tumba chennagide bahut khush aagide,positive,education,"My results are very good, feeling very happy",
+45_aug_tumba,Nanna results bahut chennagide bahut khush aagide,positive,education,"My results are very good, feeling very happy",paraphrase_augmented
+45_aug_chennagide,Nanna results tumba achha hai bahut khush aagide,positive,education,"My results are very good, feeling very happy",paraphrase_augmented
+46,Cab driver route galat hogadru bahut time waste aaythu,negative,transport,"The cab driver took the wrong route, a lot of time got wasted",
+46_aug_aaythu,Cab driver route galat hogadru bahut time waste aaitu,negative,transport,"The cab driver took the wrong route, a lot of time got wasted",paraphrase_augmented
+47,Idu tumba simple recipe hai taste thike level hai,neutral,food,"This is a very simple recipe, the taste is at an okay level",
+47_aug_tumba,Idu bahut simple recipe hai taste thike level hai,neutral,food,"This is a very simple recipe, the taste is at an okay level",paraphrase_augmented
+48,Trip plan tumba chennagi aaythu ellaru enjoy madidvi,positive,travel,"The trip plan went very well, everyone enjoyed",
+48_aug_tumba,Trip plan bahut chennagi aaythu ellaru enjoy madidvi,positive,travel,"The trip plan went very well, everyone enjoyed",paraphrase_augmented
+48_aug_aaythu,Trip plan tumba chennagi aaitu ellaru enjoy madidvi,positive,travel,"The trip plan went very well, everyone enjoyed",paraphrase_augmented
+49,AC kelsa maadthilla room tumba bisi aagide,negative,daily,"The AC isn't working, the room has become very hot",
+49_aug_tumba,AC kelsa maadthilla room bahut bisi aagide,negative,daily,"The AC isn't working, the room has become very hot",paraphrase_augmented
+49_aug_kelsa,AC kaam maadthilla room tumba bisi aagide,negative,daily,"The AC isn't working, the room has become very hot",paraphrase_augmented
+50,Idu naanu kanda normal exhibition hai kelavu stall chennagide,neutral,events,"This is a normal exhibition I saw, some stalls are good",
+50_aug_chennagide,Idu naanu kanda normal exhibition hai kelavu stall achha hai,neutral,events,"This is a normal exhibition I saw, some stalls are good",paraphrase_augmented
+51,Nanna interview tumba chennagi aaythu selection sigutte anisutte,positive,work,"My interview went very well, feels like I'll get selected",
+51_aug_tumba,Nanna interview bahut chennagi aaythu selection sigutte anisutte,positive,work,"My interview went very well, feels like I'll get selected",paraphrase_augmented
+51_aug_aaythu,Nanna interview tumba chennagi aaitu selection sigutte anisutte,positive,work,"My interview went very well, feels like I'll get selected",paraphrase_augmented
+52,Idu bahut mahenga item hai quality bhi thike ansutte,negative,shopping,"This is a very expensive item, the quality also seems just okay",
+53,Idu regular Sunday routine ide market hogodu oota madodu,neutral,daily,"This is a regular Sunday routine, going to market, eating",
+54,Naanu ee song tumba kelthidini bahut chennagide melody,positive,music,"I keep listening to this song a lot, the melody is very good",
+54_aug_tumba,Naanu ee song bahut kelthidini bahut chennagide melody,positive,music,"I keep listening to this song a lot, the melody is very good",paraphrase_augmented
+54_aug_chennagide,Naanu ee song tumba kelthidini bahut achha hai melody,positive,music,"I keep listening to this song a lot, the melody is very good",paraphrase_augmented
+55,Idu naanu kelida worst customer care tha kelsa aagalilla,negative,service,"This is the worst customer care I've heard, work didn't get done",
+55_aug_kelsa,Idu naanu kelida worst customer care tha kaam aagalilla,negative,service,"This is the worst customer care I've heard, work didn't get done",paraphrase_augmented
+56,Idu regular vaathavarana ide malegaalu ondu bitre baaki normal,neutral,weather,"This is regular weather, except for rain, rest is normal",
+57,Naanu ee college tumba ista pade friends bhi chennagide,positive,education,"I like this college a lot, the friends are also good",
+57_aug_tumba,Naanu ee college bahut ista pade friends bhi chennagide,positive,education,"I like this college a lot, the friends are also good",paraphrase_augmented
+57_aug_chennagide,Naanu ee college tumba ista pade friends bhi achha hai,positive,education,"I like this college a lot, the friends are also good",paraphrase_augmented
+57_aug_ista,Naanu ee college tumba pasand pade friends bhi chennagide,positive,education,"I like this college a lot, the friends are also good",paraphrase_augmented
+58,Idu bahut noisy neighborhood hai raatri sariyagi nidde barolla,negative,personal,"This is a very noisy neighborhood, don't get proper sleep at night",
+59,Idu regular restaurant menu ide kelavu item add aagide,neutral,food,"This is a regular restaurant menu, some items have been added",
+60,Nanna birthday party tumba chennagi aaythu gifts bhi zabardast tha,positive,events,"My birthday party went very well, the gifts were also awesome",
+60_aug_tumba,Nanna birthday party bahut chennagi aaythu gifts bhi zabardast tha,positive,events,"My birthday party went very well, the gifts were also awesome",paraphrase_augmented
+60_aug_aaythu,Nanna birthday party tumba chennagi aaitu gifts bhi zabardast tha,positive,events,"My birthday party went very well, the gifts were also awesome",paraphrase_augmented

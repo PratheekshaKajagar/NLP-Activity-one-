@@ -1,0 +1,1441 @@
+id,text,domain,matrix_language,switch_type,polarity,source
+1,ee tindi madidru olleyadu acha,food,kannada,discourse_marker,positive,synthetic_template
+2,ee tindi madidru olleyadu sach mein,food,kannada,discourse_marker,positive,synthetic_template
+3,ee tindi nodidru khushi aagide bilkul,food,kannada,discourse_marker,positive,synthetic_template
+4,amma madida adige banda sundara bas,food,kannada,discourse_marker,positive,synthetic_template
+5,restaurant menu helidru olleyadu acha,food,kannada,discourse_marker,positive,synthetic_template
+6,restaurant menu hogidru sundara sach mein,food,kannada,discourse_marker,positive,synthetic_template
+7,restaurant menu hogidru aur ghar ka khana zabardast,food,kannada,connector,positive,synthetic_template
+8,ee tindi kotru phir bhi yeh khana badhiya,food,kannada,connector,positive,synthetic_template
+9,amma madida adige hogidru phir bhi yeh restaurant badhiya,food,kannada,connector,positive,synthetic_template
+10,ee hotel oota helidru isliye street food achha hai,food,kannada,connector,positive,synthetic_template
+11,amma madida adige nodidru phir bhi yeh restaurant khush hoon,food,kannada,connector,positive,synthetic_template
+12,ee hotel oota kelidru lekin yeh khana badhiya,food,kannada,connector,positive,synthetic_template
+13,yeh restaurant kelidru sundara,food,kannada,noun_phrase,positive,synthetic_template
+14,ghar ka khana kelidru khushi aagide,food,kannada,noun_phrase,positive,synthetic_template
+15,yeh restaurant nodidru khushi aagide,food,kannada,noun_phrase,positive,synthetic_template
+16,ghar ka khana kelidru chennagide,food,kannada,noun_phrase,positive,synthetic_template
+17,yeh restaurant kotru olleyadu,food,kannada,noun_phrase,positive,synthetic_template
+18,yeh khana nodidru sundara,food,kannada,noun_phrase,positive,synthetic_template
+19,"restaurant menu hogidru, zabardast",food,kannada,tag,positive,synthetic_template
+20,"ee tindi hogidru, achha hai",food,kannada,tag,positive,synthetic_template
+21,"ee tindi helidru, badhiya",food,kannada,tag,positive,synthetic_template
+22,"amma madida adige hogidru, achha hai",food,kannada,tag,positive,synthetic_template
+23,"amma madida adige kotru, badhiya",food,kannada,tag,positive,synthetic_template
+24,"ee tindi madidru, achha hai",food,kannada,tag,positive,synthetic_template
+25,ee hotel oota nodidru sariyagilla chalo,food,kannada,discourse_marker,negative,synthetic_template
+26,ee hotel oota kelidru sariyagilla sach mein,food,kannada,discourse_marker,negative,synthetic_template
+27,amma madida adige hogidru waste yaar,food,kannada,discourse_marker,negative,synthetic_template
+28,amma madida adige banda ganda aagide yaar,food,kannada,discourse_marker,negative,synthetic_template
+29,ee hotel oota kelidru kashta aagide bilkul,food,kannada,discourse_marker,negative,synthetic_template
+30,restaurant menu hogidru sariyagilla yaar,food,kannada,discourse_marker,negative,synthetic_template
+31,ee tindi nodidru aur street food bekaar,food,kannada,connector,negative,synthetic_template
+32,ee tindi hogidru aur ghar ka khana kharab hai,food,kannada,connector,negative,synthetic_template
+33,ee hotel oota helidru kyunki yeh restaurant kharab hai,food,kannada,connector,negative,synthetic_template
+34,amma madida adige nodidru isliye yeh restaurant problem hai,food,kannada,connector,negative,synthetic_template
+35,ee tindi helidru isliye yeh khana bekaar,food,kannada,connector,negative,synthetic_template
+36,ee tindi kelidru lekin yeh restaurant kharab hai,food,kannada,connector,negative,synthetic_template
+37,ghar ka khana nodidru kashta aagide,food,kannada,noun_phrase,negative,synthetic_template
+38,yeh restaurant hogidru kashta aagide,food,kannada,noun_phrase,negative,synthetic_template
+39,ghar ka khana kotru ganda aagide,food,kannada,noun_phrase,negative,synthetic_template
+40,yeh restaurant helidru sariyagilla,food,kannada,noun_phrase,negative,synthetic_template
+41,street food nodidru waste,food,kannada,noun_phrase,negative,synthetic_template
+42,yeh khana helidru ganda aagide,food,kannada,noun_phrase,negative,synthetic_template
+43,"amma madida adige hogidru, kharab hai",food,kannada,tag,negative,synthetic_template
+44,"ee hotel oota helidru, bekaar",food,kannada,tag,negative,synthetic_template
+45,"ee tindi banda, problem hai",food,kannada,tag,negative,synthetic_template
+46,"ee hotel oota helidru, gadbad hai",food,kannada,tag,negative,synthetic_template
+47,"ee tindi banda, kharab hai",food,kannada,tag,negative,synthetic_template
+48,"ee tindi hogidru, kharab hai",food,kannada,tag,negative,synthetic_template
+49,ee tindi banda usual bilkul,food,kannada,discourse_marker,neutral,synthetic_template
+50,ee tindi madidru usual yaar,food,kannada,discourse_marker,neutral,synthetic_template
+51,ee hotel oota hogidru usual chalo,food,kannada,discourse_marker,neutral,synthetic_template
+52,ee tindi kelidru usual arre,food,kannada,discourse_marker,neutral,synthetic_template
+53,ee tindi helidru thike ansutte bilkul,food,kannada,discourse_marker,neutral,synthetic_template
+54,restaurant menu helidru thike ansutte sach mein,food,kannada,discourse_marker,neutral,synthetic_template
+55,amma madida adige kotru lekin yeh khana aisa hi hai,food,kannada,connector,neutral,synthetic_template
+56,ee tindi madidru isliye street food aisa hi hai,food,kannada,connector,neutral,synthetic_template
+57,ee tindi helidru lekin street food normal hai,food,kannada,connector,neutral,synthetic_template
+58,ee tindi madidru kyunki yeh restaurant aisa hi hai,food,kannada,connector,neutral,synthetic_template
+59,amma madida adige hogidru kyunki yeh khana normal hai,food,kannada,connector,neutral,synthetic_template
+60,amma madida adige hogidru phir bhi ghar ka khana theek thaak,food,kannada,connector,neutral,synthetic_template
+61,yeh restaurant banda usual,food,kannada,noun_phrase,neutral,synthetic_template
+62,street food helidru thike ansutte,food,kannada,noun_phrase,neutral,synthetic_template
+63,street food hogidru usual,food,kannada,noun_phrase,neutral,synthetic_template
+64,ghar ka khana nodidru usual,food,kannada,noun_phrase,neutral,synthetic_template
+65,ghar ka khana hogidru saadharana,food,kannada,noun_phrase,neutral,synthetic_template
+66,street food nodidru thike ansutte,food,kannada,noun_phrase,neutral,synthetic_template
+67,"amma madida adige kelidru, aisa hi hai",food,kannada,tag,neutral,synthetic_template
+68,"ee hotel oota hogidru, aisa hi hai",food,kannada,tag,neutral,synthetic_template
+69,"ee hotel oota kotru, aisa hi hai",food,kannada,tag,neutral,synthetic_template
+70,"amma madida adige kelidru, normal hai",food,kannada,tag,neutral,synthetic_template
+71,"restaurant menu hogidru, normal hai",food,kannada,tag,neutral,synthetic_template
+72,"ee hotel oota nodidru, normal hai",food,kannada,tag,neutral,synthetic_template
+73,yeh khana suna zabardast gothilla,food,hindi,discourse_marker,positive,synthetic_template
+74,yeh restaurant bola zabardast illa,food,hindi,discourse_marker,positive,synthetic_template
+75,yeh restaurant gaya zabardast anisutte,food,hindi,discourse_marker,positive,synthetic_template
+76,yeh khana bola khush hoon hoglaga,food,hindi,discourse_marker,positive,synthetic_template
+77,ghar ka khana gaya achha hai swalpa,food,hindi,discourse_marker,positive,synthetic_template
+78,yeh khana aaya achha hai gothilla,food,hindi,discourse_marker,positive,synthetic_template
+79,ghar ka khana suna adakke ee hotel oota chennagide,food,hindi,connector,positive,synthetic_template
+80,yeh khana dekha matte restaurant menu olleyadu,food,hindi,connector,positive,synthetic_template
+81,ghar ka khana diya adre restaurant menu sundara,food,hindi,connector,positive,synthetic_template
+82,street food aaya adakke ee hotel oota khushi aagide,food,hindi,connector,positive,synthetic_template
+83,ghar ka khana diya yaake andre amma madida adige chennagide,food,hindi,connector,positive,synthetic_template
+84,ghar ka khana gaya adakke restaurant menu olleyadu,food,hindi,connector,positive,synthetic_template
+85,restaurant menu kiya zabardast,food,hindi,noun_phrase,positive,synthetic_template
+86,ee tindi kiya achha hai,food,hindi,noun_phrase,positive,synthetic_template
+87,restaurant menu bola achha hai,food,hindi,noun_phrase,positive,synthetic_template
+88,ee hotel oota dekha achha hai,food,hindi,noun_phrase,positive,synthetic_template
+89,ee tindi bola achha hai,food,hindi,noun_phrase,positive,synthetic_template
+90,ee hotel oota kiya khush hoon,food,hindi,noun_phrase,positive,synthetic_template
+91,"yeh restaurant bola, khushi aagide",food,hindi,tag,positive,synthetic_template
+92,"street food gaya, khushi aagide",food,hindi,tag,positive,synthetic_template
+93,"street food dekha, chennagide",food,hindi,tag,positive,synthetic_template
+94,"yeh khana bola, chennagide",food,hindi,tag,positive,synthetic_template
+95,"yeh restaurant gaya, olleyadu",food,hindi,tag,positive,synthetic_template
+96,"street food bola, sundara",food,hindi,tag,positive,synthetic_template
+97,yeh restaurant dekha gadbad hai anisutte,food,hindi,discourse_marker,negative,synthetic_template
+98,ghar ka khana gaya problem hai guru,food,hindi,discourse_marker,negative,synthetic_template
+99,yeh khana diya gadbad hai maga,food,hindi,discourse_marker,negative,synthetic_template
+100,ghar ka khana aaya kharab hai anisutte,food,hindi,discourse_marker,negative,synthetic_template
+101,yeh khana kiya problem hai swalpa,food,hindi,discourse_marker,negative,synthetic_template
+102,yeh restaurant dekha kharab hai gothilla,food,hindi,discourse_marker,negative,synthetic_template
+103,street food bola aadre amma madida adige ganda aagide,food,hindi,connector,negative,synthetic_template
+104,yeh restaurant gaya adakke amma madida adige waste,food,hindi,connector,negative,synthetic_template
+105,street food diya aadre amma madida adige kashta aagide,food,hindi,connector,negative,synthetic_template
+106,ghar ka khana diya adre amma madida adige waste,food,hindi,connector,negative,synthetic_template
+107,yeh khana kiya adakke restaurant menu sariyagilla,food,hindi,connector,negative,synthetic_template
+108,yeh khana bola yaake andre amma madida adige ganda aagide,food,hindi,connector,negative,synthetic_template
+109,amma madida adige aaya gadbad hai,food,hindi,noun_phrase,negative,synthetic_template
+110,ee hotel oota diya bekaar,food,hindi,noun_phrase,negative,synthetic_template
+111,restaurant menu gaya problem hai,food,hindi,noun_phrase,negative,synthetic_template
+112,amma madida adige diya bekaar,food,hindi,noun_phrase,negative,synthetic_template
+113,restaurant menu suna kharab hai,food,hindi,noun_phrase,negative,synthetic_template
+114,ee hotel oota dekha gadbad hai,food,hindi,noun_phrase,negative,synthetic_template
+115,"yeh restaurant aaya, waste",food,hindi,tag,negative,synthetic_template
+116,"street food dekha, kashta aagide",food,hindi,tag,negative,synthetic_template
+117,"street food bola, ganda aagide",food,hindi,tag,negative,synthetic_template
+118,"yeh khana suna, waste",food,hindi,tag,negative,synthetic_template
+119,"ghar ka khana aaya, sariyagilla",food,hindi,tag,negative,synthetic_template
+120,"ghar ka khana diya, kashta aagide",food,hindi,tag,negative,synthetic_template
+121,yeh khana aaya theek thaak hoglaga,food,hindi,discourse_marker,neutral,synthetic_template
+122,yeh khana kiya normal hai anisutte,food,hindi,discourse_marker,neutral,synthetic_template
+123,yeh khana aaya aisa hi hai anisutte,food,hindi,discourse_marker,neutral,synthetic_template
+124,ghar ka khana gaya theek thaak swalpa,food,hindi,discourse_marker,neutral,synthetic_template
+125,ghar ka khana bola aisa hi hai gothilla,food,hindi,discourse_marker,neutral,synthetic_template
+126,yeh restaurant dekha theek thaak maga,food,hindi,discourse_marker,neutral,synthetic_template
+127,ghar ka khana aaya aadre ee tindi usual,food,hindi,connector,neutral,synthetic_template
+128,yeh restaurant gaya matte ee tindi saadharana,food,hindi,connector,neutral,synthetic_template
+129,yeh khana kiya matte ee tindi usual,food,hindi,connector,neutral,synthetic_template
+130,street food dekha adre ee tindi usual,food,hindi,connector,neutral,synthetic_template
+131,yeh khana dekha aadre ee tindi usual,food,hindi,connector,neutral,synthetic_template
+132,street food diya aadre amma madida adige saadharana,food,hindi,connector,neutral,synthetic_template
+133,ee hotel oota dekha normal hai,food,hindi,noun_phrase,neutral,synthetic_template
+134,ee tindi aaya normal hai,food,hindi,noun_phrase,neutral,synthetic_template
+135,amma madida adige gaya aisa hi hai,food,hindi,noun_phrase,neutral,synthetic_template
+136,ee hotel oota gaya theek thaak,food,hindi,noun_phrase,neutral,synthetic_template
+137,restaurant menu aaya normal hai,food,hindi,noun_phrase,neutral,synthetic_template
+138,amma madida adige gaya theek thaak,food,hindi,noun_phrase,neutral,synthetic_template
+139,"ghar ka khana suna, usual",food,hindi,tag,neutral,synthetic_template
+140,"street food diya, usual",food,hindi,tag,neutral,synthetic_template
+141,"yeh restaurant dekha, thike ansutte",food,hindi,tag,neutral,synthetic_template
+142,"street food gaya, thike ansutte",food,hindi,tag,neutral,synthetic_template
+143,"yeh restaurant dekha, usual",food,hindi,tag,neutral,synthetic_template
+144,"yeh khana aaya, saadharana",food,hindi,tag,neutral,synthetic_template
+145,hotel stay madidru chennagide acha,travel,kannada,discourse_marker,positive,synthetic_template
+146,flight journey banda chennagide yaar,travel,kannada,discourse_marker,positive,synthetic_template
+147,bus ride madidru olleyadu kya baat hai,travel,kannada,discourse_marker,positive,synthetic_template
+148,flight journey kotru sundara acha,travel,kannada,discourse_marker,positive,synthetic_template
+149,ee prayana kelidru chennagide bas,travel,kannada,discourse_marker,positive,synthetic_template
+150,bus ride nodidru chennagide bas,travel,kannada,discourse_marker,positive,synthetic_template
+151,flight journey kelidru aur flight ka anubhav achha hai,travel,kannada,connector,positive,synthetic_template
+152,bus ride hogidru isliye yeh safar zabardast,travel,kannada,connector,positive,synthetic_template
+153,flight journey hogidru aur yeh trip khush hoon,travel,kannada,connector,positive,synthetic_template
+154,hotel stay nodidru aur yeh trip badhiya,travel,kannada,connector,positive,synthetic_template
+155,bus ride kotru isliye flight ka anubhav badhiya,travel,kannada,connector,positive,synthetic_template
+156,hotel stay helidru isliye yeh safar khush hoon,travel,kannada,connector,positive,synthetic_template
+157,yeh trip kelidru sundara,travel,kannada,noun_phrase,positive,synthetic_template
+158,yeh safar hogidru khushi aagide,travel,kannada,noun_phrase,positive,synthetic_template
+159,hotel ka stay nodidru chennagide,travel,kannada,noun_phrase,positive,synthetic_template
+160,yeh trip madidru sundara,travel,kannada,noun_phrase,positive,synthetic_template
+161,hotel ka stay kelidru chennagide,travel,kannada,noun_phrase,positive,synthetic_template
+162,flight ka anubhav kelidru chennagide,travel,kannada,noun_phrase,positive,synthetic_template
+163,"flight journey banda, achha hai",travel,kannada,tag,positive,synthetic_template
+164,"ee prayana kotru, khush hoon",travel,kannada,tag,positive,synthetic_template
+165,"hotel stay banda, badhiya",travel,kannada,tag,positive,synthetic_template
+166,"ee prayana banda, badhiya",travel,kannada,tag,positive,synthetic_template
+167,"bus ride kotru, zabardast",travel,kannada,tag,positive,synthetic_template
+168,"hotel stay helidru, khush hoon",travel,kannada,tag,positive,synthetic_template
+169,hotel stay helidru sariyagilla bas,travel,kannada,discourse_marker,negative,synthetic_template
+170,hotel stay nodidru ganda aagide arre,travel,kannada,discourse_marker,negative,synthetic_template
+171,flight journey helidru ganda aagide bas,travel,kannada,discourse_marker,negative,synthetic_template
+172,bus ride nodidru sariyagilla arre,travel,kannada,discourse_marker,negative,synthetic_template
+173,flight journey kotru ganda aagide bas,travel,kannada,discourse_marker,negative,synthetic_template
+174,bus ride hogidru ganda aagide yaar,travel,kannada,discourse_marker,negative,synthetic_template
+175,bus ride madidru aur yeh trip gadbad hai,travel,kannada,connector,negative,synthetic_template
+176,hotel stay kelidru lekin yeh safar gadbad hai,travel,kannada,connector,negative,synthetic_template
+177,ee prayana banda aur flight ka anubhav problem hai,travel,kannada,connector,negative,synthetic_template
+178,ee prayana hogidru lekin flight ka anubhav kharab hai,travel,kannada,connector,negative,synthetic_template
+179,hotel stay kotru aur yeh safar bekaar,travel,kannada,connector,negative,synthetic_template
+180,ee prayana nodidru isliye flight ka anubhav problem hai,travel,kannada,connector,negative,synthetic_template
+181,hotel ka stay hogidru kashta aagide,travel,kannada,noun_phrase,negative,synthetic_template
+182,yeh safar kotru waste,travel,kannada,noun_phrase,negative,synthetic_template
+183,yeh safar madidru waste,travel,kannada,noun_phrase,negative,synthetic_template
+184,yeh trip nodidru kashta aagide,travel,kannada,noun_phrase,negative,synthetic_template
+185,hotel ka stay nodidru kashta aagide,travel,kannada,noun_phrase,negative,synthetic_template
+186,yeh safar banda kashta aagide,travel,kannada,noun_phrase,negative,synthetic_template
+187,"bus ride hogidru, kharab hai",travel,kannada,tag,negative,synthetic_template
+188,"hotel stay kotru, bekaar",travel,kannada,tag,negative,synthetic_template
+189,"bus ride nodidru, kharab hai",travel,kannada,tag,negative,synthetic_template
+190,"flight journey hogidru, problem hai",travel,kannada,tag,negative,synthetic_template
+191,"bus ride kelidru, problem hai",travel,kannada,tag,negative,synthetic_template
+192,"flight journey helidru, kharab hai",travel,kannada,tag,negative,synthetic_template
+193,bus ride madidru usual bilkul,travel,kannada,discourse_marker,neutral,synthetic_template
+194,hotel stay kotru saadharana acha,travel,kannada,discourse_marker,neutral,synthetic_template
+195,hotel stay madidru usual arre,travel,kannada,discourse_marker,neutral,synthetic_template
+196,hotel stay kelidru usual yaar,travel,kannada,discourse_marker,neutral,synthetic_template
+197,hotel stay hogidru thike ansutte arre,travel,kannada,discourse_marker,neutral,synthetic_template
+198,ee prayana nodidru usual kya baat hai,travel,kannada,discourse_marker,neutral,synthetic_template
+199,flight journey kelidru phir bhi yeh trip theek thaak,travel,kannada,connector,neutral,synthetic_template
+200,bus ride nodidru isliye flight ka anubhav theek thaak,travel,kannada,connector,neutral,synthetic_template
+201,flight journey banda aur flight ka anubhav aisa hi hai,travel,kannada,connector,neutral,synthetic_template
+202,flight journey madidru lekin yeh trip normal hai,travel,kannada,connector,neutral,synthetic_template
+203,ee prayana kotru aur yeh trip theek thaak,travel,kannada,connector,neutral,synthetic_template
+204,hotel stay nodidru isliye flight ka anubhav aisa hi hai,travel,kannada,connector,neutral,synthetic_template
+205,yeh safar hogidru saadharana,travel,kannada,noun_phrase,neutral,synthetic_template
+206,yeh safar helidru thike ansutte,travel,kannada,noun_phrase,neutral,synthetic_template
+207,hotel ka stay nodidru usual,travel,kannada,noun_phrase,neutral,synthetic_template
+208,flight ka anubhav kotru thike ansutte,travel,kannada,noun_phrase,neutral,synthetic_template
+209,hotel ka stay madidru saadharana,travel,kannada,noun_phrase,neutral,synthetic_template
+210,yeh trip kotru thike ansutte,travel,kannada,noun_phrase,neutral,synthetic_template
+211,"flight journey banda, normal hai",travel,kannada,tag,neutral,synthetic_template
+212,"bus ride banda, theek thaak",travel,kannada,tag,neutral,synthetic_template
+213,"flight journey kelidru, aisa hi hai",travel,kannada,tag,neutral,synthetic_template
+214,"flight journey helidru, normal hai",travel,kannada,tag,neutral,synthetic_template
+215,"flight journey kotru, normal hai",travel,kannada,tag,neutral,synthetic_template
+216,"bus ride kelidru, aisa hi hai",travel,kannada,tag,neutral,synthetic_template
+217,yeh safar suna achha hai anisutte,travel,hindi,discourse_marker,positive,synthetic_template
+218,flight ka anubhav suna achha hai anisutte,travel,hindi,discourse_marker,positive,synthetic_template
+219,flight ka anubhav kiya badhiya gothilla,travel,hindi,discourse_marker,positive,synthetic_template
+220,hotel ka stay gaya achha hai swalpa,travel,hindi,discourse_marker,positive,synthetic_template
+221,hotel ka stay diya achha hai illa,travel,hindi,discourse_marker,positive,synthetic_template
+222,hotel ka stay gaya badhiya maga,travel,hindi,discourse_marker,positive,synthetic_template
+223,hotel ka stay gaya adre hotel stay khushi aagide,travel,hindi,connector,positive,synthetic_template
+224,yeh trip dekha yaake andre bus ride olleyadu,travel,hindi,connector,positive,synthetic_template
+225,yeh trip suna adakke ee prayana olleyadu,travel,hindi,connector,positive,synthetic_template
+226,yeh trip suna matte ee prayana khushi aagide,travel,hindi,connector,positive,synthetic_template
+227,yeh safar diya aadre bus ride khushi aagide,travel,hindi,connector,positive,synthetic_template
+228,hotel ka stay suna matte flight journey sundara,travel,hindi,connector,positive,synthetic_template
+229,bus ride suna khush hoon,travel,hindi,noun_phrase,positive,synthetic_template
+230,ee prayana aaya achha hai,travel,hindi,noun_phrase,positive,synthetic_template
+231,bus ride kiya achha hai,travel,hindi,noun_phrase,positive,synthetic_template
+232,flight journey dekha achha hai,travel,hindi,noun_phrase,positive,synthetic_template
+233,flight journey aaya achha hai,travel,hindi,noun_phrase,positive,synthetic_template
+234,ee prayana suna khush hoon,travel,hindi,noun_phrase,positive,synthetic_template
+235,"yeh safar kiya, olleyadu",travel,hindi,tag,positive,synthetic_template
+236,"yeh trip gaya, chennagide",travel,hindi,tag,positive,synthetic_template
+237,"hotel ka stay aaya, khushi aagide",travel,hindi,tag,positive,synthetic_template
+238,"hotel ka stay kiya, chennagide",travel,hindi,tag,positive,synthetic_template
+239,"flight ka anubhav bola, khushi aagide",travel,hindi,tag,positive,synthetic_template
+240,"hotel ka stay kiya, sundara",travel,hindi,tag,positive,synthetic_template
+241,yeh safar aaya bekaar yenappa,travel,hindi,discourse_marker,negative,synthetic_template
+242,flight ka anubhav diya gadbad hai yenappa,travel,hindi,discourse_marker,negative,synthetic_template
+243,yeh safar diya problem hai maga,travel,hindi,discourse_marker,negative,synthetic_template
+244,flight ka anubhav diya problem hai gothilla,travel,hindi,discourse_marker,negative,synthetic_template
+245,flight ka anubhav diya problem hai hoglaga,travel,hindi,discourse_marker,negative,synthetic_template
+246,hotel ka stay aaya bekaar hoglaga,travel,hindi,discourse_marker,negative,synthetic_template
+247,yeh safar aaya yaake andre flight journey waste,travel,hindi,connector,negative,synthetic_template
+248,yeh trip kiya aadre bus ride ganda aagide,travel,hindi,connector,negative,synthetic_template
+249,hotel ka stay bola adakke bus ride kashta aagide,travel,hindi,connector,negative,synthetic_template
+250,yeh trip bola adakke flight journey sariyagilla,travel,hindi,connector,negative,synthetic_template
+251,yeh trip diya aadre flight journey ganda aagide,travel,hindi,connector,negative,synthetic_template
+252,flight ka anubhav dekha adre bus ride ganda aagide,travel,hindi,connector,negative,synthetic_template
+253,ee prayana suna problem hai,travel,hindi,noun_phrase,negative,synthetic_template
+254,flight journey bola kharab hai,travel,hindi,noun_phrase,negative,synthetic_template
+255,ee prayana aaya kharab hai,travel,hindi,noun_phrase,negative,synthetic_template
+256,ee prayana diya problem hai,travel,hindi,noun_phrase,negative,synthetic_template
+257,flight journey diya kharab hai,travel,hindi,noun_phrase,negative,synthetic_template
+258,flight journey dekha bekaar,travel,hindi,noun_phrase,negative,synthetic_template
+259,"yeh safar suna, ganda aagide",travel,hindi,tag,negative,synthetic_template
+260,"yeh safar aaya, ganda aagide",travel,hindi,tag,negative,synthetic_template
+261,"flight ka anubhav diya, waste",travel,hindi,tag,negative,synthetic_template
+262,"hotel ka stay kiya, waste",travel,hindi,tag,negative,synthetic_template
+263,"flight ka anubhav kiya, sariyagilla",travel,hindi,tag,negative,synthetic_template
+264,"yeh safar suna, waste",travel,hindi,tag,negative,synthetic_template
+265,hotel ka stay gaya theek thaak swalpa,travel,hindi,discourse_marker,neutral,synthetic_template
+266,hotel ka stay kiya aisa hi hai yenappa,travel,hindi,discourse_marker,neutral,synthetic_template
+267,hotel ka stay aaya aisa hi hai maga,travel,hindi,discourse_marker,neutral,synthetic_template
+268,yeh safar gaya aisa hi hai hoglaga,travel,hindi,discourse_marker,neutral,synthetic_template
+269,yeh trip suna normal hai gothilla,travel,hindi,discourse_marker,neutral,synthetic_template
+270,yeh trip diya normal hai swalpa,travel,hindi,discourse_marker,neutral,synthetic_template
+271,flight ka anubhav diya aadre hotel stay saadharana,travel,hindi,connector,neutral,synthetic_template
+272,yeh safar dekha yaake andre hotel stay saadharana,travel,hindi,connector,neutral,synthetic_template
+273,yeh safar diya matte bus ride thike ansutte,travel,hindi,connector,neutral,synthetic_template
+274,hotel ka stay gaya adakke bus ride saadharana,travel,hindi,connector,neutral,synthetic_template
+275,flight ka anubhav kiya yaake andre flight journey usual,travel,hindi,connector,neutral,synthetic_template
+276,hotel ka stay suna matte hotel stay usual,travel,hindi,connector,neutral,synthetic_template
+277,bus ride kiya aisa hi hai,travel,hindi,noun_phrase,neutral,synthetic_template
+278,ee prayana dekha aisa hi hai,travel,hindi,noun_phrase,neutral,synthetic_template
+279,ee prayana bola normal hai,travel,hindi,noun_phrase,neutral,synthetic_template
+280,hotel stay aaya aisa hi hai,travel,hindi,noun_phrase,neutral,synthetic_template
+281,bus ride suna theek thaak,travel,hindi,noun_phrase,neutral,synthetic_template
+282,ee prayana kiya aisa hi hai,travel,hindi,noun_phrase,neutral,synthetic_template
+283,"hotel ka stay diya, saadharana",travel,hindi,tag,neutral,synthetic_template
+284,"hotel ka stay suna, saadharana",travel,hindi,tag,neutral,synthetic_template
+285,"hotel ka stay aaya, saadharana",travel,hindi,tag,neutral,synthetic_template
+286,"hotel ka stay gaya, usual",travel,hindi,tag,neutral,synthetic_template
+287,"yeh safar gaya, usual",travel,hindi,tag,neutral,synthetic_template
+288,"yeh trip diya, saadharana",travel,hindi,tag,neutral,synthetic_template
+289,office kelsa helidru chennagide sach mein,work,kannada,discourse_marker,positive,synthetic_template
+290,ee meeting kotru chennagide acha,work,kannada,discourse_marker,positive,synthetic_template
+291,boss maathu kelidru olleyadu chalo,work,kannada,discourse_marker,positive,synthetic_template
+292,ee meeting banda chennagide bilkul,work,kannada,discourse_marker,positive,synthetic_template
+293,office kelsa kelidru olleyadu sach mein,work,kannada,discourse_marker,positive,synthetic_template
+294,ee meeting helidru sundara bas,work,kannada,discourse_marker,positive,synthetic_template
+295,boss maathu kotru kyunki yeh meeting achha hai,work,kannada,connector,positive,synthetic_template
+296,office kelsa banda lekin project ka kaam badhiya,work,kannada,connector,positive,synthetic_template
+297,ee meeting kelidru kyunki office ka kaam badhiya,work,kannada,connector,positive,synthetic_template
+298,office kelsa madidru phir bhi yeh meeting zabardast,work,kannada,connector,positive,synthetic_template
+299,boss maathu helidru kyunki office ka kaam khush hoon,work,kannada,connector,positive,synthetic_template
+300,office kelsa hogidru kyunki yeh meeting zabardast,work,kannada,connector,positive,synthetic_template
+301,yeh kaam hogidru sundara,work,kannada,noun_phrase,positive,synthetic_template
+302,project ka kaam hogidru olleyadu,work,kannada,noun_phrase,positive,synthetic_template
+303,project ka kaam kelidru olleyadu,work,kannada,noun_phrase,positive,synthetic_template
+304,project ka kaam kotru olleyadu,work,kannada,noun_phrase,positive,synthetic_template
+305,yeh meeting nodidru sundara,work,kannada,noun_phrase,positive,synthetic_template
+306,yeh kaam kelidru chennagide,work,kannada,noun_phrase,positive,synthetic_template
+307,"boss maathu hogidru, badhiya",work,kannada,tag,positive,synthetic_template
+308,"office kelsa banda, zabardast",work,kannada,tag,positive,synthetic_template
+309,"ee meeting nodidru, zabardast",work,kannada,tag,positive,synthetic_template
+310,"boss maathu hogidru, khush hoon",work,kannada,tag,positive,synthetic_template
+311,"project deadline kelidru, zabardast",work,kannada,tag,positive,synthetic_template
+312,"ee meeting kotru, achha hai",work,kannada,tag,positive,synthetic_template
+313,office kelsa kelidru kashta aagide yaar,work,kannada,discourse_marker,negative,synthetic_template
+314,ee meeting helidru sariyagilla bas,work,kannada,discourse_marker,negative,synthetic_template
+315,boss maathu kotru waste kya baat hai,work,kannada,discourse_marker,negative,synthetic_template
+316,office kelsa madidru kashta aagide yaar,work,kannada,discourse_marker,negative,synthetic_template
+317,office kelsa kelidru kashta aagide kya baat hai,work,kannada,discourse_marker,negative,synthetic_template
+318,project deadline banda sariyagilla yaar,work,kannada,discourse_marker,negative,synthetic_template
+319,ee meeting helidru isliye office ka kaam problem hai,work,kannada,connector,negative,synthetic_template
+320,ee meeting hogidru aur office ka kaam gadbad hai,work,kannada,connector,negative,synthetic_template
+321,project deadline banda phir bhi office ka kaam bekaar,work,kannada,connector,negative,synthetic_template
+322,project deadline helidru aur yeh kaam gadbad hai,work,kannada,connector,negative,synthetic_template
+323,office kelsa kotru lekin office ka kaam kharab hai,work,kannada,connector,negative,synthetic_template
+324,project deadline kelidru kyunki yeh meeting bekaar,work,kannada,connector,negative,synthetic_template
+325,yeh kaam nodidru sariyagilla,work,kannada,noun_phrase,negative,synthetic_template
+326,yeh meeting kotru sariyagilla,work,kannada,noun_phrase,negative,synthetic_template
+327,project ka kaam nodidru sariyagilla,work,kannada,noun_phrase,negative,synthetic_template
+328,office ka kaam madidru ganda aagide,work,kannada,noun_phrase,negative,synthetic_template
+329,project ka kaam kelidru sariyagilla,work,kannada,noun_phrase,negative,synthetic_template
+330,yeh kaam helidru kashta aagide,work,kannada,noun_phrase,negative,synthetic_template
+331,"ee meeting hogidru, kharab hai",work,kannada,tag,negative,synthetic_template
+332,"project deadline kotru, bekaar",work,kannada,tag,negative,synthetic_template
+333,"boss maathu kotru, kharab hai",work,kannada,tag,negative,synthetic_template
+334,"ee meeting banda, bekaar",work,kannada,tag,negative,synthetic_template
+335,"ee meeting hogidru, problem hai",work,kannada,tag,negative,synthetic_template
+336,"ee meeting madidru, kharab hai",work,kannada,tag,negative,synthetic_template
+337,project deadline helidru thike ansutte chalo,work,kannada,discourse_marker,neutral,synthetic_template
+338,boss maathu kelidru thike ansutte bilkul,work,kannada,discourse_marker,neutral,synthetic_template
+339,project deadline hogidru thike ansutte kya baat hai,work,kannada,discourse_marker,neutral,synthetic_template
+340,project deadline banda usual bas,work,kannada,discourse_marker,neutral,synthetic_template
+341,office kelsa madidru usual arre,work,kannada,discourse_marker,neutral,synthetic_template
+342,office kelsa madidru saadharana sach mein,work,kannada,discourse_marker,neutral,synthetic_template
+343,ee meeting banda aur project ka kaam theek thaak,work,kannada,connector,neutral,synthetic_template
+344,project deadline kelidru kyunki project ka kaam normal hai,work,kannada,connector,neutral,synthetic_template
+345,office kelsa madidru phir bhi yeh meeting normal hai,work,kannada,connector,neutral,synthetic_template
+346,office kelsa hogidru isliye office ka kaam normal hai,work,kannada,connector,neutral,synthetic_template
+347,project deadline kelidru aur yeh kaam theek thaak,work,kannada,connector,neutral,synthetic_template
+348,office kelsa kelidru kyunki office ka kaam normal hai,work,kannada,connector,neutral,synthetic_template
+349,yeh kaam banda thike ansutte,work,kannada,noun_phrase,neutral,synthetic_template
+350,yeh kaam kelidru saadharana,work,kannada,noun_phrase,neutral,synthetic_template
+351,yeh meeting hogidru thike ansutte,work,kannada,noun_phrase,neutral,synthetic_template
+352,project ka kaam madidru saadharana,work,kannada,noun_phrase,neutral,synthetic_template
+353,office ka kaam hogidru usual,work,kannada,noun_phrase,neutral,synthetic_template
+354,office ka kaam nodidru usual,work,kannada,noun_phrase,neutral,synthetic_template
+355,"boss maathu madidru, aisa hi hai",work,kannada,tag,neutral,synthetic_template
+356,"ee meeting kelidru, theek thaak",work,kannada,tag,neutral,synthetic_template
+357,"office kelsa hogidru, theek thaak",work,kannada,tag,neutral,synthetic_template
+358,"project deadline kotru, aisa hi hai",work,kannada,tag,neutral,synthetic_template
+359,"boss maathu kotru, aisa hi hai",work,kannada,tag,neutral,synthetic_template
+360,"project deadline kelidru, theek thaak",work,kannada,tag,neutral,synthetic_template
+361,office ka kaam suna khush hoon illa,work,hindi,discourse_marker,positive,synthetic_template
+362,project ka kaam gaya zabardast maga,work,hindi,discourse_marker,positive,synthetic_template
+363,yeh kaam kiya badhiya guru,work,hindi,discourse_marker,positive,synthetic_template
+364,office ka kaam aaya badhiya illa,work,hindi,discourse_marker,positive,synthetic_template
+365,yeh meeting diya badhiya swalpa,work,hindi,discourse_marker,positive,synthetic_template
+366,yeh kaam dekha badhiya yenappa,work,hindi,discourse_marker,positive,synthetic_template
+367,yeh meeting gaya adakke project deadline sundara,work,hindi,connector,positive,synthetic_template
+368,project ka kaam bola yaake andre ee meeting khushi aagide,work,hindi,connector,positive,synthetic_template
+369,project ka kaam dekha adakke project deadline sundara,work,hindi,connector,positive,synthetic_template
+370,project ka kaam gaya matte office kelsa khushi aagide,work,hindi,connector,positive,synthetic_template
+371,yeh meeting diya aadre office kelsa olleyadu,work,hindi,connector,positive,synthetic_template
+372,project ka kaam dekha yaake andre project deadline khushi aagide,work,hindi,connector,positive,synthetic_template
+373,project deadline dekha badhiya,work,hindi,noun_phrase,positive,synthetic_template
+374,project deadline bola khush hoon,work,hindi,noun_phrase,positive,synthetic_template
+375,project deadline suna zabardast,work,hindi,noun_phrase,positive,synthetic_template
+376,office kelsa dekha zabardast,work,hindi,noun_phrase,positive,synthetic_template
+377,office kelsa kiya khush hoon,work,hindi,noun_phrase,positive,synthetic_template
+378,ee meeting aaya badhiya,work,hindi,noun_phrase,positive,synthetic_template
+379,"project ka kaam dekha, olleyadu",work,hindi,tag,positive,synthetic_template
+380,"project ka kaam diya, sundara",work,hindi,tag,positive,synthetic_template
+381,"project ka kaam kiya, olleyadu",work,hindi,tag,positive,synthetic_template
+382,"project ka kaam diya, olleyadu",work,hindi,tag,positive,synthetic_template
+383,"project ka kaam kiya, sundara",work,hindi,tag,positive,synthetic_template
+384,"project ka kaam suna, chennagide",work,hindi,tag,positive,synthetic_template
+385,project ka kaam diya gadbad hai anisutte,work,hindi,discourse_marker,negative,synthetic_template
+386,yeh kaam aaya kharab hai swalpa,work,hindi,discourse_marker,negative,synthetic_template
+387,project ka kaam gaya problem hai gothilla,work,hindi,discourse_marker,negative,synthetic_template
+388,yeh meeting bola problem hai yenappa,work,hindi,discourse_marker,negative,synthetic_template
+389,yeh kaam dekha bekaar illa,work,hindi,discourse_marker,negative,synthetic_template
+390,office ka kaam dekha bekaar swalpa,work,hindi,discourse_marker,negative,synthetic_template
+391,yeh kaam bola adre office kelsa ganda aagide,work,hindi,connector,negative,synthetic_template
+392,yeh meeting dekha adre office kelsa ganda aagide,work,hindi,connector,negative,synthetic_template
+393,yeh kaam bola adre project deadline ganda aagide,work,hindi,connector,negative,synthetic_template
+394,project ka kaam kiya adre project deadline waste,work,hindi,connector,negative,synthetic_template
+395,office ka kaam dekha adakke ee meeting waste,work,hindi,connector,negative,synthetic_template
+396,office ka kaam diya adakke ee meeting kashta aagide,work,hindi,connector,negative,synthetic_template
+397,boss maathu dekha gadbad hai,work,hindi,noun_phrase,negative,synthetic_template
+398,project deadline dekha problem hai,work,hindi,noun_phrase,negative,synthetic_template
+399,boss maathu bola bekaar,work,hindi,noun_phrase,negative,synthetic_template
+400,project deadline diya problem hai,work,hindi,noun_phrase,negative,synthetic_template
+401,ee meeting diya gadbad hai,work,hindi,noun_phrase,negative,synthetic_template
+402,ee meeting diya problem hai,work,hindi,noun_phrase,negative,synthetic_template
+403,"office ka kaam suna, sariyagilla",work,hindi,tag,negative,synthetic_template
+404,"yeh meeting dekha, kashta aagide",work,hindi,tag,negative,synthetic_template
+405,"yeh kaam gaya, waste",work,hindi,tag,negative,synthetic_template
+406,"yeh kaam dekha, waste",work,hindi,tag,negative,synthetic_template
+407,"project ka kaam bola, kashta aagide",work,hindi,tag,negative,synthetic_template
+408,"yeh kaam diya, waste",work,hindi,tag,negative,synthetic_template
+409,yeh meeting diya aisa hi hai guru,work,hindi,discourse_marker,neutral,synthetic_template
+410,project ka kaam diya normal hai anisutte,work,hindi,discourse_marker,neutral,synthetic_template
+411,yeh kaam bola theek thaak gothilla,work,hindi,discourse_marker,neutral,synthetic_template
+412,yeh kaam gaya normal hai hoglaga,work,hindi,discourse_marker,neutral,synthetic_template
+413,yeh kaam suna normal hai illa,work,hindi,discourse_marker,neutral,synthetic_template
+414,yeh meeting bola aisa hi hai hoglaga,work,hindi,discourse_marker,neutral,synthetic_template
+415,yeh kaam aaya matte office kelsa thike ansutte,work,hindi,connector,neutral,synthetic_template
+416,yeh meeting dekha aadre project deadline thike ansutte,work,hindi,connector,neutral,synthetic_template
+417,project ka kaam bola adakke project deadline saadharana,work,hindi,connector,neutral,synthetic_template
+418,yeh meeting dekha adakke ee meeting thike ansutte,work,hindi,connector,neutral,synthetic_template
+419,project ka kaam suna matte project deadline saadharana,work,hindi,connector,neutral,synthetic_template
+420,office ka kaam kiya adre ee meeting thike ansutte,work,hindi,connector,neutral,synthetic_template
+421,boss maathu aaya normal hai,work,hindi,noun_phrase,neutral,synthetic_template
+422,boss maathu bola theek thaak,work,hindi,noun_phrase,neutral,synthetic_template
+423,boss maathu diya theek thaak,work,hindi,noun_phrase,neutral,synthetic_template
+424,project deadline suna theek thaak,work,hindi,noun_phrase,neutral,synthetic_template
+425,boss maathu dekha aisa hi hai,work,hindi,noun_phrase,neutral,synthetic_template
+426,boss maathu dekha theek thaak,work,hindi,noun_phrase,neutral,synthetic_template
+427,"office ka kaam gaya, saadharana",work,hindi,tag,neutral,synthetic_template
+428,"office ka kaam kiya, saadharana",work,hindi,tag,neutral,synthetic_template
+429,"yeh meeting bola, saadharana",work,hindi,tag,neutral,synthetic_template
+430,"yeh meeting bola, usual",work,hindi,tag,neutral,synthetic_template
+431,"office ka kaam suna, saadharana",work,hindi,tag,neutral,synthetic_template
+432,"office ka kaam bola, usual",work,hindi,tag,neutral,synthetic_template
+433,family function banda chennagide arre,family,kannada,discourse_marker,positive,synthetic_template
+434,mane vishaya kotru chennagide yaar,family,kannada,discourse_marker,positive,synthetic_template
+435,mane vishaya kotru khushi aagide bilkul,family,kannada,discourse_marker,positive,synthetic_template
+436,family function hogidru chennagide bilkul,family,kannada,discourse_marker,positive,synthetic_template
+437,nanna sneha helidru chennagide sach mein,family,kannada,discourse_marker,positive,synthetic_template
+438,family function helidru khushi aagide kya baat hai,family,kannada,discourse_marker,positive,synthetic_template
+439,family function helidru aur ghar ki baat badhiya,family,kannada,connector,positive,synthetic_template
+440,mane vishaya madidru aur ghar ki baat achha hai,family,kannada,connector,positive,synthetic_template
+441,mane vishaya hogidru phir bhi mummy papa achha hai,family,kannada,connector,positive,synthetic_template
+442,appa amma nodidru aur mera dost achha hai,family,kannada,connector,positive,synthetic_template
+443,nanna sneha nodidru phir bhi ghar ki baat zabardast,family,kannada,connector,positive,synthetic_template
+444,mane vishaya nodidru lekin mera dost zabardast,family,kannada,connector,positive,synthetic_template
+445,yeh function helidru olleyadu,family,kannada,noun_phrase,positive,synthetic_template
+446,mummy papa helidru olleyadu,family,kannada,noun_phrase,positive,synthetic_template
+447,mera dost banda sundara,family,kannada,noun_phrase,positive,synthetic_template
+448,ghar ki baat banda sundara,family,kannada,noun_phrase,positive,synthetic_template
+449,yeh function kotru olleyadu,family,kannada,noun_phrase,positive,synthetic_template
+450,mera dost madidru khushi aagide,family,kannada,noun_phrase,positive,synthetic_template
+451,"family function helidru, badhiya",family,kannada,tag,positive,synthetic_template
+452,"family function madidru, zabardast",family,kannada,tag,positive,synthetic_template
+453,"mane vishaya hogidru, badhiya",family,kannada,tag,positive,synthetic_template
+454,"family function madidru, achha hai",family,kannada,tag,positive,synthetic_template
+455,"family function nodidru, khush hoon",family,kannada,tag,positive,synthetic_template
+456,"nanna sneha hogidru, badhiya",family,kannada,tag,positive,synthetic_template
+457,appa amma madidru sariyagilla chalo,family,kannada,discourse_marker,negative,synthetic_template
+458,appa amma kelidru waste acha,family,kannada,discourse_marker,negative,synthetic_template
+459,mane vishaya helidru sariyagilla sach mein,family,kannada,discourse_marker,negative,synthetic_template
+460,mane vishaya hogidru sariyagilla bilkul,family,kannada,discourse_marker,negative,synthetic_template
+461,mane vishaya hogidru kashta aagide chalo,family,kannada,discourse_marker,negative,synthetic_template
+462,family function nodidru sariyagilla yaar,family,kannada,discourse_marker,negative,synthetic_template
+463,appa amma helidru phir bhi mummy papa problem hai,family,kannada,connector,negative,synthetic_template
+464,appa amma helidru isliye mera dost problem hai,family,kannada,connector,negative,synthetic_template
+465,family function kotru lekin mera dost gadbad hai,family,kannada,connector,negative,synthetic_template
+466,nanna sneha kelidru phir bhi yeh function bekaar,family,kannada,connector,negative,synthetic_template
+467,mane vishaya kotru isliye mera dost gadbad hai,family,kannada,connector,negative,synthetic_template
+468,mane vishaya hogidru isliye mera dost gadbad hai,family,kannada,connector,negative,synthetic_template
+469,ghar ki baat kotru waste,family,kannada,noun_phrase,negative,synthetic_template
+470,mera dost banda ganda aagide,family,kannada,noun_phrase,negative,synthetic_template
+471,mera dost helidru waste,family,kannada,noun_phrase,negative,synthetic_template
+472,mummy papa helidru kashta aagide,family,kannada,noun_phrase,negative,synthetic_template
+473,ghar ki baat nodidru waste,family,kannada,noun_phrase,negative,synthetic_template
+474,ghar ki baat kotru ganda aagide,family,kannada,noun_phrase,negative,synthetic_template
+475,"appa amma hogidru, gadbad hai",family,kannada,tag,negative,synthetic_template
+476,"family function banda, kharab hai",family,kannada,tag,negative,synthetic_template
+477,"nanna sneha helidru, kharab hai",family,kannada,tag,negative,synthetic_template
+478,"nanna sneha helidru, bekaar",family,kannada,tag,negative,synthetic_template
+479,"nanna sneha nodidru, kharab hai",family,kannada,tag,negative,synthetic_template
+480,"mane vishaya kotru, bekaar",family,kannada,tag,negative,synthetic_template
+481,nanna sneha kotru usual acha,family,kannada,discourse_marker,neutral,synthetic_template
+482,family function helidru saadharana sach mein,family,kannada,discourse_marker,neutral,synthetic_template
+483,family function nodidru saadharana sach mein,family,kannada,discourse_marker,neutral,synthetic_template
+484,nanna sneha hogidru usual yaar,family,kannada,discourse_marker,neutral,synthetic_template
+485,appa amma hogidru saadharana arre,family,kannada,discourse_marker,neutral,synthetic_template
+486,family function madidru thike ansutte bas,family,kannada,discourse_marker,neutral,synthetic_template
+487,mane vishaya hogidru aur ghar ki baat normal hai,family,kannada,connector,neutral,synthetic_template
+488,mane vishaya kelidru kyunki ghar ki baat aisa hi hai,family,kannada,connector,neutral,synthetic_template
+489,nanna sneha hogidru aur mera dost aisa hi hai,family,kannada,connector,neutral,synthetic_template
+490,nanna sneha hogidru phir bhi mera dost theek thaak,family,kannada,connector,neutral,synthetic_template
+491,appa amma madidru kyunki ghar ki baat normal hai,family,kannada,connector,neutral,synthetic_template
+492,family function madidru isliye ghar ki baat aisa hi hai,family,kannada,connector,neutral,synthetic_template
+493,mummy papa kelidru usual,family,kannada,noun_phrase,neutral,synthetic_template
+494,mera dost madidru saadharana,family,kannada,noun_phrase,neutral,synthetic_template
+495,yeh function banda saadharana,family,kannada,noun_phrase,neutral,synthetic_template
+496,mummy papa hogidru usual,family,kannada,noun_phrase,neutral,synthetic_template
+497,yeh function helidru usual,family,kannada,noun_phrase,neutral,synthetic_template
+498,ghar ki baat banda usual,family,kannada,noun_phrase,neutral,synthetic_template
+499,"mane vishaya helidru, aisa hi hai",family,kannada,tag,neutral,synthetic_template
+500,"family function banda, normal hai",family,kannada,tag,neutral,synthetic_template
+501,"appa amma banda, theek thaak",family,kannada,tag,neutral,synthetic_template
+502,"mane vishaya madidru, theek thaak",family,kannada,tag,neutral,synthetic_template
+503,"family function kotru, aisa hi hai",family,kannada,tag,neutral,synthetic_template
+504,"family function nodidru, aisa hi hai",family,kannada,tag,neutral,synthetic_template
+505,ghar ki baat kiya badhiya maga,family,hindi,discourse_marker,positive,synthetic_template
+506,mera dost gaya zabardast guru,family,hindi,discourse_marker,positive,synthetic_template
+507,ghar ki baat gaya khush hoon anisutte,family,hindi,discourse_marker,positive,synthetic_template
+508,yeh function aaya khush hoon guru,family,hindi,discourse_marker,positive,synthetic_template
+509,ghar ki baat dekha achha hai illa,family,hindi,discourse_marker,positive,synthetic_template
+510,yeh function bola badhiya anisutte,family,hindi,discourse_marker,positive,synthetic_template
+511,ghar ki baat bola yaake andre mane vishaya olleyadu,family,hindi,connector,positive,synthetic_template
+512,mera dost gaya yaake andre nanna sneha khushi aagide,family,hindi,connector,positive,synthetic_template
+513,mummy papa gaya aadre appa amma chennagide,family,hindi,connector,positive,synthetic_template
+514,yeh function suna aadre nanna sneha olleyadu,family,hindi,connector,positive,synthetic_template
+515,mera dost suna aadre appa amma sundara,family,hindi,connector,positive,synthetic_template
+516,yeh function bola matte family function sundara,family,hindi,connector,positive,synthetic_template
+517,nanna sneha diya achha hai,family,hindi,noun_phrase,positive,synthetic_template
+518,mane vishaya bola achha hai,family,hindi,noun_phrase,positive,synthetic_template
+519,mane vishaya bola badhiya,family,hindi,noun_phrase,positive,synthetic_template
+520,mane vishaya gaya achha hai,family,hindi,noun_phrase,positive,synthetic_template
+521,nanna sneha dekha badhiya,family,hindi,noun_phrase,positive,synthetic_template
+522,family function aaya badhiya,family,hindi,noun_phrase,positive,synthetic_template
+523,"mummy papa bola, olleyadu",family,hindi,tag,positive,synthetic_template
+524,"ghar ki baat aaya, sundara",family,hindi,tag,positive,synthetic_template
+525,"ghar ki baat dekha, sundara",family,hindi,tag,positive,synthetic_template
+526,"ghar ki baat aaya, khushi aagide",family,hindi,tag,positive,synthetic_template
+527,"mummy papa dekha, sundara",family,hindi,tag,positive,synthetic_template
+528,"yeh function gaya, sundara",family,hindi,tag,positive,synthetic_template
+529,yeh function aaya bekaar gothilla,family,hindi,discourse_marker,negative,synthetic_template
+530,mera dost kiya problem hai guru,family,hindi,discourse_marker,negative,synthetic_template
+531,mummy papa kiya gadbad hai anisutte,family,hindi,discourse_marker,negative,synthetic_template
+532,mera dost gaya kharab hai gothilla,family,hindi,discourse_marker,negative,synthetic_template
+533,yeh function aaya bekaar anisutte,family,hindi,discourse_marker,negative,synthetic_template
+534,mera dost dekha bekaar anisutte,family,hindi,discourse_marker,negative,synthetic_template
+535,mera dost aaya aadre mane vishaya waste,family,hindi,connector,negative,synthetic_template
+536,ghar ki baat diya matte mane vishaya waste,family,hindi,connector,negative,synthetic_template
+537,ghar ki baat aaya matte appa amma ganda aagide,family,hindi,connector,negative,synthetic_template
+538,yeh function dekha aadre nanna sneha sariyagilla,family,hindi,connector,negative,synthetic_template
+539,mera dost suna aadre mane vishaya waste,family,hindi,connector,negative,synthetic_template
+540,yeh function suna matte nanna sneha waste,family,hindi,connector,negative,synthetic_template
+541,nanna sneha suna bekaar,family,hindi,noun_phrase,negative,synthetic_template
+542,mane vishaya suna gadbad hai,family,hindi,noun_phrase,negative,synthetic_template
+543,family function dekha problem hai,family,hindi,noun_phrase,negative,synthetic_template
+544,appa amma dekha gadbad hai,family,hindi,noun_phrase,negative,synthetic_template
+545,appa amma suna problem hai,family,hindi,noun_phrase,negative,synthetic_template
+546,family function kiya bekaar,family,hindi,noun_phrase,negative,synthetic_template
+547,"mera dost gaya, sariyagilla",family,hindi,tag,negative,synthetic_template
+548,"ghar ki baat dekha, ganda aagide",family,hindi,tag,negative,synthetic_template
+549,"mera dost gaya, ganda aagide",family,hindi,tag,negative,synthetic_template
+550,"yeh function suna, ganda aagide",family,hindi,tag,negative,synthetic_template
+551,"mera dost suna, waste",family,hindi,tag,negative,synthetic_template
+552,"yeh function diya, kashta aagide",family,hindi,tag,negative,synthetic_template
+553,mummy papa aaya theek thaak gothilla,family,hindi,discourse_marker,neutral,synthetic_template
+554,mera dost gaya aisa hi hai yenappa,family,hindi,discourse_marker,neutral,synthetic_template
+555,yeh function suna aisa hi hai yenappa,family,hindi,discourse_marker,neutral,synthetic_template
+556,mummy papa gaya normal hai guru,family,hindi,discourse_marker,neutral,synthetic_template
+557,mummy papa gaya theek thaak gothilla,family,hindi,discourse_marker,neutral,synthetic_template
+558,ghar ki baat bola normal hai swalpa,family,hindi,discourse_marker,neutral,synthetic_template
+559,mera dost dekha adakke family function thike ansutte,family,hindi,connector,neutral,synthetic_template
+560,yeh function gaya yaake andre mane vishaya saadharana,family,hindi,connector,neutral,synthetic_template
+561,mera dost diya yaake andre family function usual,family,hindi,connector,neutral,synthetic_template
+562,yeh function dekha matte nanna sneha usual,family,hindi,connector,neutral,synthetic_template
+563,mera dost aaya matte family function usual,family,hindi,connector,neutral,synthetic_template
+564,mera dost kiya aadre mane vishaya usual,family,hindi,connector,neutral,synthetic_template
+565,appa amma gaya theek thaak,family,hindi,noun_phrase,neutral,synthetic_template
+566,nanna sneha aaya aisa hi hai,family,hindi,noun_phrase,neutral,synthetic_template
+567,family function aaya aisa hi hai,family,hindi,noun_phrase,neutral,synthetic_template
+568,mane vishaya diya aisa hi hai,family,hindi,noun_phrase,neutral,synthetic_template
+569,family function suna aisa hi hai,family,hindi,noun_phrase,neutral,synthetic_template
+570,family function bola normal hai,family,hindi,noun_phrase,neutral,synthetic_template
+571,"mera dost gaya, usual",family,hindi,tag,neutral,synthetic_template
+572,"ghar ki baat gaya, usual",family,hindi,tag,neutral,synthetic_template
+573,"yeh function suna, saadharana",family,hindi,tag,neutral,synthetic_template
+574,"mera dost bola, thike ansutte",family,hindi,tag,neutral,synthetic_template
+575,"mera dost dekha, usual",family,hindi,tag,neutral,synthetic_template
+576,"yeh function kiya, usual",family,hindi,tag,neutral,synthetic_template
+577,online order kotru chennagide acha,shopping,kannada,discourse_marker,positive,synthetic_template
+578,online order kotru sundara sach mein,shopping,kannada,discourse_marker,positive,synthetic_template
+579,online order kotru sundara acha,shopping,kannada,discourse_marker,positive,synthetic_template
+580,online order nodidru olleyadu arre,shopping,kannada,discourse_marker,positive,synthetic_template
+581,ee item kotru olleyadu arre,shopping,kannada,discourse_marker,positive,synthetic_template
+582,ee item banda olleyadu bilkul,shopping,kannada,discourse_marker,positive,synthetic_template
+583,ee phone banda isliye yeh cheez zabardast,shopping,kannada,connector,positive,synthetic_template
+584,ee angadi banda kyunki yeh order badhiya,shopping,kannada,connector,positive,synthetic_template
+585,ee item kelidru aur yeh dukaan badhiya,shopping,kannada,connector,positive,synthetic_template
+586,ee angadi madidru kyunki yeh phone achha hai,shopping,kannada,connector,positive,synthetic_template
+587,ee item banda isliye yeh dukaan zabardast,shopping,kannada,connector,positive,synthetic_template
+588,ee item nodidru aur yeh cheez badhiya,shopping,kannada,connector,positive,synthetic_template
+589,yeh cheez helidru chennagide,shopping,kannada,noun_phrase,positive,synthetic_template
+590,yeh order nodidru khushi aagide,shopping,kannada,noun_phrase,positive,synthetic_template
+591,yeh phone madidru chennagide,shopping,kannada,noun_phrase,positive,synthetic_template
+592,yeh order banda sundara,shopping,kannada,noun_phrase,positive,synthetic_template
+593,yeh phone madidru olleyadu,shopping,kannada,noun_phrase,positive,synthetic_template
+594,yeh cheez hogidru sundara,shopping,kannada,noun_phrase,positive,synthetic_template
+595,"ee item kelidru, badhiya",shopping,kannada,tag,positive,synthetic_template
+596,"ee angadi banda, zabardast",shopping,kannada,tag,positive,synthetic_template
+597,"ee item hogidru, achha hai",shopping,kannada,tag,positive,synthetic_template
+598,"ee angadi kotru, badhiya",shopping,kannada,tag,positive,synthetic_template
+599,"ee phone nodidru, badhiya",shopping,kannada,tag,positive,synthetic_template
+600,"online order helidru, khush hoon",shopping,kannada,tag,positive,synthetic_template
+601,ee phone hogidru kashta aagide arre,shopping,kannada,discourse_marker,negative,synthetic_template
+602,online order kelidru waste kya baat hai,shopping,kannada,discourse_marker,negative,synthetic_template
+603,online order banda sariyagilla yaar,shopping,kannada,discourse_marker,negative,synthetic_template
+604,ee item madidru waste bilkul,shopping,kannada,discourse_marker,negative,synthetic_template
+605,ee phone hogidru kashta aagide bilkul,shopping,kannada,discourse_marker,negative,synthetic_template
+606,ee angadi banda ganda aagide chalo,shopping,kannada,discourse_marker,negative,synthetic_template
+607,ee phone helidru lekin yeh cheez gadbad hai,shopping,kannada,connector,negative,synthetic_template
+608,ee item kotru aur yeh order kharab hai,shopping,kannada,connector,negative,synthetic_template
+609,ee item helidru aur yeh cheez gadbad hai,shopping,kannada,connector,negative,synthetic_template
+610,ee angadi banda lekin yeh order gadbad hai,shopping,kannada,connector,negative,synthetic_template
+611,ee phone hogidru lekin yeh dukaan kharab hai,shopping,kannada,connector,negative,synthetic_template
+612,ee angadi kotru aur yeh order problem hai,shopping,kannada,connector,negative,synthetic_template
+613,yeh order kotru sariyagilla,shopping,kannada,noun_phrase,negative,synthetic_template
+614,yeh dukaan hogidru waste,shopping,kannada,noun_phrase,negative,synthetic_template
+615,yeh cheez nodidru kashta aagide,shopping,kannada,noun_phrase,negative,synthetic_template
+616,yeh phone helidru ganda aagide,shopping,kannada,noun_phrase,negative,synthetic_template
+617,yeh cheez nodidru waste,shopping,kannada,noun_phrase,negative,synthetic_template
+618,yeh phone madidru sariyagilla,shopping,kannada,noun_phrase,negative,synthetic_template
+619,"online order banda, kharab hai",shopping,kannada,tag,negative,synthetic_template
+620,"online order nodidru, kharab hai",shopping,kannada,tag,negative,synthetic_template
+621,"ee angadi banda, gadbad hai",shopping,kannada,tag,negative,synthetic_template
+622,"ee angadi banda, problem hai",shopping,kannada,tag,negative,synthetic_template
+623,"ee item hogidru, gadbad hai",shopping,kannada,tag,negative,synthetic_template
+624,"ee angadi kelidru, gadbad hai",shopping,kannada,tag,negative,synthetic_template
+625,ee angadi kotru saadharana yaar,shopping,kannada,discourse_marker,neutral,synthetic_template
+626,ee angadi helidru usual sach mein,shopping,kannada,discourse_marker,neutral,synthetic_template
+627,ee angadi banda saadharana chalo,shopping,kannada,discourse_marker,neutral,synthetic_template
+628,ee phone nodidru saadharana kya baat hai,shopping,kannada,discourse_marker,neutral,synthetic_template
+629,online order nodidru saadharana yaar,shopping,kannada,discourse_marker,neutral,synthetic_template
+630,ee phone hogidru saadharana sach mein,shopping,kannada,discourse_marker,neutral,synthetic_template
+631,ee item nodidru aur yeh order aisa hi hai,shopping,kannada,connector,neutral,synthetic_template
+632,ee item banda kyunki yeh cheez normal hai,shopping,kannada,connector,neutral,synthetic_template
+633,online order helidru kyunki yeh cheez normal hai,shopping,kannada,connector,neutral,synthetic_template
+634,ee item kelidru phir bhi yeh phone theek thaak,shopping,kannada,connector,neutral,synthetic_template
+635,ee item nodidru lekin yeh order theek thaak,shopping,kannada,connector,neutral,synthetic_template
+636,ee phone kotru lekin yeh phone normal hai,shopping,kannada,connector,neutral,synthetic_template
+637,yeh order nodidru thike ansutte,shopping,kannada,noun_phrase,neutral,synthetic_template
+638,yeh phone helidru thike ansutte,shopping,kannada,noun_phrase,neutral,synthetic_template
+639,yeh cheez helidru saadharana,shopping,kannada,noun_phrase,neutral,synthetic_template
+640,yeh cheez banda saadharana,shopping,kannada,noun_phrase,neutral,synthetic_template
+641,yeh order kotru saadharana,shopping,kannada,noun_phrase,neutral,synthetic_template
+642,yeh phone hogidru usual,shopping,kannada,noun_phrase,neutral,synthetic_template
+643,"ee angadi banda, aisa hi hai",shopping,kannada,tag,neutral,synthetic_template
+644,"ee phone hogidru, theek thaak",shopping,kannada,tag,neutral,synthetic_template
+645,"ee item helidru, aisa hi hai",shopping,kannada,tag,neutral,synthetic_template
+646,"ee angadi hogidru, normal hai",shopping,kannada,tag,neutral,synthetic_template
+647,"ee angadi madidru, theek thaak",shopping,kannada,tag,neutral,synthetic_template
+648,"ee item hogidru, theek thaak",shopping,kannada,tag,neutral,synthetic_template
+649,yeh order bola khush hoon guru,shopping,hindi,discourse_marker,positive,synthetic_template
+650,yeh phone aaya badhiya gothilla,shopping,hindi,discourse_marker,positive,synthetic_template
+651,yeh dukaan aaya achha hai gothilla,shopping,hindi,discourse_marker,positive,synthetic_template
+652,yeh order aaya badhiya guru,shopping,hindi,discourse_marker,positive,synthetic_template
+653,yeh dukaan suna achha hai swalpa,shopping,hindi,discourse_marker,positive,synthetic_template
+654,yeh phone bola achha hai gothilla,shopping,hindi,discourse_marker,positive,synthetic_template
+655,yeh cheez dekha aadre ee item chennagide,shopping,hindi,connector,positive,synthetic_template
+656,yeh order aaya adre online order sundara,shopping,hindi,connector,positive,synthetic_template
+657,yeh cheez aaya adre ee angadi khushi aagide,shopping,hindi,connector,positive,synthetic_template
+658,yeh phone diya matte ee phone olleyadu,shopping,hindi,connector,positive,synthetic_template
+659,yeh dukaan suna adakke online order sundara,shopping,hindi,connector,positive,synthetic_template
+660,yeh cheez gaya matte ee phone chennagide,shopping,hindi,connector,positive,synthetic_template
+661,online order kiya badhiya,shopping,hindi,noun_phrase,positive,synthetic_template
+662,ee phone diya khush hoon,shopping,hindi,noun_phrase,positive,synthetic_template
+663,ee item kiya zabardast,shopping,hindi,noun_phrase,positive,synthetic_template
+664,ee item dekha achha hai,shopping,hindi,noun_phrase,positive,synthetic_template
+665,ee angadi kiya badhiya,shopping,hindi,noun_phrase,positive,synthetic_template
+666,ee phone dekha zabardast,shopping,hindi,noun_phrase,positive,synthetic_template
+667,"yeh dukaan diya, olleyadu",shopping,hindi,tag,positive,synthetic_template
+668,"yeh order suna, khushi aagide",shopping,hindi,tag,positive,synthetic_template
+669,"yeh phone kiya, sundara",shopping,hindi,tag,positive,synthetic_template
+670,"yeh phone gaya, olleyadu",shopping,hindi,tag,positive,synthetic_template
+671,"yeh phone suna, sundara",shopping,hindi,tag,positive,synthetic_template
+672,"yeh cheez diya, khushi aagide",shopping,hindi,tag,positive,synthetic_template
+673,yeh phone bola problem hai swalpa,shopping,hindi,discourse_marker,negative,synthetic_template
+674,yeh dukaan kiya problem hai anisutte,shopping,hindi,discourse_marker,negative,synthetic_template
+675,yeh phone dekha gadbad hai yenappa,shopping,hindi,discourse_marker,negative,synthetic_template
+676,yeh phone gaya problem hai illa,shopping,hindi,discourse_marker,negative,synthetic_template
+677,yeh phone aaya kharab hai hoglaga,shopping,hindi,discourse_marker,negative,synthetic_template
+678,yeh cheez gaya problem hai guru,shopping,hindi,discourse_marker,negative,synthetic_template
+679,yeh phone aaya adakke ee phone kashta aagide,shopping,hindi,connector,negative,synthetic_template
+680,yeh order aaya adre ee item sariyagilla,shopping,hindi,connector,negative,synthetic_template
+681,yeh order diya aadre ee phone kashta aagide,shopping,hindi,connector,negative,synthetic_template
+682,yeh phone diya adre ee phone kashta aagide,shopping,hindi,connector,negative,synthetic_template
+683,yeh cheez gaya aadre ee item kashta aagide,shopping,hindi,connector,negative,synthetic_template
+684,yeh order kiya yaake andre ee angadi kashta aagide,shopping,hindi,connector,negative,synthetic_template
+685,ee item aaya gadbad hai,shopping,hindi,noun_phrase,negative,synthetic_template
+686,ee angadi gaya gadbad hai,shopping,hindi,noun_phrase,negative,synthetic_template
+687,ee angadi dekha kharab hai,shopping,hindi,noun_phrase,negative,synthetic_template
+688,online order gaya kharab hai,shopping,hindi,noun_phrase,negative,synthetic_template
+689,ee item dekha problem hai,shopping,hindi,noun_phrase,negative,synthetic_template
+690,ee item dekha gadbad hai,shopping,hindi,noun_phrase,negative,synthetic_template
+691,"yeh dukaan dekha, kashta aagide",shopping,hindi,tag,negative,synthetic_template
+692,"yeh dukaan bola, kashta aagide",shopping,hindi,tag,negative,synthetic_template
+693,"yeh dukaan bola, waste",shopping,hindi,tag,negative,synthetic_template
+694,"yeh phone diya, kashta aagide",shopping,hindi,tag,negative,synthetic_template
+695,"yeh cheez kiya, ganda aagide",shopping,hindi,tag,negative,synthetic_template
+696,"yeh phone suna, sariyagilla",shopping,hindi,tag,negative,synthetic_template
+697,yeh phone gaya theek thaak anisutte,shopping,hindi,discourse_marker,neutral,synthetic_template
+698,yeh order dekha normal hai gothilla,shopping,hindi,discourse_marker,neutral,synthetic_template
+699,yeh order aaya theek thaak swalpa,shopping,hindi,discourse_marker,neutral,synthetic_template
+700,yeh order gaya theek thaak maga,shopping,hindi,discourse_marker,neutral,synthetic_template
+701,yeh cheez dekha theek thaak anisutte,shopping,hindi,discourse_marker,neutral,synthetic_template
+702,yeh cheez kiya theek thaak illa,shopping,hindi,discourse_marker,neutral,synthetic_template
+703,yeh cheez bola yaake andre ee phone thike ansutte,shopping,hindi,connector,neutral,synthetic_template
+704,yeh phone bola adakke ee phone usual,shopping,hindi,connector,neutral,synthetic_template
+705,yeh order dekha matte ee item thike ansutte,shopping,hindi,connector,neutral,synthetic_template
+706,yeh phone suna adakke ee item usual,shopping,hindi,connector,neutral,synthetic_template
+707,yeh phone gaya aadre online order saadharana,shopping,hindi,connector,neutral,synthetic_template
+708,yeh dukaan aaya aadre ee phone saadharana,shopping,hindi,connector,neutral,synthetic_template
+709,online order suna aisa hi hai,shopping,hindi,noun_phrase,neutral,synthetic_template
+710,online order dekha aisa hi hai,shopping,hindi,noun_phrase,neutral,synthetic_template
+711,ee phone diya aisa hi hai,shopping,hindi,noun_phrase,neutral,synthetic_template
+712,ee phone diya normal hai,shopping,hindi,noun_phrase,neutral,synthetic_template
+713,ee angadi aaya theek thaak,shopping,hindi,noun_phrase,neutral,synthetic_template
+714,ee phone gaya normal hai,shopping,hindi,noun_phrase,neutral,synthetic_template
+715,"yeh cheez kiya, saadharana",shopping,hindi,tag,neutral,synthetic_template
+716,"yeh order diya, thike ansutte",shopping,hindi,tag,neutral,synthetic_template
+717,"yeh dukaan suna, saadharana",shopping,hindi,tag,neutral,synthetic_template
+718,"yeh cheez bola, saadharana",shopping,hindi,tag,neutral,synthetic_template
+719,"yeh phone diya, thike ansutte",shopping,hindi,tag,neutral,synthetic_template
+720,"yeh order kiya, usual",shopping,hindi,tag,neutral,synthetic_template
+721,ee exam banda chennagide chalo,education,kannada,discourse_marker,positive,synthetic_template
+722,ee subject banda chennagide arre,education,kannada,discourse_marker,positive,synthetic_template
+723,ee subject hogidru sundara acha,education,kannada,discourse_marker,positive,synthetic_template
+724,nanna results kelidru olleyadu kya baat hai,education,kannada,discourse_marker,positive,synthetic_template
+725,nanna results helidru sundara sach mein,education,kannada,discourse_marker,positive,synthetic_template
+726,ee subject kotru olleyadu arre,education,kannada,discourse_marker,positive,synthetic_template
+727,nanna results madidru aur yeh exam achha hai,education,kannada,connector,positive,synthetic_template
+728,ee exam helidru isliye yeh exam achha hai,education,kannada,connector,positive,synthetic_template
+729,college class helidru aur mera result achha hai,education,kannada,connector,positive,synthetic_template
+730,college class nodidru aur yeh subject zabardast,education,kannada,connector,positive,synthetic_template
+731,nanna results hogidru kyunki yeh exam badhiya,education,kannada,connector,positive,synthetic_template
+732,college class kelidru kyunki yeh exam khush hoon,education,kannada,connector,positive,synthetic_template
+733,yeh exam hogidru chennagide,education,kannada,noun_phrase,positive,synthetic_template
+734,yeh exam madidru olleyadu,education,kannada,noun_phrase,positive,synthetic_template
+735,college ki class helidru olleyadu,education,kannada,noun_phrase,positive,synthetic_template
+736,college ki class banda olleyadu,education,kannada,noun_phrase,positive,synthetic_template
+737,yeh subject hogidru olleyadu,education,kannada,noun_phrase,positive,synthetic_template
+738,yeh subject nodidru olleyadu,education,kannada,noun_phrase,positive,synthetic_template
+739,"ee exam madidru, achha hai",education,kannada,tag,positive,synthetic_template
+740,"nanna results nodidru, achha hai",education,kannada,tag,positive,synthetic_template
+741,"nanna results kotru, achha hai",education,kannada,tag,positive,synthetic_template
+742,"ee exam madidru, badhiya",education,kannada,tag,positive,synthetic_template
+743,"college class nodidru, zabardast",education,kannada,tag,positive,synthetic_template
+744,"ee exam helidru, zabardast",education,kannada,tag,positive,synthetic_template
+745,ee exam kotru sariyagilla chalo,education,kannada,discourse_marker,negative,synthetic_template
+746,nanna results kelidru kashta aagide yaar,education,kannada,discourse_marker,negative,synthetic_template
+747,nanna results hogidru waste bilkul,education,kannada,discourse_marker,negative,synthetic_template
+748,nanna results hogidru waste acha,education,kannada,discourse_marker,negative,synthetic_template
+749,college class kelidru ganda aagide acha,education,kannada,discourse_marker,negative,synthetic_template
+750,ee subject madidru sariyagilla sach mein,education,kannada,discourse_marker,negative,synthetic_template
+751,college class madidru kyunki college ki class kharab hai,education,kannada,connector,negative,synthetic_template
+752,nanna results hogidru phir bhi mera result problem hai,education,kannada,connector,negative,synthetic_template
+753,nanna results nodidru aur mera result bekaar,education,kannada,connector,negative,synthetic_template
+754,ee exam helidru aur yeh subject bekaar,education,kannada,connector,negative,synthetic_template
+755,nanna results kelidru phir bhi college ki class kharab hai,education,kannada,connector,negative,synthetic_template
+756,nanna results banda phir bhi mera result problem hai,education,kannada,connector,negative,synthetic_template
+757,college ki class kotru ganda aagide,education,kannada,noun_phrase,negative,synthetic_template
+758,yeh exam hogidru sariyagilla,education,kannada,noun_phrase,negative,synthetic_template
+759,mera result nodidru waste,education,kannada,noun_phrase,negative,synthetic_template
+760,yeh subject helidru kashta aagide,education,kannada,noun_phrase,negative,synthetic_template
+761,college ki class kelidru kashta aagide,education,kannada,noun_phrase,negative,synthetic_template
+762,yeh subject helidru ganda aagide,education,kannada,noun_phrase,negative,synthetic_template
+763,"ee subject helidru, problem hai",education,kannada,tag,negative,synthetic_template
+764,"college class madidru, kharab hai",education,kannada,tag,negative,synthetic_template
+765,"college class hogidru, gadbad hai",education,kannada,tag,negative,synthetic_template
+766,"ee subject kelidru, kharab hai",education,kannada,tag,negative,synthetic_template
+767,"college class banda, kharab hai",education,kannada,tag,negative,synthetic_template
+768,"ee subject kotru, kharab hai",education,kannada,tag,negative,synthetic_template
+769,college class madidru thike ansutte chalo,education,kannada,discourse_marker,neutral,synthetic_template
+770,ee subject hogidru usual bas,education,kannada,discourse_marker,neutral,synthetic_template
+771,ee exam kotru thike ansutte sach mein,education,kannada,discourse_marker,neutral,synthetic_template
+772,college class nodidru usual sach mein,education,kannada,discourse_marker,neutral,synthetic_template
+773,ee subject nodidru saadharana sach mein,education,kannada,discourse_marker,neutral,synthetic_template
+774,ee exam hogidru saadharana acha,education,kannada,discourse_marker,neutral,synthetic_template
+775,nanna results hogidru isliye yeh subject aisa hi hai,education,kannada,connector,neutral,synthetic_template
+776,college class nodidru kyunki college ki class aisa hi hai,education,kannada,connector,neutral,synthetic_template
+777,ee subject nodidru isliye mera result normal hai,education,kannada,connector,neutral,synthetic_template
+778,ee exam helidru lekin yeh subject theek thaak,education,kannada,connector,neutral,synthetic_template
+779,ee exam kelidru lekin college ki class aisa hi hai,education,kannada,connector,neutral,synthetic_template
+780,ee exam banda kyunki mera result aisa hi hai,education,kannada,connector,neutral,synthetic_template
+781,yeh exam helidru saadharana,education,kannada,noun_phrase,neutral,synthetic_template
+782,mera result nodidru usual,education,kannada,noun_phrase,neutral,synthetic_template
+783,yeh exam kelidru thike ansutte,education,kannada,noun_phrase,neutral,synthetic_template
+784,yeh subject madidru saadharana,education,kannada,noun_phrase,neutral,synthetic_template
+785,yeh subject banda saadharana,education,kannada,noun_phrase,neutral,synthetic_template
+786,yeh subject helidru usual,education,kannada,noun_phrase,neutral,synthetic_template
+787,"ee subject banda, aisa hi hai",education,kannada,tag,neutral,synthetic_template
+788,"ee subject madidru, normal hai",education,kannada,tag,neutral,synthetic_template
+789,"ee exam nodidru, theek thaak",education,kannada,tag,neutral,synthetic_template
+790,"nanna results helidru, theek thaak",education,kannada,tag,neutral,synthetic_template
+791,"college class helidru, aisa hi hai",education,kannada,tag,neutral,synthetic_template
+792,"ee subject nodidru, normal hai",education,kannada,tag,neutral,synthetic_template
+793,yeh subject kiya zabardast maga,education,hindi,discourse_marker,positive,synthetic_template
+794,yeh subject gaya badhiya swalpa,education,hindi,discourse_marker,positive,synthetic_template
+795,yeh exam dekha zabardast swalpa,education,hindi,discourse_marker,positive,synthetic_template
+796,yeh subject gaya zabardast guru,education,hindi,discourse_marker,positive,synthetic_template
+797,college ki class suna zabardast hoglaga,education,hindi,discourse_marker,positive,synthetic_template
+798,yeh subject diya badhiya anisutte,education,hindi,discourse_marker,positive,synthetic_template
+799,mera result dekha adre college class sundara,education,hindi,connector,positive,synthetic_template
+800,yeh exam gaya adakke ee exam olleyadu,education,hindi,connector,positive,synthetic_template
+801,yeh subject aaya matte college class olleyadu,education,hindi,connector,positive,synthetic_template
+802,college ki class gaya adre ee exam khushi aagide,education,hindi,connector,positive,synthetic_template
+803,yeh subject gaya adakke ee subject sundara,education,hindi,connector,positive,synthetic_template
+804,college ki class diya yaake andre college class khushi aagide,education,hindi,connector,positive,synthetic_template
+805,nanna results dekha badhiya,education,hindi,noun_phrase,positive,synthetic_template
+806,nanna results aaya badhiya,education,hindi,noun_phrase,positive,synthetic_template
+807,ee subject bola badhiya,education,hindi,noun_phrase,positive,synthetic_template
+808,ee exam kiya zabardast,education,hindi,noun_phrase,positive,synthetic_template
+809,nanna results bola zabardast,education,hindi,noun_phrase,positive,synthetic_template
+810,nanna results aaya zabardast,education,hindi,noun_phrase,positive,synthetic_template
+811,"yeh subject diya, olleyadu",education,hindi,tag,positive,synthetic_template
+812,"yeh exam bola, chennagide",education,hindi,tag,positive,synthetic_template
+813,"college ki class bola, khushi aagide",education,hindi,tag,positive,synthetic_template
+814,"college ki class suna, sundara",education,hindi,tag,positive,synthetic_template
+815,"yeh exam gaya, chennagide",education,hindi,tag,positive,synthetic_template
+816,"yeh exam kiya, chennagide",education,hindi,tag,positive,synthetic_template
+817,college ki class dekha bekaar anisutte,education,hindi,discourse_marker,negative,synthetic_template
+818,college ki class gaya problem hai guru,education,hindi,discourse_marker,negative,synthetic_template
+819,yeh subject bola bekaar yenappa,education,hindi,discourse_marker,negative,synthetic_template
+820,yeh exam dekha problem hai illa,education,hindi,discourse_marker,negative,synthetic_template
+821,yeh exam bola gadbad hai gothilla,education,hindi,discourse_marker,negative,synthetic_template
+822,college ki class kiya gadbad hai swalpa,education,hindi,discourse_marker,negative,synthetic_template
+823,yeh exam bola adakke college class ganda aagide,education,hindi,connector,negative,synthetic_template
+824,mera result aaya yaake andre ee exam sariyagilla,education,hindi,connector,negative,synthetic_template
+825,yeh exam suna adre nanna results sariyagilla,education,hindi,connector,negative,synthetic_template
+826,yeh exam gaya aadre nanna results ganda aagide,education,hindi,connector,negative,synthetic_template
+827,college ki class gaya adre nanna results waste,education,hindi,connector,negative,synthetic_template
+828,mera result diya aadre ee exam sariyagilla,education,hindi,connector,negative,synthetic_template
+829,college class dekha kharab hai,education,hindi,noun_phrase,negative,synthetic_template
+830,college class aaya kharab hai,education,hindi,noun_phrase,negative,synthetic_template
+831,ee exam bola problem hai,education,hindi,noun_phrase,negative,synthetic_template
+832,college class gaya bekaar,education,hindi,noun_phrase,negative,synthetic_template
+833,nanna results bola gadbad hai,education,hindi,noun_phrase,negative,synthetic_template
+834,ee subject kiya kharab hai,education,hindi,noun_phrase,negative,synthetic_template
+835,"mera result aaya, kashta aagide",education,hindi,tag,negative,synthetic_template
+836,"yeh exam bola, sariyagilla",education,hindi,tag,negative,synthetic_template
+837,"yeh subject bola, kashta aagide",education,hindi,tag,negative,synthetic_template
+838,"mera result kiya, kashta aagide",education,hindi,tag,negative,synthetic_template
+839,"yeh exam diya, waste",education,hindi,tag,negative,synthetic_template
+840,"yeh exam bola, ganda aagide",education,hindi,tag,negative,synthetic_template
+841,yeh exam diya normal hai guru,education,hindi,discourse_marker,neutral,synthetic_template
+842,yeh subject dekha normal hai guru,education,hindi,discourse_marker,neutral,synthetic_template
+843,college ki class kiya aisa hi hai yenappa,education,hindi,discourse_marker,neutral,synthetic_template
+844,yeh subject suna aisa hi hai yenappa,education,hindi,discourse_marker,neutral,synthetic_template
+845,yeh subject bola theek thaak illa,education,hindi,discourse_marker,neutral,synthetic_template
+846,yeh subject gaya aisa hi hai hoglaga,education,hindi,discourse_marker,neutral,synthetic_template
+847,yeh exam gaya adre ee exam usual,education,hindi,connector,neutral,synthetic_template
+848,mera result dekha adakke ee subject usual,education,hindi,connector,neutral,synthetic_template
+849,yeh subject diya adre nanna results saadharana,education,hindi,connector,neutral,synthetic_template
+850,yeh subject suna aadre nanna results thike ansutte,education,hindi,connector,neutral,synthetic_template
+851,yeh subject kiya yaake andre ee subject thike ansutte,education,hindi,connector,neutral,synthetic_template
+852,college ki class diya matte ee exam thike ansutte,education,hindi,connector,neutral,synthetic_template
+853,ee subject suna theek thaak,education,hindi,noun_phrase,neutral,synthetic_template
+854,nanna results gaya normal hai,education,hindi,noun_phrase,neutral,synthetic_template
+855,nanna results suna normal hai,education,hindi,noun_phrase,neutral,synthetic_template
+856,ee exam gaya theek thaak,education,hindi,noun_phrase,neutral,synthetic_template
+857,ee subject diya aisa hi hai,education,hindi,noun_phrase,neutral,synthetic_template
+858,ee exam diya normal hai,education,hindi,noun_phrase,neutral,synthetic_template
+859,"mera result bola, saadharana",education,hindi,tag,neutral,synthetic_template
+860,"yeh subject suna, thike ansutte",education,hindi,tag,neutral,synthetic_template
+861,"yeh exam suna, saadharana",education,hindi,tag,neutral,synthetic_template
+862,"college ki class diya, usual",education,hindi,tag,neutral,synthetic_template
+863,"yeh exam kiya, usual",education,hindi,tag,neutral,synthetic_template
+864,"yeh exam diya, saadharana",education,hindi,tag,neutral,synthetic_template
+865,chali madidru chennagide acha,weather,kannada,discourse_marker,positive,synthetic_template
+866,male helidru olleyadu kya baat hai,weather,kannada,discourse_marker,positive,synthetic_template
+867,aaj vaathavarana hogidru chennagide bilkul,weather,kannada,discourse_marker,positive,synthetic_template
+868,male kotru khushi aagide arre,weather,kannada,discourse_marker,positive,synthetic_template
+869,aaj vaathavarana hogidru khushi aagide yaar,weather,kannada,discourse_marker,positive,synthetic_template
+870,ee weather kotru sundara bas,weather,kannada,discourse_marker,positive,synthetic_template
+871,ee weather kotru isliye aaj ka mausam khush hoon,weather,kannada,connector,positive,synthetic_template
+872,chali banda isliye sardi zabardast,weather,kannada,connector,positive,synthetic_template
+873,male madidru phir bhi sardi badhiya,weather,kannada,connector,positive,synthetic_template
+874,ee weather kotru phir bhi sardi khush hoon,weather,kannada,connector,positive,synthetic_template
+875,chali madidru isliye sardi zabardast,weather,kannada,connector,positive,synthetic_template
+876,aaj vaathavarana banda aur aaj ka mausam zabardast,weather,kannada,connector,positive,synthetic_template
+877,sardi nodidru khushi aagide,weather,kannada,noun_phrase,positive,synthetic_template
+878,yeh mausam hogidru khushi aagide,weather,kannada,noun_phrase,positive,synthetic_template
+879,aaj ka mausam hogidru chennagide,weather,kannada,noun_phrase,positive,synthetic_template
+880,aaj ka mausam kotru khushi aagide,weather,kannada,noun_phrase,positive,synthetic_template
+881,yeh mausam madidru olleyadu,weather,kannada,noun_phrase,positive,synthetic_template
+882,sardi madidru chennagide,weather,kannada,noun_phrase,positive,synthetic_template
+883,"chali banda, achha hai",weather,kannada,tag,positive,synthetic_template
+884,"ee weather hogidru, zabardast",weather,kannada,tag,positive,synthetic_template
+885,"male kelidru, khush hoon",weather,kannada,tag,positive,synthetic_template
+886,"ee weather banda, badhiya",weather,kannada,tag,positive,synthetic_template
+887,"ee weather nodidru, achha hai",weather,kannada,tag,positive,synthetic_template
+888,"aaj vaathavarana hogidru, khush hoon",weather,kannada,tag,positive,synthetic_template
+889,aaj vaathavarana hogidru waste acha,weather,kannada,discourse_marker,negative,synthetic_template
+890,chali madidru sariyagilla sach mein,weather,kannada,discourse_marker,negative,synthetic_template
+891,aaj vaathavarana kelidru ganda aagide bas,weather,kannada,discourse_marker,negative,synthetic_template
+892,chali kotru kashta aagide yaar,weather,kannada,discourse_marker,negative,synthetic_template
+893,ee weather helidru kashta aagide bas,weather,kannada,discourse_marker,negative,synthetic_template
+894,chali kotru ganda aagide sach mein,weather,kannada,discourse_marker,negative,synthetic_template
+895,ee weather madidru lekin baarish bekaar,weather,kannada,connector,negative,synthetic_template
+896,ee weather hogidru aur yeh mausam kharab hai,weather,kannada,connector,negative,synthetic_template
+897,male nodidru isliye baarish problem hai,weather,kannada,connector,negative,synthetic_template
+898,aaj vaathavarana helidru phir bhi yeh mausam problem hai,weather,kannada,connector,negative,synthetic_template
+899,male nodidru kyunki yeh mausam kharab hai,weather,kannada,connector,negative,synthetic_template
+900,ee weather hogidru kyunki aaj ka mausam kharab hai,weather,kannada,connector,negative,synthetic_template
+901,baarish nodidru waste,weather,kannada,noun_phrase,negative,synthetic_template
+902,baarish banda sariyagilla,weather,kannada,noun_phrase,negative,synthetic_template
+903,yeh mausam hogidru ganda aagide,weather,kannada,noun_phrase,negative,synthetic_template
+904,aaj ka mausam hogidru waste,weather,kannada,noun_phrase,negative,synthetic_template
+905,yeh mausam helidru kashta aagide,weather,kannada,noun_phrase,negative,synthetic_template
+906,yeh mausam kelidru ganda aagide,weather,kannada,noun_phrase,negative,synthetic_template
+907,"chali helidru, problem hai",weather,kannada,tag,negative,synthetic_template
+908,"chali helidru, kharab hai",weather,kannada,tag,negative,synthetic_template
+909,"chali hogidru, problem hai",weather,kannada,tag,negative,synthetic_template
+910,"male madidru, kharab hai",weather,kannada,tag,negative,synthetic_template
+911,"aaj vaathavarana nodidru, bekaar",weather,kannada,tag,negative,synthetic_template
+912,"aaj vaathavarana hogidru, kharab hai",weather,kannada,tag,negative,synthetic_template
+913,male hogidru thike ansutte bas,weather,kannada,discourse_marker,neutral,synthetic_template
+914,ee weather kotru thike ansutte arre,weather,kannada,discourse_marker,neutral,synthetic_template
+915,ee weather nodidru thike ansutte bilkul,weather,kannada,discourse_marker,neutral,synthetic_template
+916,chali hogidru saadharana arre,weather,kannada,discourse_marker,neutral,synthetic_template
+917,ee weather kelidru saadharana acha,weather,kannada,discourse_marker,neutral,synthetic_template
+918,aaj vaathavarana kotru usual kya baat hai,weather,kannada,discourse_marker,neutral,synthetic_template
+919,aaj vaathavarana madidru phir bhi baarish theek thaak,weather,kannada,connector,neutral,synthetic_template
+920,chali banda lekin sardi aisa hi hai,weather,kannada,connector,neutral,synthetic_template
+921,ee weather helidru aur baarish aisa hi hai,weather,kannada,connector,neutral,synthetic_template
+922,chali helidru aur baarish aisa hi hai,weather,kannada,connector,neutral,synthetic_template
+923,male hogidru isliye baarish aisa hi hai,weather,kannada,connector,neutral,synthetic_template
+924,male madidru lekin baarish normal hai,weather,kannada,connector,neutral,synthetic_template
+925,yeh mausam hogidru usual,weather,kannada,noun_phrase,neutral,synthetic_template
+926,yeh mausam kelidru thike ansutte,weather,kannada,noun_phrase,neutral,synthetic_template
+927,baarish madidru usual,weather,kannada,noun_phrase,neutral,synthetic_template
+928,aaj ka mausam kelidru thike ansutte,weather,kannada,noun_phrase,neutral,synthetic_template
+929,yeh mausam helidru thike ansutte,weather,kannada,noun_phrase,neutral,synthetic_template
+930,sardi helidru saadharana,weather,kannada,noun_phrase,neutral,synthetic_template
+931,"chali kotru, aisa hi hai",weather,kannada,tag,neutral,synthetic_template
+932,"male nodidru, normal hai",weather,kannada,tag,neutral,synthetic_template
+933,"male hogidru, aisa hi hai",weather,kannada,tag,neutral,synthetic_template
+934,"ee weather kotru, theek thaak",weather,kannada,tag,neutral,synthetic_template
+935,"male kotru, theek thaak",weather,kannada,tag,neutral,synthetic_template
+936,"ee weather banda, aisa hi hai",weather,kannada,tag,neutral,synthetic_template
+937,yeh mausam suna badhiya maga,weather,hindi,discourse_marker,positive,synthetic_template
+938,baarish dekha khush hoon illa,weather,hindi,discourse_marker,positive,synthetic_template
+939,aaj ka mausam dekha badhiya illa,weather,hindi,discourse_marker,positive,synthetic_template
+940,sardi bola achha hai gothilla,weather,hindi,discourse_marker,positive,synthetic_template
+941,baarish kiya zabardast swalpa,weather,hindi,discourse_marker,positive,synthetic_template
+942,aaj ka mausam dekha khush hoon anisutte,weather,hindi,discourse_marker,positive,synthetic_template
+943,baarish dekha matte aaj vaathavarana chennagide,weather,hindi,connector,positive,synthetic_template
+944,baarish suna adre aaj vaathavarana chennagide,weather,hindi,connector,positive,synthetic_template
+945,aaj ka mausam gaya yaake andre aaj vaathavarana chennagide,weather,hindi,connector,positive,synthetic_template
+946,sardi gaya yaake andre ee weather chennagide,weather,hindi,connector,positive,synthetic_template
+947,aaj ka mausam kiya yaake andre male olleyadu,weather,hindi,connector,positive,synthetic_template
+948,yeh mausam suna adre male sundara,weather,hindi,connector,positive,synthetic_template
+949,aaj vaathavarana suna khush hoon,weather,hindi,noun_phrase,positive,synthetic_template
+950,aaj vaathavarana kiya khush hoon,weather,hindi,noun_phrase,positive,synthetic_template
+951,ee weather bola khush hoon,weather,hindi,noun_phrase,positive,synthetic_template
+952,chali bola khush hoon,weather,hindi,noun_phrase,positive,synthetic_template
+953,ee weather kiya badhiya,weather,hindi,noun_phrase,positive,synthetic_template
+954,aaj vaathavarana diya achha hai,weather,hindi,noun_phrase,positive,synthetic_template
+955,"aaj ka mausam suna, chennagide",weather,hindi,tag,positive,synthetic_template
+956,"sardi kiya, chennagide",weather,hindi,tag,positive,synthetic_template
+957,"yeh mausam dekha, khushi aagide",weather,hindi,tag,positive,synthetic_template
+958,"yeh mausam diya, khushi aagide",weather,hindi,tag,positive,synthetic_template
+959,"yeh mausam bola, chennagide",weather,hindi,tag,positive,synthetic_template
+960,"yeh mausam suna, chennagide",weather,hindi,tag,positive,synthetic_template
+961,baarish diya kharab hai anisutte,weather,hindi,discourse_marker,negative,synthetic_template
+962,sardi bola bekaar anisutte,weather,hindi,discourse_marker,negative,synthetic_template
+963,aaj ka mausam suna problem hai hoglaga,weather,hindi,discourse_marker,negative,synthetic_template
+964,baarish suna kharab hai guru,weather,hindi,discourse_marker,negative,synthetic_template
+965,aaj ka mausam dekha problem hai guru,weather,hindi,discourse_marker,negative,synthetic_template
+966,sardi dekha problem hai swalpa,weather,hindi,discourse_marker,negative,synthetic_template
+967,aaj ka mausam bola aadre aaj vaathavarana kashta aagide,weather,hindi,connector,negative,synthetic_template
+968,yeh mausam gaya adakke male waste,weather,hindi,connector,negative,synthetic_template
+969,sardi dekha aadre aaj vaathavarana waste,weather,hindi,connector,negative,synthetic_template
+970,aaj ka mausam diya aadre ee weather sariyagilla,weather,hindi,connector,negative,synthetic_template
+971,sardi kiya matte aaj vaathavarana kashta aagide,weather,hindi,connector,negative,synthetic_template
+972,yeh mausam aaya adre chali kashta aagide,weather,hindi,connector,negative,synthetic_template
+973,aaj vaathavarana dekha problem hai,weather,hindi,noun_phrase,negative,synthetic_template
+974,male gaya kharab hai,weather,hindi,noun_phrase,negative,synthetic_template
+975,chali kiya gadbad hai,weather,hindi,noun_phrase,negative,synthetic_template
+976,ee weather aaya bekaar,weather,hindi,noun_phrase,negative,synthetic_template
+977,male diya problem hai,weather,hindi,noun_phrase,negative,synthetic_template
+978,aaj vaathavarana kiya bekaar,weather,hindi,noun_phrase,negative,synthetic_template
+979,"sardi suna, ganda aagide",weather,hindi,tag,negative,synthetic_template
+980,"baarish dekha, kashta aagide",weather,hindi,tag,negative,synthetic_template
+981,"baarish suna, kashta aagide",weather,hindi,tag,negative,synthetic_template
+982,"aaj ka mausam gaya, sariyagilla",weather,hindi,tag,negative,synthetic_template
+983,"aaj ka mausam gaya, ganda aagide",weather,hindi,tag,negative,synthetic_template
+984,"sardi aaya, ganda aagide",weather,hindi,tag,negative,synthetic_template
+985,baarish diya normal hai anisutte,weather,hindi,discourse_marker,neutral,synthetic_template
+986,sardi diya normal hai anisutte,weather,hindi,discourse_marker,neutral,synthetic_template
+987,yeh mausam suna theek thaak gothilla,weather,hindi,discourse_marker,neutral,synthetic_template
+988,aaj ka mausam aaya theek thaak swalpa,weather,hindi,discourse_marker,neutral,synthetic_template
+989,sardi suna theek thaak swalpa,weather,hindi,discourse_marker,neutral,synthetic_template
+990,baarish bola aisa hi hai gothilla,weather,hindi,discourse_marker,neutral,synthetic_template
+991,sardi gaya adre ee weather usual,weather,hindi,connector,neutral,synthetic_template
+992,baarish diya aadre ee weather usual,weather,hindi,connector,neutral,synthetic_template
+993,aaj ka mausam diya aadre ee weather saadharana,weather,hindi,connector,neutral,synthetic_template
+994,sardi suna yaake andre aaj vaathavarana saadharana,weather,hindi,connector,neutral,synthetic_template
+995,aaj ka mausam kiya yaake andre chali usual,weather,hindi,connector,neutral,synthetic_template
+996,baarish kiya aadre ee weather saadharana,weather,hindi,connector,neutral,synthetic_template
+997,male dekha aisa hi hai,weather,hindi,noun_phrase,neutral,synthetic_template
+998,chali gaya aisa hi hai,weather,hindi,noun_phrase,neutral,synthetic_template
+999,male gaya normal hai,weather,hindi,noun_phrase,neutral,synthetic_template
+1000,aaj vaathavarana gaya theek thaak,weather,hindi,noun_phrase,neutral,synthetic_template
+1001,aaj vaathavarana diya aisa hi hai,weather,hindi,noun_phrase,neutral,synthetic_template
+1002,aaj vaathavarana bola theek thaak,weather,hindi,noun_phrase,neutral,synthetic_template
+1003,"yeh mausam diya, thike ansutte",weather,hindi,tag,neutral,synthetic_template
+1004,"sardi gaya, usual",weather,hindi,tag,neutral,synthetic_template
+1005,"baarish suna, usual",weather,hindi,tag,neutral,synthetic_template
+1006,"baarish kiya, usual",weather,hindi,tag,neutral,synthetic_template
+1007,"aaj ka mausam kiya, saadharana",weather,hindi,tag,neutral,synthetic_template
+1008,"baarish suna, thike ansutte",weather,hindi,tag,neutral,synthetic_template
+1009,doctor appointment hogidru sundara kya baat hai,health,kannada,discourse_marker,positive,synthetic_template
+1010,doctor appointment banda khushi aagide arre,health,kannada,discourse_marker,positive,synthetic_template
+1011,checkup banda khushi aagide arre,health,kannada,discourse_marker,positive,synthetic_template
+1012,aaspatre visit nodidru olleyadu yaar,health,kannada,discourse_marker,positive,synthetic_template
+1013,aaspatre visit helidru chennagide acha,health,kannada,discourse_marker,positive,synthetic_template
+1014,aaspatre visit nodidru khushi aagide bas,health,kannada,discourse_marker,positive,synthetic_template
+1015,doctor appointment hogidru lekin doctor ka appointment badhiya,health,kannada,connector,positive,synthetic_template
+1016,checkup banda phir bhi yeh dawai badhiya,health,kannada,connector,positive,synthetic_template
+1017,ee tablet banda lekin doctor ka appointment badhiya,health,kannada,connector,positive,synthetic_template
+1018,doctor appointment helidru phir bhi yeh dawai khush hoon,health,kannada,connector,positive,synthetic_template
+1019,ee tablet kelidru phir bhi yeh dawai achha hai,health,kannada,connector,positive,synthetic_template
+1020,aaspatre visit banda isliye doctor ka appointment zabardast,health,kannada,connector,positive,synthetic_template
+1021,doctor ka appointment banda chennagide,health,kannada,noun_phrase,positive,synthetic_template
+1022,doctor ka appointment nodidru sundara,health,kannada,noun_phrase,positive,synthetic_template
+1023,yeh dawai madidru khushi aagide,health,kannada,noun_phrase,positive,synthetic_template
+1024,yeh dawai hogidru sundara,health,kannada,noun_phrase,positive,synthetic_template
+1025,hospital ka visit banda chennagide,health,kannada,noun_phrase,positive,synthetic_template
+1026,doctor ka appointment kotru sundara,health,kannada,noun_phrase,positive,synthetic_template
+1027,"ee tablet madidru, zabardast",health,kannada,tag,positive,synthetic_template
+1028,"aaspatre visit banda, khush hoon",health,kannada,tag,positive,synthetic_template
+1029,"doctor appointment madidru, zabardast",health,kannada,tag,positive,synthetic_template
+1030,"ee tablet kelidru, khush hoon",health,kannada,tag,positive,synthetic_template
+1031,"ee tablet kotru, zabardast",health,kannada,tag,positive,synthetic_template
+1032,"checkup banda, badhiya",health,kannada,tag,positive,synthetic_template
+1033,checkup banda sariyagilla yaar,health,kannada,discourse_marker,negative,synthetic_template
+1034,doctor appointment helidru kashta aagide kya baat hai,health,kannada,discourse_marker,negative,synthetic_template
+1035,aaspatre visit nodidru waste chalo,health,kannada,discourse_marker,negative,synthetic_template
+1036,ee tablet hogidru waste yaar,health,kannada,discourse_marker,negative,synthetic_template
+1037,doctor appointment nodidru waste bas,health,kannada,discourse_marker,negative,synthetic_template
+1038,aaspatre visit kelidru kashta aagide arre,health,kannada,discourse_marker,negative,synthetic_template
+1039,checkup hogidru isliye hospital ka visit bekaar,health,kannada,connector,negative,synthetic_template
+1040,checkup hogidru kyunki hospital ka visit gadbad hai,health,kannada,connector,negative,synthetic_template
+1041,ee tablet banda isliye yeh dawai gadbad hai,health,kannada,connector,negative,synthetic_template
+1042,aaspatre visit nodidru aur checkup problem hai,health,kannada,connector,negative,synthetic_template
+1043,aaspatre visit banda lekin yeh dawai bekaar,health,kannada,connector,negative,synthetic_template
+1044,doctor appointment helidru aur yeh dawai gadbad hai,health,kannada,connector,negative,synthetic_template
+1045,doctor ka appointment helidru kashta aagide,health,kannada,noun_phrase,negative,synthetic_template
+1046,hospital ka visit kotru kashta aagide,health,kannada,noun_phrase,negative,synthetic_template
+1047,hospital ka visit banda kashta aagide,health,kannada,noun_phrase,negative,synthetic_template
+1048,doctor ka appointment kotru sariyagilla,health,kannada,noun_phrase,negative,synthetic_template
+1049,checkup nodidru kashta aagide,health,kannada,noun_phrase,negative,synthetic_template
+1050,hospital ka visit banda waste,health,kannada,noun_phrase,negative,synthetic_template
+1051,"ee tablet kelidru, gadbad hai",health,kannada,tag,negative,synthetic_template
+1052,"doctor appointment kotru, gadbad hai",health,kannada,tag,negative,synthetic_template
+1053,"aaspatre visit nodidru, bekaar",health,kannada,tag,negative,synthetic_template
+1054,"ee tablet helidru, kharab hai",health,kannada,tag,negative,synthetic_template
+1055,"aaspatre visit banda, bekaar",health,kannada,tag,negative,synthetic_template
+1056,"aaspatre visit helidru, bekaar",health,kannada,tag,negative,synthetic_template
+1057,doctor appointment nodidru usual chalo,health,kannada,discourse_marker,neutral,synthetic_template
+1058,aaspatre visit nodidru saadharana chalo,health,kannada,discourse_marker,neutral,synthetic_template
+1059,doctor appointment madidru thike ansutte chalo,health,kannada,discourse_marker,neutral,synthetic_template
+1060,ee tablet helidru saadharana bilkul,health,kannada,discourse_marker,neutral,synthetic_template
+1061,checkup helidru usual sach mein,health,kannada,discourse_marker,neutral,synthetic_template
+1062,doctor appointment kotru thike ansutte acha,health,kannada,discourse_marker,neutral,synthetic_template
+1063,ee tablet hogidru lekin hospital ka visit normal hai,health,kannada,connector,neutral,synthetic_template
+1064,aaspatre visit kelidru aur checkup aisa hi hai,health,kannada,connector,neutral,synthetic_template
+1065,ee tablet banda isliye checkup theek thaak,health,kannada,connector,neutral,synthetic_template
+1066,aaspatre visit kelidru phir bhi hospital ka visit aisa hi hai,health,kannada,connector,neutral,synthetic_template
+1067,doctor appointment nodidru kyunki checkup theek thaak,health,kannada,connector,neutral,synthetic_template
+1068,doctor appointment helidru aur checkup normal hai,health,kannada,connector,neutral,synthetic_template
+1069,checkup helidru saadharana,health,kannada,noun_phrase,neutral,synthetic_template
+1070,yeh dawai helidru thike ansutte,health,kannada,noun_phrase,neutral,synthetic_template
+1071,checkup banda thike ansutte,health,kannada,noun_phrase,neutral,synthetic_template
+1072,checkup hogidru saadharana,health,kannada,noun_phrase,neutral,synthetic_template
+1073,checkup helidru usual,health,kannada,noun_phrase,neutral,synthetic_template
+1074,hospital ka visit banda saadharana,health,kannada,noun_phrase,neutral,synthetic_template
+1075,"aaspatre visit hogidru, aisa hi hai",health,kannada,tag,neutral,synthetic_template
+1076,"doctor appointment madidru, theek thaak",health,kannada,tag,neutral,synthetic_template
+1077,"checkup hogidru, normal hai",health,kannada,tag,neutral,synthetic_template
+1078,"checkup kelidru, normal hai",health,kannada,tag,neutral,synthetic_template
+1079,"checkup madidru, normal hai",health,kannada,tag,neutral,synthetic_template
+1080,"ee tablet helidru, aisa hi hai",health,kannada,tag,neutral,synthetic_template
+1081,yeh dawai aaya zabardast anisutte,health,hindi,discourse_marker,positive,synthetic_template
+1082,doctor ka appointment aaya khush hoon gothilla,health,hindi,discourse_marker,positive,synthetic_template
+1083,checkup suna achha hai guru,health,hindi,discourse_marker,positive,synthetic_template
+1084,yeh dawai aaya khush hoon gothilla,health,hindi,discourse_marker,positive,synthetic_template
+1085,hospital ka visit kiya zabardast swalpa,health,hindi,discourse_marker,positive,synthetic_template
+1086,doctor ka appointment aaya khush hoon anisutte,health,hindi,discourse_marker,positive,synthetic_template
+1087,doctor ka appointment kiya matte ee tablet khushi aagide,health,hindi,connector,positive,synthetic_template
+1088,hospital ka visit gaya matte checkup sundara,health,hindi,connector,positive,synthetic_template
+1089,doctor ka appointment diya adre aaspatre visit chennagide,health,hindi,connector,positive,synthetic_template
+1090,yeh dawai diya matte doctor appointment sundara,health,hindi,connector,positive,synthetic_template
+1091,checkup bola aadre ee tablet olleyadu,health,hindi,connector,positive,synthetic_template
+1092,hospital ka visit diya matte aaspatre visit khushi aagide,health,hindi,connector,positive,synthetic_template
+1093,checkup suna achha hai,health,hindi,noun_phrase,positive,synthetic_template
+1094,aaspatre visit kiya badhiya,health,hindi,noun_phrase,positive,synthetic_template
+1095,checkup gaya khush hoon,health,hindi,noun_phrase,positive,synthetic_template
+1096,aaspatre visit aaya achha hai,health,hindi,noun_phrase,positive,synthetic_template
+1097,doctor appointment diya badhiya,health,hindi,noun_phrase,positive,synthetic_template
+1098,aaspatre visit aaya zabardast,health,hindi,noun_phrase,positive,synthetic_template
+1099,"hospital ka visit kiya, chennagide",health,hindi,tag,positive,synthetic_template
+1100,"doctor ka appointment aaya, khushi aagide",health,hindi,tag,positive,synthetic_template
+1101,"yeh dawai suna, chennagide",health,hindi,tag,positive,synthetic_template
+1102,"checkup bola, sundara",health,hindi,tag,positive,synthetic_template
+1103,"yeh dawai dekha, khushi aagide",health,hindi,tag,positive,synthetic_template
+1104,"hospital ka visit kiya, olleyadu",health,hindi,tag,positive,synthetic_template
+1105,doctor ka appointment dekha bekaar anisutte,health,hindi,discourse_marker,negative,synthetic_template
+1106,yeh dawai kiya kharab hai hoglaga,health,hindi,discourse_marker,negative,synthetic_template
+1107,yeh dawai bola gadbad hai swalpa,health,hindi,discourse_marker,negative,synthetic_template
+1108,hospital ka visit diya problem hai maga,health,hindi,discourse_marker,negative,synthetic_template
+1109,yeh dawai bola gadbad hai guru,health,hindi,discourse_marker,negative,synthetic_template
+1110,doctor ka appointment diya gadbad hai hoglaga,health,hindi,discourse_marker,negative,synthetic_template
+1111,yeh dawai suna aadre doctor appointment sariyagilla,health,hindi,connector,negative,synthetic_template
+1112,hospital ka visit aaya yaake andre ee tablet sariyagilla,health,hindi,connector,negative,synthetic_template
+1113,checkup kiya aadre checkup kashta aagide,health,hindi,connector,negative,synthetic_template
+1114,yeh dawai suna yaake andre ee tablet sariyagilla,health,hindi,connector,negative,synthetic_template
+1115,yeh dawai suna matte aaspatre visit ganda aagide,health,hindi,connector,negative,synthetic_template
+1116,doctor ka appointment dekha aadre checkup kashta aagide,health,hindi,connector,negative,synthetic_template
+1117,doctor appointment bola bekaar,health,hindi,noun_phrase,negative,synthetic_template
+1118,checkup kiya problem hai,health,hindi,noun_phrase,negative,synthetic_template
+1119,ee tablet kiya problem hai,health,hindi,noun_phrase,negative,synthetic_template
+1120,aaspatre visit gaya gadbad hai,health,hindi,noun_phrase,negative,synthetic_template
+1121,aaspatre visit gaya kharab hai,health,hindi,noun_phrase,negative,synthetic_template
+1122,doctor appointment kiya problem hai,health,hindi,noun_phrase,negative,synthetic_template
+1123,"doctor ka appointment aaya, kashta aagide",health,hindi,tag,negative,synthetic_template
+1124,"checkup kiya, ganda aagide",health,hindi,tag,negative,synthetic_template
+1125,"hospital ka visit suna, kashta aagide",health,hindi,tag,negative,synthetic_template
+1126,"checkup gaya, sariyagilla",health,hindi,tag,negative,synthetic_template
+1127,"hospital ka visit dekha, sariyagilla",health,hindi,tag,negative,synthetic_template
+1128,"checkup dekha, kashta aagide",health,hindi,tag,negative,synthetic_template
+1129,doctor ka appointment diya aisa hi hai illa,health,hindi,discourse_marker,neutral,synthetic_template
+1130,checkup diya theek thaak swalpa,health,hindi,discourse_marker,neutral,synthetic_template
+1131,yeh dawai diya theek thaak maga,health,hindi,discourse_marker,neutral,synthetic_template
+1132,doctor ka appointment dekha aisa hi hai yenappa,health,hindi,discourse_marker,neutral,synthetic_template
+1133,doctor ka appointment gaya theek thaak gothilla,health,hindi,discourse_marker,neutral,synthetic_template
+1134,doctor ka appointment suna aisa hi hai guru,health,hindi,discourse_marker,neutral,synthetic_template
+1135,hospital ka visit suna matte doctor appointment thike ansutte,health,hindi,connector,neutral,synthetic_template
+1136,doctor ka appointment gaya adakke doctor appointment usual,health,hindi,connector,neutral,synthetic_template
+1137,yeh dawai kiya yaake andre aaspatre visit saadharana,health,hindi,connector,neutral,synthetic_template
+1138,yeh dawai kiya aadre checkup saadharana,health,hindi,connector,neutral,synthetic_template
+1139,yeh dawai suna aadre checkup saadharana,health,hindi,connector,neutral,synthetic_template
+1140,hospital ka visit dekha aadre checkup saadharana,health,hindi,connector,neutral,synthetic_template
+1141,aaspatre visit kiya aisa hi hai,health,hindi,noun_phrase,neutral,synthetic_template
+1142,ee tablet kiya theek thaak,health,hindi,noun_phrase,neutral,synthetic_template
+1143,checkup kiya theek thaak,health,hindi,noun_phrase,neutral,synthetic_template
+1144,doctor appointment gaya aisa hi hai,health,hindi,noun_phrase,neutral,synthetic_template
+1145,checkup suna aisa hi hai,health,hindi,noun_phrase,neutral,synthetic_template
+1146,aaspatre visit suna normal hai,health,hindi,noun_phrase,neutral,synthetic_template
+1147,"checkup aaya, thike ansutte",health,hindi,tag,neutral,synthetic_template
+1148,"yeh dawai aaya, usual",health,hindi,tag,neutral,synthetic_template
+1149,"yeh dawai bola, usual",health,hindi,tag,neutral,synthetic_template
+1150,"checkup dekha, thike ansutte",health,hindi,tag,neutral,synthetic_template
+1151,"doctor ka appointment suna, saadharana",health,hindi,tag,neutral,synthetic_template
+1152,"doctor ka appointment dekha, thike ansutte",health,hindi,tag,neutral,synthetic_template
+1153,wifi connection madidru chennagide kya baat hai,technology,kannada,discourse_marker,positive,synthetic_template
+1154,ee phone app helidru sundara kya baat hai,technology,kannada,discourse_marker,positive,synthetic_template
+1155,wifi connection helidru khushi aagide kya baat hai,technology,kannada,discourse_marker,positive,synthetic_template
+1156,wifi connection banda chennagide yaar,technology,kannada,discourse_marker,positive,synthetic_template
+1157,laptop kelsa kelidru sundara chalo,technology,kannada,discourse_marker,positive,synthetic_template
+1158,internet speed kotru sundara chalo,technology,kannada,discourse_marker,positive,synthetic_template
+1159,wifi connection nodidru kyunki yeh phone ka app achha hai,technology,kannada,connector,positive,synthetic_template
+1160,internet speed hogidru kyunki wifi ka connection badhiya,technology,kannada,connector,positive,synthetic_template
+1161,laptop kelsa kotru aur internet ki speed achha hai,technology,kannada,connector,positive,synthetic_template
+1162,ee phone app kotru aur laptop ka kaam zabardast,technology,kannada,connector,positive,synthetic_template
+1163,ee phone app kelidru aur laptop ka kaam zabardast,technology,kannada,connector,positive,synthetic_template
+1164,laptop kelsa kotru kyunki yeh phone ka app achha hai,technology,kannada,connector,positive,synthetic_template
+1165,laptop ka kaam hogidru olleyadu,technology,kannada,noun_phrase,positive,synthetic_template
+1166,yeh phone ka app nodidru olleyadu,technology,kannada,noun_phrase,positive,synthetic_template
+1167,wifi ka connection nodidru khushi aagide,technology,kannada,noun_phrase,positive,synthetic_template
+1168,laptop ka kaam kotru khushi aagide,technology,kannada,noun_phrase,positive,synthetic_template
+1169,wifi ka connection banda khushi aagide,technology,kannada,noun_phrase,positive,synthetic_template
+1170,yeh phone ka app nodidru khushi aagide,technology,kannada,noun_phrase,positive,synthetic_template
+1171,"internet speed hogidru, badhiya",technology,kannada,tag,positive,synthetic_template
+1172,"ee phone app nodidru, achha hai",technology,kannada,tag,positive,synthetic_template
+1173,"wifi connection madidru, zabardast",technology,kannada,tag,positive,synthetic_template
+1174,"wifi connection helidru, badhiya",technology,kannada,tag,positive,synthetic_template
+1175,"wifi connection kotru, khush hoon",technology,kannada,tag,positive,synthetic_template
+1176,"ee phone app kotru, achha hai",technology,kannada,tag,positive,synthetic_template
+1177,laptop kelsa kotru kashta aagide bas,technology,kannada,discourse_marker,negative,synthetic_template
+1178,laptop kelsa helidru ganda aagide sach mein,technology,kannada,discourse_marker,negative,synthetic_template
+1179,laptop kelsa kotru kashta aagide sach mein,technology,kannada,discourse_marker,negative,synthetic_template
+1180,internet speed helidru waste bas,technology,kannada,discourse_marker,negative,synthetic_template
+1181,laptop kelsa banda ganda aagide sach mein,technology,kannada,discourse_marker,negative,synthetic_template
+1182,wifi connection banda ganda aagide arre,technology,kannada,discourse_marker,negative,synthetic_template
+1183,wifi connection nodidru aur laptop ka kaam kharab hai,technology,kannada,connector,negative,synthetic_template
+1184,internet speed kotru kyunki laptop ka kaam problem hai,technology,kannada,connector,negative,synthetic_template
+1185,internet speed kelidru lekin internet ki speed bekaar,technology,kannada,connector,negative,synthetic_template
+1186,ee phone app helidru lekin internet ki speed gadbad hai,technology,kannada,connector,negative,synthetic_template
+1187,internet speed madidru isliye internet ki speed gadbad hai,technology,kannada,connector,negative,synthetic_template
+1188,internet speed hogidru kyunki laptop ka kaam kharab hai,technology,kannada,connector,negative,synthetic_template
+1189,laptop ka kaam madidru sariyagilla,technology,kannada,noun_phrase,negative,synthetic_template
+1190,wifi ka connection nodidru sariyagilla,technology,kannada,noun_phrase,negative,synthetic_template
+1191,internet ki speed helidru ganda aagide,technology,kannada,noun_phrase,negative,synthetic_template
+1192,laptop ka kaam hogidru sariyagilla,technology,kannada,noun_phrase,negative,synthetic_template
+1193,yeh phone ka app helidru waste,technology,kannada,noun_phrase,negative,synthetic_template
+1194,yeh phone ka app kelidru sariyagilla,technology,kannada,noun_phrase,negative,synthetic_template
+1195,"laptop kelsa helidru, bekaar",technology,kannada,tag,negative,synthetic_template
+1196,"ee phone app nodidru, gadbad hai",technology,kannada,tag,negative,synthetic_template
+1197,"internet speed hogidru, kharab hai",technology,kannada,tag,negative,synthetic_template
+1198,"laptop kelsa nodidru, bekaar",technology,kannada,tag,negative,synthetic_template
+1199,"laptop kelsa madidru, kharab hai",technology,kannada,tag,negative,synthetic_template
+1200,"wifi connection hogidru, bekaar",technology,kannada,tag,negative,synthetic_template
+1201,wifi connection hogidru usual yaar,technology,kannada,discourse_marker,neutral,synthetic_template
+1202,internet speed nodidru saadharana yaar,technology,kannada,discourse_marker,neutral,synthetic_template
+1203,wifi connection nodidru saadharana bas,technology,kannada,discourse_marker,neutral,synthetic_template
+1204,laptop kelsa kotru thike ansutte chalo,technology,kannada,discourse_marker,neutral,synthetic_template
+1205,laptop kelsa banda thike ansutte bilkul,technology,kannada,discourse_marker,neutral,synthetic_template
+1206,internet speed hogidru saadharana acha,technology,kannada,discourse_marker,neutral,synthetic_template
+1207,internet speed hogidru aur internet ki speed normal hai,technology,kannada,connector,neutral,synthetic_template
+1208,ee phone app nodidru isliye laptop ka kaam normal hai,technology,kannada,connector,neutral,synthetic_template
+1209,wifi connection helidru phir bhi internet ki speed normal hai,technology,kannada,connector,neutral,synthetic_template
+1210,ee phone app helidru aur internet ki speed normal hai,technology,kannada,connector,neutral,synthetic_template
+1211,internet speed helidru aur laptop ka kaam theek thaak,technology,kannada,connector,neutral,synthetic_template
+1212,wifi connection hogidru isliye internet ki speed theek thaak,technology,kannada,connector,neutral,synthetic_template
+1213,wifi ka connection helidru usual,technology,kannada,noun_phrase,neutral,synthetic_template
+1214,internet ki speed kotru thike ansutte,technology,kannada,noun_phrase,neutral,synthetic_template
+1215,yeh phone ka app kelidru thike ansutte,technology,kannada,noun_phrase,neutral,synthetic_template
+1216,yeh phone ka app nodidru usual,technology,kannada,noun_phrase,neutral,synthetic_template
+1217,yeh phone ka app hogidru saadharana,technology,kannada,noun_phrase,neutral,synthetic_template
+1218,internet ki speed banda saadharana,technology,kannada,noun_phrase,neutral,synthetic_template
+1219,"laptop kelsa helidru, normal hai",technology,kannada,tag,neutral,synthetic_template
+1220,"internet speed kelidru, aisa hi hai",technology,kannada,tag,neutral,synthetic_template
+1221,"ee phone app kelidru, normal hai",technology,kannada,tag,neutral,synthetic_template
+1222,"wifi connection kelidru, aisa hi hai",technology,kannada,tag,neutral,synthetic_template
+1223,"wifi connection banda, theek thaak",technology,kannada,tag,neutral,synthetic_template
+1224,"wifi connection kotru, aisa hi hai",technology,kannada,tag,neutral,synthetic_template
+1225,wifi ka connection suna zabardast anisutte,technology,hindi,discourse_marker,positive,synthetic_template
+1226,laptop ka kaam diya zabardast yenappa,technology,hindi,discourse_marker,positive,synthetic_template
+1227,yeh phone ka app gaya zabardast gothilla,technology,hindi,discourse_marker,positive,synthetic_template
+1228,laptop ka kaam suna achha hai swalpa,technology,hindi,discourse_marker,positive,synthetic_template
+1229,yeh phone ka app diya badhiya hoglaga,technology,hindi,discourse_marker,positive,synthetic_template
+1230,yeh phone ka app kiya zabardast gothilla,technology,hindi,discourse_marker,positive,synthetic_template
+1231,internet ki speed gaya yaake andre internet speed khushi aagide,technology,hindi,connector,positive,synthetic_template
+1232,wifi ka connection kiya adre laptop kelsa olleyadu,technology,hindi,connector,positive,synthetic_template
+1233,wifi ka connection dekha matte ee phone app olleyadu,technology,hindi,connector,positive,synthetic_template
+1234,yeh phone ka app suna yaake andre wifi connection chennagide,technology,hindi,connector,positive,synthetic_template
+1235,wifi ka connection dekha matte wifi connection chennagide,technology,hindi,connector,positive,synthetic_template
+1236,wifi ka connection diya adakke wifi connection khushi aagide,technology,hindi,connector,positive,synthetic_template
+1237,laptop kelsa aaya achha hai,technology,hindi,noun_phrase,positive,synthetic_template
+1238,internet speed suna khush hoon,technology,hindi,noun_phrase,positive,synthetic_template
+1239,internet speed bola badhiya,technology,hindi,noun_phrase,positive,synthetic_template
+1240,ee phone app aaya zabardast,technology,hindi,noun_phrase,positive,synthetic_template
+1241,ee phone app kiya khush hoon,technology,hindi,noun_phrase,positive,synthetic_template
+1242,laptop kelsa aaya zabardast,technology,hindi,noun_phrase,positive,synthetic_template
+1243,"wifi ka connection dekha, chennagide",technology,hindi,tag,positive,synthetic_template
+1244,"yeh phone ka app bola, chennagide",technology,hindi,tag,positive,synthetic_template
+1245,"laptop ka kaam dekha, chennagide",technology,hindi,tag,positive,synthetic_template
+1246,"wifi ka connection aaya, sundara",technology,hindi,tag,positive,synthetic_template
+1247,"laptop ka kaam bola, chennagide",technology,hindi,tag,positive,synthetic_template
+1248,"yeh phone ka app kiya, khushi aagide",technology,hindi,tag,positive,synthetic_template
+1249,laptop ka kaam dekha kharab hai yenappa,technology,hindi,discourse_marker,negative,synthetic_template
+1250,laptop ka kaam kiya gadbad hai guru,technology,hindi,discourse_marker,negative,synthetic_template
+1251,wifi ka connection aaya bekaar anisutte,technology,hindi,discourse_marker,negative,synthetic_template
+1252,internet ki speed aaya bekaar hoglaga,technology,hindi,discourse_marker,negative,synthetic_template
+1253,yeh phone ka app kiya gadbad hai illa,technology,hindi,discourse_marker,negative,synthetic_template
+1254,internet ki speed kiya kharab hai illa,technology,hindi,discourse_marker,negative,synthetic_template
+1255,wifi ka connection suna adre wifi connection waste,technology,hindi,connector,negative,synthetic_template
+1256,yeh phone ka app bola aadre wifi connection waste,technology,hindi,connector,negative,synthetic_template
+1257,internet ki speed aaya aadre internet speed waste,technology,hindi,connector,negative,synthetic_template
+1258,wifi ka connection kiya matte laptop kelsa kashta aagide,technology,hindi,connector,negative,synthetic_template
+1259,internet ki speed suna adre internet speed ganda aagide,technology,hindi,connector,negative,synthetic_template
+1260,yeh phone ka app aaya matte laptop kelsa kashta aagide,technology,hindi,connector,negative,synthetic_template
+1261,internet speed dekha problem hai,technology,hindi,noun_phrase,negative,synthetic_template
+1262,internet speed bola problem hai,technology,hindi,noun_phrase,negative,synthetic_template
+1263,wifi connection aaya problem hai,technology,hindi,noun_phrase,negative,synthetic_template
+1264,ee phone app suna gadbad hai,technology,hindi,noun_phrase,negative,synthetic_template
+1265,laptop kelsa kiya problem hai,technology,hindi,noun_phrase,negative,synthetic_template
+1266,wifi connection dekha kharab hai,technology,hindi,noun_phrase,negative,synthetic_template
+1267,"internet ki speed gaya, sariyagilla",technology,hindi,tag,negative,synthetic_template
+1268,"internet ki speed bola, ganda aagide",technology,hindi,tag,negative,synthetic_template
+1269,"internet ki speed dekha, kashta aagide",technology,hindi,tag,negative,synthetic_template
+1270,"yeh phone ka app aaya, ganda aagide",technology,hindi,tag,negative,synthetic_template
+1271,"internet ki speed kiya, kashta aagide",technology,hindi,tag,negative,synthetic_template
+1272,"wifi ka connection suna, kashta aagide",technology,hindi,tag,negative,synthetic_template
+1273,laptop ka kaam gaya aisa hi hai anisutte,technology,hindi,discourse_marker,neutral,synthetic_template
+1274,yeh phone ka app bola normal hai swalpa,technology,hindi,discourse_marker,neutral,synthetic_template
+1275,wifi ka connection aaya normal hai yenappa,technology,hindi,discourse_marker,neutral,synthetic_template
+1276,internet ki speed gaya normal hai guru,technology,hindi,discourse_marker,neutral,synthetic_template
+1277,laptop ka kaam dekha normal hai swalpa,technology,hindi,discourse_marker,neutral,synthetic_template
+1278,yeh phone ka app kiya theek thaak swalpa,technology,hindi,discourse_marker,neutral,synthetic_template
+1279,yeh phone ka app aaya adre wifi connection saadharana,technology,hindi,connector,neutral,synthetic_template
+1280,laptop ka kaam dekha aadre wifi connection usual,technology,hindi,connector,neutral,synthetic_template
+1281,yeh phone ka app dekha adakke laptop kelsa usual,technology,hindi,connector,neutral,synthetic_template
+1282,laptop ka kaam diya aadre ee phone app thike ansutte,technology,hindi,connector,neutral,synthetic_template
+1283,wifi ka connection bola adre laptop kelsa saadharana,technology,hindi,connector,neutral,synthetic_template
+1284,yeh phone ka app dekha adre wifi connection usual,technology,hindi,connector,neutral,synthetic_template
+1285,ee phone app bola aisa hi hai,technology,hindi,noun_phrase,neutral,synthetic_template
+1286,wifi connection suna aisa hi hai,technology,hindi,noun_phrase,neutral,synthetic_template
+1287,internet speed bola normal hai,technology,hindi,noun_phrase,neutral,synthetic_template
+1288,wifi connection diya normal hai,technology,hindi,noun_phrase,neutral,synthetic_template
+1289,ee phone app gaya theek thaak,technology,hindi,noun_phrase,neutral,synthetic_template
+1290,laptop kelsa suna theek thaak,technology,hindi,noun_phrase,neutral,synthetic_template
+1291,"wifi ka connection dekha, saadharana",technology,hindi,tag,neutral,synthetic_template
+1292,"internet ki speed suna, usual",technology,hindi,tag,neutral,synthetic_template
+1293,"wifi ka connection dekha, usual",technology,hindi,tag,neutral,synthetic_template
+1294,"wifi ka connection kiya, usual",technology,hindi,tag,neutral,synthetic_template
+1295,"yeh phone ka app diya, usual",technology,hindi,tag,neutral,synthetic_template
+1296,"yeh phone ka app diya, thike ansutte",technology,hindi,tag,neutral,synthetic_template
+1297,ee song helidru olleyadu kya baat hai,entertainment,kannada,discourse_marker,positive,synthetic_template
+1298,TV serial nodidru khushi aagide bas,entertainment,kannada,discourse_marker,positive,synthetic_template
+1299,ee song hogidru khushi aagide acha,entertainment,kannada,discourse_marker,positive,synthetic_template
+1300,cricket match hogidru chennagide arre,entertainment,kannada,discourse_marker,positive,synthetic_template
+1301,ee song hogidru khushi aagide kya baat hai,entertainment,kannada,discourse_marker,positive,synthetic_template
+1302,ee sinima madidru sundara arre,entertainment,kannada,discourse_marker,positive,synthetic_template
+1303,ee sinima kotru lekin yeh gaana badhiya,entertainment,kannada,connector,positive,synthetic_template
+1304,ee song kotru kyunki cricket ka match badhiya,entertainment,kannada,connector,positive,synthetic_template
+1305,cricket match nodidru lekin yeh gaana achha hai,entertainment,kannada,connector,positive,synthetic_template
+1306,TV serial nodidru aur TV ka serial zabardast,entertainment,kannada,connector,positive,synthetic_template
+1307,TV serial nodidru isliye cricket ka match zabardast,entertainment,kannada,connector,positive,synthetic_template
+1308,ee song kotru phir bhi yeh movie achha hai,entertainment,kannada,connector,positive,synthetic_template
+1309,TV ka serial kelidru chennagide,entertainment,kannada,noun_phrase,positive,synthetic_template
+1310,yeh movie kotru chennagide,entertainment,kannada,noun_phrase,positive,synthetic_template
+1311,yeh gaana helidru khushi aagide,entertainment,kannada,noun_phrase,positive,synthetic_template
+1312,yeh gaana banda khushi aagide,entertainment,kannada,noun_phrase,positive,synthetic_template
+1313,cricket ka match hogidru sundara,entertainment,kannada,noun_phrase,positive,synthetic_template
+1314,TV ka serial hogidru khushi aagide,entertainment,kannada,noun_phrase,positive,synthetic_template
+1315,"ee sinima banda, zabardast",entertainment,kannada,tag,positive,synthetic_template
+1316,"TV serial helidru, khush hoon",entertainment,kannada,tag,positive,synthetic_template
+1317,"ee song helidru, achha hai",entertainment,kannada,tag,positive,synthetic_template
+1318,"ee song nodidru, badhiya",entertainment,kannada,tag,positive,synthetic_template
+1319,"TV serial nodidru, badhiya",entertainment,kannada,tag,positive,synthetic_template
+1320,"ee sinima banda, achha hai",entertainment,kannada,tag,positive,synthetic_template
+1321,cricket match helidru kashta aagide chalo,entertainment,kannada,discourse_marker,negative,synthetic_template
+1322,ee sinima banda ganda aagide arre,entertainment,kannada,discourse_marker,negative,synthetic_template
+1323,ee sinima hogidru sariyagilla acha,entertainment,kannada,discourse_marker,negative,synthetic_template
+1324,TV serial helidru sariyagilla arre,entertainment,kannada,discourse_marker,negative,synthetic_template
+1325,cricket match kelidru waste bilkul,entertainment,kannada,discourse_marker,negative,synthetic_template
+1326,TV serial madidru waste kya baat hai,entertainment,kannada,discourse_marker,negative,synthetic_template
+1327,cricket match hogidru kyunki TV ka serial gadbad hai,entertainment,kannada,connector,negative,synthetic_template
+1328,ee sinima kelidru isliye yeh gaana problem hai,entertainment,kannada,connector,negative,synthetic_template
+1329,TV serial hogidru aur cricket ka match bekaar,entertainment,kannada,connector,negative,synthetic_template
+1330,ee song madidru aur yeh movie kharab hai,entertainment,kannada,connector,negative,synthetic_template
+1331,ee sinima nodidru lekin cricket ka match problem hai,entertainment,kannada,connector,negative,synthetic_template
+1332,ee song hogidru lekin yeh movie problem hai,entertainment,kannada,connector,negative,synthetic_template
+1333,TV ka serial hogidru sariyagilla,entertainment,kannada,noun_phrase,negative,synthetic_template
+1334,TV ka serial nodidru ganda aagide,entertainment,kannada,noun_phrase,negative,synthetic_template
+1335,TV ka serial helidru kashta aagide,entertainment,kannada,noun_phrase,negative,synthetic_template
+1336,TV ka serial hogidru ganda aagide,entertainment,kannada,noun_phrase,negative,synthetic_template
+1337,yeh gaana kotru kashta aagide,entertainment,kannada,noun_phrase,negative,synthetic_template
+1338,yeh gaana nodidru kashta aagide,entertainment,kannada,noun_phrase,negative,synthetic_template
+1339,"ee song madidru, bekaar",entertainment,kannada,tag,negative,synthetic_template
+1340,"ee sinima madidru, kharab hai",entertainment,kannada,tag,negative,synthetic_template
+1341,"cricket match kelidru, bekaar",entertainment,kannada,tag,negative,synthetic_template
+1342,"TV serial madidru, gadbad hai",entertainment,kannada,tag,negative,synthetic_template
+1343,"cricket match nodidru, bekaar",entertainment,kannada,tag,negative,synthetic_template
+1344,"ee song madidru, problem hai",entertainment,kannada,tag,negative,synthetic_template
+1345,TV serial banda usual chalo,entertainment,kannada,discourse_marker,neutral,synthetic_template
+1346,cricket match helidru thike ansutte kya baat hai,entertainment,kannada,discourse_marker,neutral,synthetic_template
+1347,ee sinima banda thike ansutte bas,entertainment,kannada,discourse_marker,neutral,synthetic_template
+1348,ee song madidru thike ansutte bas,entertainment,kannada,discourse_marker,neutral,synthetic_template
+1349,ee song hogidru saadharana chalo,entertainment,kannada,discourse_marker,neutral,synthetic_template
+1350,ee sinima hogidru saadharana bilkul,entertainment,kannada,discourse_marker,neutral,synthetic_template
+1351,ee sinima banda isliye yeh movie theek thaak,entertainment,kannada,connector,neutral,synthetic_template
+1352,ee sinima hogidru lekin TV ka serial aisa hi hai,entertainment,kannada,connector,neutral,synthetic_template
+1353,TV serial madidru phir bhi cricket ka match theek thaak,entertainment,kannada,connector,neutral,synthetic_template
+1354,TV serial kelidru aur yeh movie aisa hi hai,entertainment,kannada,connector,neutral,synthetic_template
+1355,ee song helidru isliye yeh movie aisa hi hai,entertainment,kannada,connector,neutral,synthetic_template
+1356,ee song kelidru lekin cricket ka match aisa hi hai,entertainment,kannada,connector,neutral,synthetic_template
+1357,cricket ka match banda saadharana,entertainment,kannada,noun_phrase,neutral,synthetic_template
+1358,yeh gaana kotru thike ansutte,entertainment,kannada,noun_phrase,neutral,synthetic_template
+1359,yeh movie hogidru thike ansutte,entertainment,kannada,noun_phrase,neutral,synthetic_template
+1360,yeh movie madidru thike ansutte,entertainment,kannada,noun_phrase,neutral,synthetic_template
+1361,TV ka serial kelidru saadharana,entertainment,kannada,noun_phrase,neutral,synthetic_template
+1362,yeh movie hogidru saadharana,entertainment,kannada,noun_phrase,neutral,synthetic_template
+1363,"cricket match banda, aisa hi hai",entertainment,kannada,tag,neutral,synthetic_template
+1364,"cricket match kelidru, normal hai",entertainment,kannada,tag,neutral,synthetic_template
+1365,"ee song kotru, theek thaak",entertainment,kannada,tag,neutral,synthetic_template
+1366,"ee song nodidru, theek thaak",entertainment,kannada,tag,neutral,synthetic_template
+1367,"ee sinima nodidru, normal hai",entertainment,kannada,tag,neutral,synthetic_template
+1368,"TV serial kotru, aisa hi hai",entertainment,kannada,tag,neutral,synthetic_template
+1369,yeh movie bola zabardast gothilla,entertainment,hindi,discourse_marker,positive,synthetic_template
+1370,yeh movie dekha zabardast swalpa,entertainment,hindi,discourse_marker,positive,synthetic_template
+1371,cricket ka match suna achha hai yenappa,entertainment,hindi,discourse_marker,positive,synthetic_template
+1372,yeh gaana bola zabardast yenappa,entertainment,hindi,discourse_marker,positive,synthetic_template
+1373,yeh gaana bola achha hai illa,entertainment,hindi,discourse_marker,positive,synthetic_template
+1374,yeh movie suna achha hai yenappa,entertainment,hindi,discourse_marker,positive,synthetic_template
+1375,yeh gaana kiya yaake andre cricket match khushi aagide,entertainment,hindi,connector,positive,synthetic_template
+1376,TV ka serial kiya aadre ee sinima khushi aagide,entertainment,hindi,connector,positive,synthetic_template
+1377,yeh movie bola adakke ee sinima sundara,entertainment,hindi,connector,positive,synthetic_template
+1378,TV ka serial suna aadre cricket match olleyadu,entertainment,hindi,connector,positive,synthetic_template
+1379,yeh movie bola matte cricket match sundara,entertainment,hindi,connector,positive,synthetic_template
+1380,TV ka serial diya adre ee sinima khushi aagide,entertainment,hindi,connector,positive,synthetic_template
+1381,ee sinima aaya achha hai,entertainment,hindi,noun_phrase,positive,synthetic_template
+1382,ee sinima gaya badhiya,entertainment,hindi,noun_phrase,positive,synthetic_template
+1383,ee sinima dekha achha hai,entertainment,hindi,noun_phrase,positive,synthetic_template
+1384,TV serial suna khush hoon,entertainment,hindi,noun_phrase,positive,synthetic_template
+1385,TV serial gaya khush hoon,entertainment,hindi,noun_phrase,positive,synthetic_template
+1386,TV serial dekha zabardast,entertainment,hindi,noun_phrase,positive,synthetic_template
+1387,"yeh movie kiya, sundara",entertainment,hindi,tag,positive,synthetic_template
+1388,"TV ka serial diya, olleyadu",entertainment,hindi,tag,positive,synthetic_template
+1389,"yeh movie diya, khushi aagide",entertainment,hindi,tag,positive,synthetic_template
+1390,"TV ka serial suna, sundara",entertainment,hindi,tag,positive,synthetic_template
+1391,"yeh gaana dekha, chennagide",entertainment,hindi,tag,positive,synthetic_template
+1392,"yeh gaana aaya, khushi aagide",entertainment,hindi,tag,positive,synthetic_template
+1393,yeh gaana gaya problem hai hoglaga,entertainment,hindi,discourse_marker,negative,synthetic_template
+1394,cricket ka match dekha kharab hai illa,entertainment,hindi,discourse_marker,negative,synthetic_template
+1395,cricket ka match dekha bekaar maga,entertainment,hindi,discourse_marker,negative,synthetic_template
+1396,TV ka serial kiya problem hai gothilla,entertainment,hindi,discourse_marker,negative,synthetic_template
+1397,yeh gaana bola gadbad hai swalpa,entertainment,hindi,discourse_marker,negative,synthetic_template
+1398,yeh movie kiya gadbad hai swalpa,entertainment,hindi,discourse_marker,negative,synthetic_template
+1399,yeh movie gaya matte ee sinima waste,entertainment,hindi,connector,negative,synthetic_template
+1400,TV ka serial aaya matte TV serial waste,entertainment,hindi,connector,negative,synthetic_template
+1401,TV ka serial gaya aadre ee sinima ganda aagide,entertainment,hindi,connector,negative,synthetic_template
+1402,yeh movie aaya adakke ee song waste,entertainment,hindi,connector,negative,synthetic_template
+1403,TV ka serial gaya yaake andre ee sinima waste,entertainment,hindi,connector,negative,synthetic_template
+1404,TV ka serial dekha adakke TV serial waste,entertainment,hindi,connector,negative,synthetic_template
+1405,cricket match aaya gadbad hai,entertainment,hindi,noun_phrase,negative,synthetic_template
+1406,cricket match gaya bekaar,entertainment,hindi,noun_phrase,negative,synthetic_template
+1407,TV serial aaya kharab hai,entertainment,hindi,noun_phrase,negative,synthetic_template
+1408,TV serial kiya gadbad hai,entertainment,hindi,noun_phrase,negative,synthetic_template
+1409,cricket match diya kharab hai,entertainment,hindi,noun_phrase,negative,synthetic_template
+1410,ee sinima bola problem hai,entertainment,hindi,noun_phrase,negative,synthetic_template
+1411,"TV ka serial gaya, waste",entertainment,hindi,tag,negative,synthetic_template
+1412,"cricket ka match suna, waste",entertainment,hindi,tag,negative,synthetic_template
+1413,"cricket ka match gaya, ganda aagide",entertainment,hindi,tag,negative,synthetic_template
+1414,"yeh gaana kiya, kashta aagide",entertainment,hindi,tag,negative,synthetic_template
+1415,"yeh gaana dekha, sariyagilla",entertainment,hindi,tag,negative,synthetic_template
+1416,"cricket ka match bola, ganda aagide",entertainment,hindi,tag,negative,synthetic_template
+1417,yeh gaana diya theek thaak hoglaga,entertainment,hindi,discourse_marker,neutral,synthetic_template
+1418,yeh movie suna theek thaak swalpa,entertainment,hindi,discourse_marker,neutral,synthetic_template
+1419,yeh gaana kiya aisa hi hai hoglaga,entertainment,hindi,discourse_marker,neutral,synthetic_template
+1420,yeh movie kiya aisa hi hai gothilla,entertainment,hindi,discourse_marker,neutral,synthetic_template
+1421,yeh gaana diya theek thaak swalpa,entertainment,hindi,discourse_marker,neutral,synthetic_template
+1422,cricket ka match aaya normal hai illa,entertainment,hindi,discourse_marker,neutral,synthetic_template
+1423,TV ka serial bola matte ee sinima thike ansutte,entertainment,hindi,connector,neutral,synthetic_template
+1424,TV ka serial suna adre ee sinima saadharana,entertainment,hindi,connector,neutral,synthetic_template
+1425,cricket ka match suna matte ee sinima saadharana,entertainment,hindi,connector,neutral,synthetic_template
+1426,TV ka serial diya aadre TV serial thike ansutte,entertainment,hindi,connector,neutral,synthetic_template
+1427,yeh movie kiya adakke ee sinima thike ansutte,entertainment,hindi,connector,neutral,synthetic_template
+1428,yeh gaana kiya adakke cricket match thike ansutte,entertainment,hindi,connector,neutral,synthetic_template
+1429,cricket match dekha aisa hi hai,entertainment,hindi,noun_phrase,neutral,synthetic_template
+1430,ee song dekha aisa hi hai,entertainment,hindi,noun_phrase,neutral,synthetic_template
+1431,TV serial dekha aisa hi hai,entertainment,hindi,noun_phrase,neutral,synthetic_template
+1432,ee sinima diya aisa hi hai,entertainment,hindi,noun_phrase,neutral,synthetic_template
+1433,TV serial gaya theek thaak,entertainment,hindi,noun_phrase,neutral,synthetic_template
+1434,ee sinima suna theek thaak,entertainment,hindi,noun_phrase,neutral,synthetic_template
+1435,"yeh movie aaya, thike ansutte",entertainment,hindi,tag,neutral,synthetic_template
+1436,"yeh movie bola, saadharana",entertainment,hindi,tag,neutral,synthetic_template
+1437,"yeh movie dekha, usual",entertainment,hindi,tag,neutral,synthetic_template
+1438,"cricket ka match suna, saadharana",entertainment,hindi,tag,neutral,synthetic_template
+1439,"TV ka serial aaya, thike ansutte",entertainment,hindi,tag,neutral,synthetic_template
+1440,"TV ka serial kiya, saadharana",entertainment,hindi,tag,neutral,synthetic_template
